@@ -1,0 +1,484 @@
+@import url("http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,400italic,700,900");
+
+body{
+    background: white url("../images/overlay.png");
+    margin: 0;
+    padding: 0;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+#hidden, .hidden{
+    display: none;
+}
+
+h2{
+    color: #23383F;
+}
+
+.en-linea{
+    display: inline-block;
+    vertical-align: top;
+}
+
+.two-column{
+    width: 50%;
+    margin-right: -2px;
+}
+
+figure{
+    margin: 0;
+    padding: 0;
+}
+
+/*================================================
+HEADER
+================================================*/
+
+header{
+    background: url("../images/20110325_5924bwnnportada.jpg")  ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    margin: 0 0 -30px;
+    position: relative;
+    padding: 40px 0px 108px;
+    text-align: center;
+    width: 100%;
+}
+
+header img{
+   width:300px;
+}
+
+header h1 span{
+    display: block;
+    font-size: 18px;
+    padding: 10px;
+    opacity: 0.8;
+}
+
+header h1{
+    padding-top: 296px;
+}
+
+header nav{
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+nav li ul {
+    display: none;
+}
+
+nav > ul > li > ul {
+    position: absolute;
+    z-index: 1000;
+    top: 96px;
+    opacity: 1;
+    border-radius: 0.35em;
+    box-shadow: inset 0px 0px 1px 1px rgba(255, 255, 255, 0.25);
+    min-width: 12em;
+    text-align: left;
+    width: 210px;
+    margin: 0px;
+    margin-left: -20px;
+}
+
+
+nav > ul > li > ul >li {
+    padding: 0px;
+    width: 100%;
+}
+
+nav li:hover > ul {
+    display: block;
+}
+
+nav ul{
+    background-color: rgba(0, 0, 0, 0.59);
+    border: 1px solid rgba(255, 255, 255, 0.57);
+    border-radius: 0.35em;
+    box-shadow: inset 0px 0px 1px 1px rgba(255, 255, 255, 0.25);
+    margin: auto;
+    width: 50%;
+}
+
+header nav ul li{
+    display: inline-block;
+    padding: 0 15px 0 15px;
+}
+
+header nav ul li a{
+    display: block;
+    color: white;
+    cursor: pointer;
+    font-weight: 100;
+    font-size: 13px;
+    opacity: 0.6;
+    padding: 20px 0;
+    text-decoration: none;
+}
+
+header nav ul li a:hover{
+    opacity: 1;
+}
+
+@media only screen and (max-width: 800px) {
+    header nav ul li a{
+        display: none;
+    }
+}
+
+/*================================================
+MENU RESPONSIVE
+================================================*/
+
+#menu-responsive{
+    background: rgba(125, 119, 119, 0.72);
+    border: 1px solid black;
+    border-radius: 3px;
+    display: none;
+    height: 40px;
+    left: 5px;
+    position: fixed;
+    width: 50px;
+    top: 5px;
+    text-align: center;
+    z-index: 999;
+}
+
+#menu-responsive span{
+    background-color: black;
+    border-top: 1px solid white;
+    display: block;
+    margin: 5px auto;
+    width: 70%;
+
+}
+
+@media only screen and (max-width: 800px) {
+    #menu-responsive{
+        display: block;
+    }
+}
+
+/*================================================
+TITULOS
+================================================*/
+
+.titles{
+    margin: 30px ;
+    text-align: center;
+}
+
+.titles img{
+    display: inline-block;
+}
+
+.titles h2{
+    display: inline-block;
+    vertical-align: top;
+    padding: 4px 0 0;
+    font-size: 40px;
+}
+
+
+/*================================================
+CUERPO WRAPPER
+================================================*/
+
+#wrapper{
+    background: white url("../images/overlay.png");
+    position: relative;
+    padding: 150px;
+    text-align: center;
+}
+
+#wrapper .title{
+    background: white url("../images/overlay.png");
+    left: 50%;
+    letter-spacing: 0.25em;
+    line-height: 3.25em;
+    margin-bottom: -3.25em;
+    margin-left: -12.5em;
+    position: absolute;
+    padding-top: 0.5em;
+    top: -40px;
+    text-transform: uppercase;
+    text-align: center;
+    width: 25em;
+}
+
+#wrapper figure{
+    margin: 0 ;
+}
+
+.textos-conocenos p:nth-last-of-type(1) {
+    width: 41%;
+    margin: 30px auto;
+    text-align: justify;
+    line-height: 1.5em;
+    letter-spacing: 0.075em;
+    color: #83878C;
+}
+
+.textos-conocenos p:nth-last-of-type(2){
+
+    font-size: 27px;    color: #484d55;
+    width: 44%;
+    margin: 35px auto;
+    font-weight: bold;
+}
+
+/*================================================
+NOSOTROS
+================================================*/
+
+#wrapper-nosotros{
+
+    margin: 50px auto;
+    position: relative;
+    width: 1024px;
+}
+
+#wrapper-nosotros .title{
+    background: white url("../images/overlay.png");
+    left: 50%;
+    letter-spacing: 0.25em;
+    line-height: 3.25em;
+    margin-bottom: -3.25em;
+    margin-left: -12.5em;
+    position: absolute;
+    padding-top: 0.5em;
+    top: -60px;
+    text-transform: uppercase;
+    text-align: center;
+    width: 25em;
+}
+
+.nosotros-historia{
+    margin: 20px 0;
+}
+
+.nosotros-historia figure{
+    height: 300px;
+    margin-top: 38px;
+}
+
+.nosotros-historia figure img{
+    background: #002828;
+    height: 300px;
+    width: 90%;
+}
+
+.banner-nosotros{
+    background: #002828;
+    height: 300px;
+    width: 100%;
+}
+
+
+.nosotros-biografia article{
+    width: 70%;
+}
+
+.nosotros-biografia figure{
+    height: 500px;
+    width: 25%;
+    padding-top: 67px;
+}
+
+.nosotros-biografia figure img{
+    background: #002828;
+    height: 500px;
+    width: 100%;
+}
+
+/*================================================
+ARTICULOS
+================================================*/
+
+article{
+    margin: 30px 0;
+}
+
+article h3{
+    font-size: 27px;    color: #484d55;
+    margin: 35px auto;
+    font-weight: bold;
+
+}
+
+article p{
+    margin: 30px auto;
+    text-align: justify;
+    line-height: 1.5em;
+    color: #83878C;
+    width: 90%;
+}
+
+
+/*================================================
+Contacto
+================================================*/
+
+.form-contacto{
+    background: rgba(255, 255, 255, 0.73);
+    border: 1px solid rgba(0, 0, 0, 0.35);
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px 2px rgba(0, 0, 0, 0.62);
+    margin: 25% auto;
+    padding: 20px;
+    position: relative;
+    text-align: center;
+    width: 50%;
+}
+
+.form-contacto p{
+    color:rgba(0, 0, 0, 0.62);
+    font-weight: 100;
+}
+
+.contacto-title{
+    color: rgba(0, 0, 0, 0.61)!important;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.img-contacto{
+    margin: 0;
+    padding: 0;
+    position: absolute;
+}
+
+.img-contacto img{
+    width: 100%;
+}
+
+/*================================================
+INTO WRAPPER
+================================================*/
+
+.wrapper{
+    background: #3B8686 url("../images/overlay.png");
+    color: white;
+    position: relative;
+}
+
+.wrapper .title{
+    background: #3B8686 url("../images/overlay.png");
+    left: 50%;
+    letter-spacing: 0.25em;
+    line-height: 3.25em;
+    margin-bottom: -3.25em;
+    margin-left: -12.5em;
+    position: absolute;
+    padding-top: 0.5em;
+    top: -40px;
+    text-transform: uppercase;
+    text-align: center;
+    width: 25em;
+}
+
+.title:before{
+    content: '';
+    position: absolute;
+    bottom: -18px;
+    left: -35px;
+    width: 35px;
+    height: 38px;
+    background: url("../images/shadow.png");
+}
+
+.title:after{
+    transform: scaleX(-1);
+    content: '';
+    position: absolute;
+    bottom: -18px;
+    right: -35px;
+    width: 35px;
+    height: 38px;
+    background: url("../images/shadow.png");
+}
+
+#intro{
+    padding: 100px;
+}
+
+.texto-intro{
+    color: rgba(255, 255, 255, 0.75);
+    display: block;
+    font-size: 30px;
+    text-align: center;
+    width: 100%;
+}
+
+.texto-intro2{
+    border: 1px solid rgba(255, 255, 255, 0.33);
+    border-radius: 20px;
+    font-weight: bold;
+    font-size: 70px;
+    margin: 70px auto;
+    padding: 40px 50px;
+    text-align: center;
+    width: 65%;
+}
+
+/*================================================
+FOOTER
+================================================*/
+
+footer{
+    background: #282b34 url("../images/overlay.png");
+    color: #e97770;
+    height: 200px;
+    padding: 50px;
+    position: relative;
+}
+
+footer .title{
+    background: #282b34 url("../images/overlay.png");
+    left: 50%;
+    letter-spacing: 0.25em;
+    line-height: 3.25em;
+    margin-bottom: -3.25em;
+    margin-left: -12.5em;
+    position: absolute;
+    padding-top: 0.5em;
+    top: -40px;
+    text-transform: uppercase;
+    text-align: center;
+    width: 25em;
+}
+
+footer > ul{
+    width: 80%;
+    margin:30px auto;
+    text-align: center;
+}
+
+footer > ul > li{
+    display: inline-block;
+    margin: 30px;
+    vertical-align: top;
+}
+
+footer a{
+    color: #e97770;
+    text-decoration: none;
+}
+
+footer a:hover{
+    color: white;
+}
+
+footer > ul >li ul{
+    font-size: 12px;
+    margin-top: 10px;
+    padding: 0;
+    text-align: justify;
+}
+
+footer > ul > li  ul  li{
+    list-style: none;
+}
