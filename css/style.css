@@ -199,6 +199,7 @@ CUERPO WRAPPER
     left: 50%;
     letter-spacing: 0.25em;
     line-height: 3.25em;
+    font-weight: bold;
     margin-bottom: -3.25em;
     margin-left: -12.5em;
     position: absolute;
@@ -246,6 +247,7 @@ NOSOTROS
     left: 50%;
     letter-spacing: 0.25em;
     line-height: 3.25em;
+    font-weight: bold;
     margin-bottom: -3.25em;
     margin-left: -12.5em;
     position: absolute;
@@ -332,6 +334,7 @@ Contacto
     left: 50%;
     letter-spacing: 0.25em;
     line-height: 3.25em;
+    font-weight: bold;
     margin-bottom: -3.25em;
     margin-left: -12.5em;
     position: absolute;
@@ -454,6 +457,7 @@ INTO WRAPPER
     left: 50%;
     letter-spacing: 0.25em;
     line-height: 3.25em;
+    font-weight: bold;
     margin-bottom: -3.25em;
     margin-left: -12.5em;
     position: absolute;
@@ -582,6 +586,7 @@ SERVICIOS DE BANCA
     left: 50%;
     letter-spacing: 0.25em;
     line-height: 3.25em;
+    font-weight: bold;
     margin-bottom: -3.25em;
     margin-left: -12.5em;
     position: absolute;
@@ -632,3 +637,38 @@ SERVICIOS DE BANCA
     width: 80%;
 }
 
+/*================================================
+RESPONSIVE
+================================================*/
+
+@media all and (min-width:1160px) and (max-width: 1375px){
+
+    nav ul{
+        width: 66%;
+    }
+}
+
+@media all and (min-width:1024px) and (max-width: 1159px){
+
+    nav ul{
+        width: 75%;
+    }
+}
+
+@media all and (min-width:800px) and (max-width: 1023px){
+
+    nav ul{
+        width: 90%;
+    }
+
+    header nav ul li{
+        padding: 0 10px 0 10px;
+    }
+}
+
+@media all and (min-width:0) and (max-width: 1024px){
+    .servicios-banca,#wrapper-contacto,#wrapper-nosotros{
+        width: 100%;
+    }
+
+}
