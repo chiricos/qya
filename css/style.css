@@ -41,7 +41,7 @@ header{
     color: white;
     margin: 0 0 -30px;
     position: relative;
-    padding: 40px 0px 108px;
+    padding: 40px 0px 50px;
     text-align: center;
     width: 100%;
 }
@@ -58,7 +58,7 @@ header h1 span{
 }
 
 header h1{
-    padding-top: 296px;
+    padding-top: 222px;
 }
 
 header nav{
