@@ -100,7 +100,7 @@ nav ul{
     border-radius: 0.35em;
     box-shadow: inset 0px 0px 1px 1px rgba(255, 255, 255, 0.25);
     margin: auto;
-    width: 50%;
+    width: 55%;
 }
 
 header nav ul li{
@@ -124,7 +124,7 @@ header nav ul li a:hover{
 }
 
 @media only screen and (max-width: 800px) {
-    header nav ul li a{
+    header nav ul{
         display: none;
     }
 }
@@ -321,38 +321,122 @@ article p{
 /*================================================
 Contacto
 ================================================*/
-
-.form-contacto{
-    background: rgba(255, 255, 255, 0.73);
-    border: 1px solid rgba(0, 0, 0, 0.35);
-    border-radius: 5px;
-    box-shadow: 0px 0px 10px 2px rgba(0, 0, 0, 0.62);
-    margin: 25% auto;
-    padding: 20px;
+#wrapper-contacto{
+    margin: 50px auto;
     position: relative;
+    width: 1024px;
+}
+
+#wrapper-contacto .title{
+    background: white url("../images/overlay.png");
+    left: 50%;
+    letter-spacing: 0.25em;
+    line-height: 3.25em;
+    margin-bottom: -3.25em;
+    margin-left: -12.5em;
+    position: absolute;
+    padding-top: 0.5em;
+    top: -60px;
+    text-transform: uppercase;
+    text-align: center;
+    width: 25em;
+}
+
+.contactenos{
+    margin: 30px auto 100px;
+    width: 100%;
+}
+
+.contactenos .img-contacto{
+    margin:  0;
+    position: relative;
+    width: 100%;
+}
+
+.contactenos .img-contacto img{
+    margin-top: 60px;
+    width: 100%;
+}
+
+.info-contacto{
+    background: white url("../images/overlay.png");
+    bottom: 4px;
+    position: absolute;
+    text-align: center;
+    width: 100%;
+}
+
+.text-contacto{
+    float: right;
     text-align: center;
     width: 50%;
 }
 
-.form-contacto p{
-    color:rgba(0, 0, 0, 0.62);
-    font-weight: 100;
+.contactenos .formulario{
+    background: white url("../images/overlay.png");
+    bottom: 60px;
+    left: 55px;
+    padding: 20px;
+    position: absolute;
+    width: 40%;
+    z-index: 99;
 }
 
-.contacto-title{
-    color: rgba(0, 0, 0, 0.61)!important;
-    font-size: 20px;
+.contactenos .formulario form{
+    width: 100%;
+}
+
+.contactenos .formulario form input,textarea{
+    border: 1px solid #2F4A4E;
+    border-radius: 6px;
+    width: 100%;
+}
+
+.contactenos .formulario form input{
+    height: 22px;
+}
+
+.contactenos .formulario form textarea{
+    height: 120px;
+}
+
+.contactenos .formulario p{
+    font-size: 27px;    color: #484d55;
+    margin: 35px auto;
     font-weight: bold;
 }
 
-.img-contacto{
-    margin: 0;
-    padding: 0;
-    position: absolute;
+.contactenos .formulario label{
+    display: block;
+    text-align: justify;
+    line-height: 1.5em;
+    color: #83878C;
+    margin: 10px 0;
+    width: 90%;
 }
 
-.img-contacto img{
-    width: 100%;
+.contactenos .formulario button{
+    background: none;
+    border: none;
+    font-size: 27px;    color: #484d55;
+    font-weight: bold;
+    float: right;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+.text-contacto .text-title{
+    font-size: 13px;
+    color: #484d55;
+    font-weight: bold;
+}
+
+.text-contacto .text-body{
+    line-height: 1.5em;
+    color: #83878C;
+    margin: 10px auto;
+    width: 80%;
+    font-size: 12px;
 }
 
 /*================================================
@@ -452,7 +536,7 @@ footer .title{
 }
 
 footer > ul{
-    width: 80%;
+    width: 90%;
     margin:30px auto;
     text-align: center;
 }
@@ -482,3 +566,69 @@ footer > ul >li ul{
 footer > ul > li  ul  li{
     list-style: none;
 }
+
+/*================================================
+SERVICIOS DE BANCA
+================================================*/
+
+#servicios-wrapper{
+    background: white url("../images/overlay.png");
+    position: relative;
+}
+
+#servicios-wrapper .title{
+    background: white url("../images/overlay.png");
+    color: black;
+    left: 50%;
+    letter-spacing: 0.25em;
+    line-height: 3.25em;
+    margin-bottom: -3.25em;
+    margin-left: -12.5em;
+    position: absolute;
+    padding-top: 0.5em;
+    top: -60px;
+    text-transform: uppercase;
+    text-align: center;
+    width: 25em;
+}
+
+.servicios-banca{
+    color: black;
+    margin: 50px auto ;
+    width: 1024px;
+}
+
+.servicios-banca section{
+    margin: 30px -2px;
+    text-align: center;
+}
+
+.servicios-banca > section > figure{
+    height: 200px;
+    margin: auto;
+    width: 60%;
+}
+
+.servicios-banca > section > figure > img{
+    background: green;
+    height: 200px;
+    margin: auto;
+    width: 100%;
+}
+
+.servicios-banca > section > h3{
+    color: #484d55;
+    font-size: 27px;
+    margin: 10px auto;
+
+}
+
+.servicios-banca > section > p{
+    margin: 10px auto;
+    text-align: justify;
+    line-height: 1.5em;
+    color: #83878C;
+    font-weight: bold;
+    width: 80%;
+}
+

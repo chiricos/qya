@@ -12,7 +12,7 @@
         <div class="title">Conócenos</div>
 
         <figure>
-            <img src="images/ojos.jpg" alt="">
+            <img style="width: 100%" src="images/ojos.jpg" alt="">
         </figure>
 
         <section class="textos-conocenos">

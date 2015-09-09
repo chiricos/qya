@@ -6,7 +6,7 @@
         </div>
         <div class="nosotros-historia">
             <figure class="en-linea two-column">
-                <img class="banner-nosotros" src="">
+                <img class="banner-nosotros" src="images/historia.jpg">
             </figure>
             <div class="en-linea two-column">
                 <article>
@@ -31,7 +31,7 @@
 
 
         <figure class="banner-nosotros">
-            <img  src="">
+            <img  src="images/lo%20que%20somos.jpg">
         </figure>
 
 
@@ -67,14 +67,14 @@
                 </li>
             </article>
             <figure class="en-linea two-column" style="margin-left: 22px">
-                <img  src="">
+                <img  src="images/dueno1.jpg">
             </figure>
         </div>
 
 
         <div class="nosotros-biografia">
             <figure class="en-linea " style="margin-right: 22px">
-                <img  src="">
+                <img  src="images/dueno2.jpg">
             </figure>
             <article class="en-linea two-column">
                 <h3>Federico Molina Soto</h3>
