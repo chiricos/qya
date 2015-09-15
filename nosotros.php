@@ -5,22 +5,7 @@
             QUIENES SOMOS
         </div>-->
         <h1>QUIENES SOMOS</h1>
-        <div class="page" style="height: 580px">
 
-            <div class="nosotros-historia">
-                <figure class="en-linea two-column">
-                    <img class="banner-nosotros" src="images/historia.jpg">
-                </figure>
-                <div class="en-linea two-column">
-                    <article>
-                        <h3>HISTORIA</h3>
-                        <p>Q & A DE INVERSIÓN ("Q & A") es una compañía fundada en enero de 2004 como una firma de banca de inversión que se dedica a la asesoría financiera a compañías en marcha y a la estructuración de proyectos. La experienca de los socios incluye los sectores agroindustria, energía, transporte y logística, industria, infraestuctrura, sector financiero, construcción y sector inmobiliario.</p>
-                    </article>
-                </div>
-
-
-            </div>
-        </div>
 
         <div class="page" >
             <article class="en-linea two-column" style="width: 45%;margin-right: 48px">
@@ -129,6 +114,22 @@
             </div>
 
 
+        </div>
+        <div class="page" >
+
+            <div class="nosotros-historia">
+                <figure class="en-linea two-column">
+                    <img class="banner-nosotros" src="images/historia.jpg">
+                </figure>
+                <div class="en-linea two-column">
+                    <article>
+                        <h3>HISTORIA</h3>
+                        <p>Q & A DE INVERSIÓN ("Q & A") es una compañía fundada en enero de 2004 como una firma de banca de inversión que se dedica a la asesoría financiera a compañías en marcha y a la estructuración de proyectos. La experienca de los socios incluye los sectores agroindustria, energía, transporte y logística, industria, infraestuctrura, sector financiero, construcción y sector inmobiliario.</p>
+                    </article>
+                </div>
+
+
+            </div>
         </div>
         <section class="page-number">
             <p class="one">1</p>

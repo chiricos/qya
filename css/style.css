@@ -1,7 +1,7 @@
 @import url("http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,400italic,700,900");
 
 body{
-    background: white url("../images/overlay.png");
+    background: white;
     height: 100%;
     margin: 0;
     padding: 0;
@@ -19,10 +19,19 @@ h1{
     text-align: center;
 }
 
+h2{
+    color: #484d55;
+    text-align: center;
+}
+
 h3{
     color: #484d55;
     font-size: 27px;
     margin: 10px auto;
+}
+
+p{
+    color: #83878C;
 }
 
 .en-linea{
@@ -290,7 +299,7 @@ CUERPO WRAPPER
 ================================================*/
 
 #wrapper{
-    background: white url("../images/overlay.png");
+    background: white ;
     margin: 55px auto;
     position: relative;
     text-align: center;
@@ -298,7 +307,7 @@ CUERPO WRAPPER
 }
 
 #wrapper .title{
-    background: white url("../images/overlay.png");
+    background: white ;
     left: 50%;
     letter-spacing: 0.25em;
     line-height: 3.25em;
@@ -343,14 +352,13 @@ NOSOTROS
 ================================================*/
 
 #wrapper-nosotros{
-    height: 718px;
-    margin: 50px auto;
+    margin: 5px auto;
     position: relative;
     width: 1024px;
 }
 
 #wrapper-nosotros .title{
-    background: white url("../images/overlay.png");
+    background: white ;
     left: 50%;
     letter-spacing: 0.25em;
     line-height: 3.25em;
@@ -437,7 +445,7 @@ Contacto
 }
 
 #wrapper-contacto .title{
-    background: white url("../images/overlay.png");
+    background: white;
     left: 50%;
     letter-spacing: 0.25em;
     line-height: 3.25em;
@@ -469,7 +477,7 @@ Contacto
 }
 
 .info-contacto{
-    background: white url("../images/overlay.png");
+    background: white ;
     bottom: 4px;
     position: absolute;
     text-align: center;
@@ -483,7 +491,7 @@ Contacto
 }
 
 .contactenos .formulario{
-    background: white url("../images/overlay.png");
+    background: white ;
     bottom: 60px;
     left: 55px;
     padding: 20px;
@@ -554,14 +562,14 @@ INTO WRAPPER
 ================================================*/
 
 .wrapper{
-    background: #3B8686 url("../images/overlay.png");
+    background: #3B8686 ;
     color: white;
     margin-top: 25px;
     position: relative;
 }
 
 .wrapper .title{
-    background: #3B8686 url("../images/overlay.png");
+    background: #3B8686 ;
     left: 50%;
     letter-spacing: 0.25em;
     line-height: 3.25em;
@@ -625,8 +633,8 @@ FOOTER
 ================================================*/
 
 footer{
-    background: #282b34 url("../images/overlay.png");
-    color: #e97770;
+    background: #282b34 ;
+    color:#E3B92A;
     width: 100%;
 }
 
@@ -644,7 +652,8 @@ footer > ul > li{
 }
 
 footer a{
-    color: #e97770;
+    color:#E3B92A;
+    float: left;
     text-decoration: none;
 }
 
@@ -668,12 +677,12 @@ SERVICIOS DE BANCA
 ================================================*/
 
 #servicios-wrapper{
-    background: white url("../images/overlay.png");
+    background: white;
     position: relative;
 }
 
 #servicios-wrapper .title{
-    background: white url("../images/overlay.png");
+    background: white ;
     color: black;
     left: 50%;
     letter-spacing: 0.25em;
@@ -731,7 +740,6 @@ PAGINACION
 ================================================*/
 
 .page{
-    height: 600px;
     margin: 0;
     padding: 0;
 }
@@ -743,7 +751,7 @@ PAGINACION
 .page-number p{
     cursor: pointer;
     display: inline-block;
-    padding: 40px 10px 10px;
+    padding: 5px 10px;
     vertical-align: top;
 }
 
@@ -756,17 +764,23 @@ CLIENTES
 ================================================*/
 
 #wrapper-financiacion{
-    margin: 85px auto;
+    margin: 5px auto;
     width: 1024px;
 }
 
 .clientes figure{
-    padding-top: 30px;
     text-align: center;
 }
 
+.clientes figure p{
+    display: none;
+}
+
+.clientes figure:hover > p{
+    display: block;
+}
+
 .clientes img{
-    -webkit-filter: grayscale(100%);
     width: 150px;
 }
 

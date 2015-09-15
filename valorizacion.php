@@ -10,6 +10,7 @@
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum vel ornare sapien. Aenean tincidunt vitae magna ac tristique. Cras malesuada laoreet lacus, suscipit viverra tellus tempor non. Integer nec sagittis metus. Proin at tempus dui. Vestibulum vitae metus et felis elementum pulvinar quis dictum risus. Fusce venenatis lacinia leo at fermentum.
             </p>
         </div>
+        <h2>Algunos de nuestros clientes</h2>
         <section class="page">
             <div class="clientes">
                 <figure class="en-linea four-column">
