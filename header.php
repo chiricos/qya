@@ -4,8 +4,10 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <title>Q&A</title>
+    <link rel="stylesheet" href="css/flexslider.css" type="text/css">
     <link rel="stylesheet" type="text/css" href="css/style.css">
     <script src="js/jquery-1.11.3.min.js"></script>
+    <script src="js/jquery.flexslider.js"></script>
     <script src="js/script.js"></script>
 </head>
 <body>

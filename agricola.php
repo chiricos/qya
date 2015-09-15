@@ -4,7 +4,17 @@
         <h1>AGRÍCOLA</h1>
         <div class="title-services">
             <figure>
-                <img src="images/secciones/14.jpg">
+                <div class="flexslider">
+                    <ul class="slides">
+                        <li>
+                            <img src="images/secciones/14.jpg" />
+                        </li>
+                        <li>
+                            <img src="images/secciones/14-1.jpg"/>
+                        </li>
+
+                    </ul>
+                </div>
             </figure>
             <p>
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum vel ornare sapien. Aenean tincidunt vitae magna ac tristique. Cras malesuada laoreet lacus, suscipit viverra tellus tempor non. Integer nec sagittis metus. Proin at tempus dui. Vestibulum vitae metus et felis elementum pulvinar quis dictum risus. Fusce venenatis lacinia leo at fermentum.
