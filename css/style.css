@@ -2,6 +2,7 @@
 
 body{
     background: white url("../images/overlay.png");
+    height: 100%;
     margin: 0;
     padding: 0;
     font-family: 'Source Sans Pro', sans-serif;
@@ -11,8 +12,17 @@ body{
     display: none;
 }
 
-h2{
-    color: #23383F;
+h1{
+    color: #484d55;
+    margin:60px auto 0;
+    font-weight: bold;
+    text-align: center;
+}
+
+h3{
+    color: #484d55;
+    font-size: 27px;
+    margin: 10px auto;
 }
 
 .en-linea{
@@ -23,6 +33,11 @@ h2{
 .two-column{
     width: 50%;
     margin-right: -2px;
+}
+
+.four-column{
+    width: 25%;
+    margin-right: -5px;
 }
 
 figure{
@@ -41,25 +56,11 @@ header{
     color: white;
     margin: 0 0 -30px;
     position: relative;
-    padding: 40px 0px 50px;
+    padding: 40px 0px 10px;
     text-align: center;
     width: 100%;
 }
 
-header img{
-   width:300px;
-}
-
-header h1 span{
-    display: block;
-    font-size: 18px;
-    padding: 10px;
-    opacity: 0.8;
-}
-
-header h1{
-    padding-top: 222px;
-}
 
 header nav{
     margin-bottom: 30px;
@@ -70,14 +71,25 @@ nav li ul {
     display: none;
 }
 
+.logo{
+}
+
+.logo img{
+    left: -40px;
+    position: relative;
+    top: 24px;
+    width: 165px;
+}
+
 nav > ul > li > ul {
     position: absolute;
     z-index: 1000;
-    top: 96px;
+    top: 112px;
     opacity: 1;
     border-radius: 0.35em;
     box-shadow: inset 0px 0px 1px 1px rgba(255, 255, 255, 0.25);
     min-width: 12em;
+    padding-left: 22px;
     text-align: left;
     width: 210px;
     margin: 0px;
@@ -86,6 +98,7 @@ nav > ul > li > ul {
 
 
 nav > ul > li > ul >li {
+    margin: -10px;
     padding: 0px;
     width: 100%;
 }
@@ -99,28 +112,31 @@ nav ul{
     border: 1px solid rgba(255, 255, 255, 0.57);
     border-radius: 0.35em;
     box-shadow: inset 0px 0px 1px 1px rgba(255, 255, 255, 0.25);
+    display: inline-block;
+    padding-left: 1px;
     margin: auto;
-    width: 55%;
+    width: 45%;
 }
 
 header nav ul li{
     display: inline-block;
-    padding: 0 15px 0 15px;
+    padding: 0 10px 0 10px;
+
 }
 
 header nav ul li a{
-    display: block;
     color: white;
     cursor: pointer;
+    display: block;
     font-weight: 100;
     font-size: 13px;
-    opacity: 0.6;
+    opacity: 1;
     padding: 20px 0;
     text-decoration: none;
 }
 
 header nav ul li a:hover{
-    opacity: 1;
+    color:#E3B92A;
 }
 
 @media only screen and (max-width: 800px) {
@@ -137,11 +153,12 @@ MENU RESPONSIVE
     background: rgba(125, 119, 119, 0.72);
     border: 1px solid black;
     border-radius: 3px;
+    cursor: pointer;
     display: none;
-    height: 40px;
+    height: 34px;
     left: 5px;
     position: fixed;
-    width: 50px;
+    width: 40px;
     top: 5px;
     text-align: center;
     z-index: 999;
@@ -161,6 +178,91 @@ MENU RESPONSIVE
         display: block;
     }
 }
+
+
+.menu-mobile{
+    background: rgb(0, 0, 0);
+    color: white;
+    left: 0;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    position: fixed;
+    text-align: center;
+    top: 0;
+    width: 100%;
+    z-index: 99999;
+    animation-name: example;
+    animation-duration: 1s;
+}
+
+.menu-mobile > ul{
+    margin: 0;
+    padding: 0;
+}
+
+.menu-mobile > ul > li > ul{
+    margin: 10px 0;
+    padding: 0;
+}
+
+.menu-mobile ul li{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.menu-mobile > ul > li{
+    border-bottom: 1px solid rgba(255, 255, 255, 0.14);
+    margin: 15px 0;
+}
+
+.menu-mobile > ul > li > a{
+    color: white;
+    font-size: 20px;
+}
+
+.menu-mobile a{
+    color: rgba(255, 255, 255, 0.73);
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+.close{
+    cursor: pointer;
+    display: block;
+    position: absolute;
+    right: 20px;
+    top: -5px;
+}
+
+.hidden-menu{
+    animation-name: ocultar;
+    animation-duration: 1s;
+}
+
+@keyframes ocultar {
+    0%   {
+        -webkit-transform: translateX(0%);transform: translateX(0%);
+    }
+    100% {
+        -webkit-transform: translateX(-100%);transform: translateX(-100%);
+        display: none;
+    }
+}
+
+
+@keyframes example {
+    0%   {
+         -webkit-transform: translateX(-100%);transform: translateX(-100%);
+    }
+    100% {
+        -webkit-transform: translateX(0%);transform: translateX(0%);
+    }
+}
+
 
 /*================================================
 TITULOS
@@ -189,9 +291,10 @@ CUERPO WRAPPER
 
 #wrapper{
     background: white url("../images/overlay.png");
+    margin: 55px auto;
     position: relative;
-    padding: 150px;
     text-align: center;
+    width: 1024px;
 }
 
 #wrapper .title{
@@ -214,8 +317,12 @@ CUERPO WRAPPER
     margin: 0 ;
 }
 
+.textos-conocenos{
+   margin-bottom: 65px;
+}
+
 .textos-conocenos p:nth-last-of-type(1) {
-    width: 41%;
+    width: 100%;
     margin: 30px auto;
     text-align: justify;
     line-height: 1.5em;
@@ -226,7 +333,7 @@ CUERPO WRAPPER
 .textos-conocenos p:nth-last-of-type(2){
 
     font-size: 27px;    color: #484d55;
-    width: 44%;
+    width: 100%;
     margin: 35px auto;
     font-weight: bold;
 }
@@ -236,7 +343,7 @@ NOSOTROS
 ================================================*/
 
 #wrapper-nosotros{
-
+    height: 718px;
     margin: 50px auto;
     position: relative;
     width: 1024px;
@@ -260,6 +367,7 @@ NOSOTROS
 
 .nosotros-historia{
     margin: 20px 0;
+    padding-top: 75px;
 }
 
 .nosotros-historia figure{
@@ -281,13 +389,13 @@ NOSOTROS
 
 
 .nosotros-biografia article{
-    width: 70%;
+    width: 72.7%;
 }
 
 .nosotros-biografia figure{
     height: 500px;
     width: 25%;
-    padding-top: 67px;
+    padding-top: 52px;
 }
 
 .nosotros-biografia figure img{
@@ -305,9 +413,8 @@ article{
 }
 
 article h3{
-    font-size: 27px;    color: #484d55;
-    margin: 35px auto;
-    font-weight: bold;
+    color: black;
+    font-weight: 100;
 
 }
 
@@ -316,7 +423,7 @@ article p{
     text-align: justify;
     line-height: 1.5em;
     color: #83878C;
-    width: 90%;
+    width: 100%;
 }
 
 
@@ -346,7 +453,7 @@ Contacto
 }
 
 .contactenos{
-    margin: 30px auto 100px;
+    margin:-30px auto;
     width: 100%;
 }
 
@@ -449,6 +556,7 @@ INTO WRAPPER
 .wrapper{
     background: #3B8686 url("../images/overlay.png");
     color: white;
+    margin-top: 25px;
     position: relative;
 }
 
@@ -490,7 +598,7 @@ INTO WRAPPER
 }
 
 #intro{
-    padding: 100px;
+    padding: 10px;
 }
 
 .texto-intro{
@@ -519,29 +627,13 @@ FOOTER
 footer{
     background: #282b34 url("../images/overlay.png");
     color: #e97770;
-    height: 200px;
-    padding: 50px;
-    position: relative;
+    width: 100%;
 }
 
-footer .title{
-    background: #282b34 url("../images/overlay.png");
-    left: 50%;
-    letter-spacing: 0.25em;
-    line-height: 3.25em;
-    margin-bottom: -3.25em;
-    margin-left: -12.5em;
-    position: absolute;
-    padding-top: 0.5em;
-    top: -40px;
-    text-transform: uppercase;
-    text-align: center;
-    width: 25em;
-}
 
 footer > ul{
     width: 90%;
-    margin:30px auto;
+    margin: auto;
     text-align: center;
 }
 
@@ -603,15 +695,19 @@ SERVICIOS DE BANCA
     width: 1024px;
 }
 
+.servicios-banca a{
+    text-decoration: none;
+}
+
 .servicios-banca section{
     margin: 30px -2px;
     text-align: center;
 }
 
 .servicios-banca > section > figure{
-    height: 200px;
+    height: 220px;
     margin: auto;
-    width: 60%;
+    width: 80%;
 }
 
 .servicios-banca > section > figure > img{
@@ -628,13 +724,125 @@ SERVICIOS DE BANCA
 
 }
 
-.servicios-banca > section > p{
-    margin: 10px auto;
-    text-align: justify;
+
+
+/*================================================
+PAGINACION
+================================================*/
+
+.page{
+    height: 600px;
+    margin: 0;
+    padding: 0;
+}
+
+.page-number{
+    text-align: end;
+}
+
+.page-number p{
+    cursor: pointer;
+    display: inline-block;
+    padding: 40px 10px 10px;
+    vertical-align: top;
+}
+
+.border-p{
+    border-bottom: 1px solid;
+}
+
+/*================================================
+CLIENTES
+================================================*/
+
+#wrapper-financiacion{
+    margin: 85px auto;
+    width: 1024px;
+}
+
+.clientes figure{
+    padding-top: 30px;
+    text-align: center;
+}
+
+.clientes img{
+    -webkit-filter: grayscale(100%);
+    width: 150px;
+}
+
+.clientes img:hover{
+    -webkit-filter: grayscale(0%);
+}
+
+.title-services{
+    margin-top: 30px;
+    text-align: center;
+}
+
+.title-services p{
+    margin: 30px auto;
     line-height: 1.5em;
     color: #83878C;
+    width: 100%;
+}
+
+
+
+.animation-pages {
+    -webkit-animation-duration: 2s;
+    animation-duration: 2s;
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both;
+    animation-name: both;
+}
+
+@-webkit-keyframes both {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+/*================================================
+EXPERIENCIAS
+================================================*/
+
+
+.experiencias{
+    margin: auto;
+    padding: 0;
+    width: 100%;
+}
+
+.experiencias ul{
+    display: inline-block;
+    margin-left: 0;
+    padding: 0;
+    vertical-align: top;
+    text-align: center;
+    width: 33%;
+}
+
+.experiencias ul li{
+    margin: 10px auto;
+    list-style: none;
+}
+
+.experiencias a:before{
+    text-align: center;
+}
+
+.experiencias a{
+    color: #484d55;
+    font-size: 20px;
     font-weight: bold;
-    width: 80%;
+    text-decoration: none;
+}
+
+.experiencias a:hover{
+    color:#E3B92A;
 }
 
 /*================================================
@@ -671,4 +879,70 @@ RESPONSIVE
         width: 100%;
     }
 
+    .logo img {
+        left: 0px;
+        margin-bottom: 30px;
+    }
+
+}
+
+
+@media all and (min-width:900px) and (max-width: 1024px){
+
+
+    footer > ul{
+        width: 100%;
+    }
+
+    footer > ul > li{
+        margin: 10px;
+    }
+}
+
+@media all and (min-width:0px) and (max-width: 650px){
+    footer > ul > li{
+        margin: 10px 0;
+        text-align: center;
+        width: 100%;
+
+    }
+
+    footer > ul > li ul li{
+        text-align: center;
+    }
+}
+
+@media all and (min-width:0px) and (max-width: 650px){
+    #wrapper-contacto{
+        position: inherit;
+    }
+
+    .contactenos{
+        margin: 0;
+    }
+
+    .contactenos .img-contacto{
+        display: none;
+    }
+
+    .contactenos .formulario{
+        position: inherit;
+        width: 90%;
+    }
+
+    .info-contacto{
+        position: inherit;
+        height: 160px;
+    }
+
+    footer > ul{
+        width: 100%;
+        padding: 0;
+    }
+}
+
+@media all and (min-width:0px) and (max-width: 400px){
+    .info-contacto{
+        height: 170px;
+    }
 }

@@ -1,43 +1,45 @@
 <?php include('header.php'); ?>
     <div id="servicios-wrapper" class="wrapper style1">
-        <div class="title">EXPERIENCIAS</div>
+        <h1>EXPERIENCIAS</h1>
 
         <div class="servicios-banca">
+
             <section class="en-linea two-column">
-                <figure>
-                    <img src="">
-                </figure>
-                <h3>Sector Real</h3>
-                <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum vel ornare sapien. Aenean tincidunt vitae magna ac tristique.
-                </p>
+                <a href="real.php">
+                    <figure>
+                        <img src="images/secciones/realbrown-coal-mining-111366_1280.jpg">
+                    </figure>
+                    <h3>Sector Real</h3>
+                </a>
+            </section>
+
+            <section class="en-linea two-column">
+                <a href="infraestructuras.php">
+                    <figure>
+                        <img src="images/secciones/infraestructura-suspension-bridge-828674_1280.jpg">
+                    </figure>
+                    <h3>Infraestructura</h3>
+                </a>
+
             </section>
             <section class="en-linea two-column">
-                <figure>
-                    <img src="">
-                </figure>
-                <h3>Infraestructura</h3>
-                <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum vel ornare sapien. Aenean tincidunt vitae magna ac tristique.
-                </p>
+                <a href="inmobiliaria.php">
+                    <figure>
+                        <img src="images/secciones/inmobiliaria-urban-205986_1280.jpg">
+                    </figure>
+                    <h3>Inmobiliaria</h3>
+                </a>
+
+
             </section>
             <section class="en-linea two-column">
-                <figure>
-                    <img src="">
-                </figure>
-                <h3>Inmobiliaria</h3>
-                <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum vel ornare sapien. Aenean tincidunt vitae magna ac tristique.
-                </p>
-            </section>
-            <section class="en-linea two-column">
-                <figure>
-                    <img src="">
-                </figure>
-                <h3>Agrícola</h3>
-                <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum vel ornare sapien. Aenean tincidunt vitae magna ac tristique.
-                </p>
+                <a href="agricola.php">
+                    <figure>
+                        <img src="images/secciones/agricola-farmer-880567_1280.jpg">
+                    </figure>
+                    <h3>Agrícola</h3>
+                </a>
+
             </section>
         </div>
 
