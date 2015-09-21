@@ -12,7 +12,7 @@
             <a class="a-one" href="mya.php"> M & A </a>
         </li>
         <li>
-            <a href="restructuracion.php">ESTRUCTURACIÓN</a>
+            <a href="infraestructura.php">ESTRUCTURACIÓN</a>
             <ul>
                 <li><a href="infraestructura.php">INFRAESTRUCTURA</a></li>
                 <li><a HREF="inmobiliaria.php">INMOBILIARIA</a></li>
