@@ -1,16 +1,16 @@
 <?php include('header.php'); ?>
 
     <div id="wrapper-financiacion">
-        <h1>VALORIZACIÓN</h1>
+        <h1>CRÉDITOS DE TESORERÍA</h1>
         <div class="title-services">
             <figure>
                 <div class="flexslider">
                     <ul class="slides">
                         <li>
-                            <img src="images/secciones/2.jpg" />
+                            <img src="images/secciones/1-1.jpg" />
                         </li>
                         <li>
-                            <img src="images/secciones/2-1.jpg"/>
+                            <img src="images/secciones/1.jpg"/>
                         </li>
 
                     </ul>
@@ -24,126 +24,102 @@
         <section class="page">
             <div class="clientes">
                 <figure class="en-linea four-column">
-                    <img src="images/mya/mya-1.png">
+                    <img src="images/financiacion/financiacion-1.png">
+                    <p>Crèdito Corporativo</p>
                 </figure>
 
                 <figure class="en-linea four-column">
-                    <img src="images/mya/mya-2.png">
+                    <img src="images/financiacion/financiacion-2.png">
+                    <p>Financiación Recompra Conseción Víal</p>
                 </figure>
 
                 <figure class="en-linea four-column">
-                    <img src="images/mya/mya-3.png">
+                    <img src="images/financiacion/financiacion-3.png">
+                    <p>Financiacion Centro Comercial</p>
                 </figure>
 
                 <figure class="en-linea four-column">
-                    <img src="images/mya/mya-4.png">
+                    <img src="images/financiacion/financiacion-4.png">
+                    <p>Estructruturación Centro comercial San Mateo</p>
                 </figure>
                 <figure class="en-linea four-column">
-                    <img src="images/mya/mya-5.png">
-                </figure>
-
-                <figure class="en-linea four-column">
-                    <img src="images/mya/mya-6.png">
+                    <img src="images/financiacion/financiacion-5.png">
+                    <p>Estructuración Project Finance</p>
                 </figure>
 
                 <figure class="en-linea four-column">
-                    <img src="images/mya/mya-7.png">
+                    <img src="images/financiacion/financiacion-6.png">
+                    <p>Financiación de centro de almacenaje y distribuición</p>
                 </figure>
 
                 <figure class="en-linea four-column">
-                    <img src="images/mya/mya-8.png">
-                </figure>
-                <figure class="en-linea four-column">
-                    <img src="images/mya/mya-9.png">
+                    <img src="images/financiacion/financiacion-7.png">
+                    <p>Estructuración Financiera</p>
                 </figure>
 
                 <figure class="en-linea four-column">
-                    <img src="images/mya/mya-10.png">
+                    <img src="images/financiacion/financiacion-8.png">
+                    <p>Crédito sindicado para la planta biodiésel</p>
+                </figure>
+                <figure class="en-linea four-column">
+                    <img src="images/financiacion/financiacion-9.png">
+                    <p>Crédito corporativo para compra de flota</p>
                 </figure>
 
                 <figure class="en-linea four-column">
-                    <img src="images/mya/mya-11.png">
+                    <img src="images/financiacion/financiacion-10.png">
+                    <p>Financiación de centro logístico</p>
                 </figure>
 
                 <figure class="en-linea four-column">
-                    <img src="images/mya/mya-12.png">
+                    <img src="images/financiacion/financiacion-11.png">
+                    <p>Crédito sindicado corporativo</p>
+                </figure>
+
+                <figure class="en-linea four-column">
+                    <img src="images/financiacion/financiacion-12.png">
+                    <p>Financiación Local</p>
                 </figure>
             </div>
         </section>
         <section class="page">
             <div class="clientes">
                 <figure class="en-linea four-column">
-                    <img src="images/mya/mya-13.png">
+                    <img src="images/financiacion/financiacion-13.png">
                 </figure>
 
                 <figure class="en-linea four-column">
-                    <img src="images/mya/mya-14.png">
+                    <img src="images/financiacion/financiacion-14.png">
                 </figure>
 
                 <figure class="en-linea four-column">
-                    <img src="images/mya/mya-15.png">
+                    <img src="images/financiacion/financiacion-15.png">
                 </figure>
 
                 <figure class="en-linea four-column">
-                    <img src="images/mya/mya-16.png">
+                    <img src="images/financiacion/financiacion-16.png">
                 </figure>
                 <figure class="en-linea four-column">
-                    <img src="images/mya/mya-17.png">
+                    <img src="images/financiacion/financiacion-17.png">
                 </figure>
 
                 <figure class="en-linea four-column">
-                    <img src="images/mya/mya-18.png">
+                    <img src="images/financiacion/financiacion-18.png">
                 </figure>
 
                 <figure class="en-linea four-column">
-                    <img src="images/mya/mya-19.png">
+                    <img src="images/financiacion/financiacion-19.png">
                 </figure>
 
                 <figure class="en-linea four-column">
-                    <img src="images/mya/mya-20.png">
+                    <img src="images/financiacion/financiacion-20.png">
                 </figure>
 
-                <figure class="en-linea four-column">
-                    <img src="images/mya/mya-21.png">
-                </figure>
-
-                <figure class="en-linea four-column">
-                    <img src="images/mya/mya-22.png">
-                </figure>
-
-                <figure class="en-linea four-column">
-                    <img src="images/mya/mya-23.png">
-                </figure>
-
-                <figure class="en-linea four-column">
-                    <img src="images/mya/mya-24.png">
-                </figure>
-
-            </div>
-        </section>
-        <section class="page">
-            <div class="clientes">
-                <figure class="en-linea four-column">
-                    <img src="images/mya/mya-25.png">
-                </figure>
-
-                <figure class="en-linea four-column">
-                    <img src="images/mya/mya-26.png">
-                </figure>
-
-                <figure class="en-linea four-column">
-                    <img src="images/mya/mya-27.png">
-                </figure>
-
-                <figure class="en-linea four-column">
-                    <img src="images/mya/mya-28.png">
-                </figure>
             </div>
         </section>
         <section class="page-number">
             <p class="one">1</p>
             <p class="two">2</p>
-            <p class="three">3</p>
         </section>
     </div>
 

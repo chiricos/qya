@@ -1,28 +1,42 @@
 <?php include('header.php'); ?>
-    <!--<div id="intro-wrapper" class="wrapper style1">
+    <div id="intro-wrapper" class="wrapper style1">
         <div class="title">Bienvenido</div>
-        <section id="intro" class="container">
-            <p class="texto-intro">¿Esta listo para hacer crecer su capital?</p>
-            <p class="texto-intro2">
-                Un nuevo mundo lo espera
-            </p>
-        </section>
-    </div>-->
+
+    </div>
     <div id="wrapper" class="animation-pages">
         <!--<div class="title">Conócenos</div>-->
-        <h1 style="color: #3B8686;padding: 65px 0;font-size: 50px">Un nuevo mundo lo espera</h1>
+        <h1 style="color: #3B8686;padding: 15px 0;font-size: 50px">Q&A BANCA DE INVERSIÓN</h1>
 
-        <figure>
-            <img style="width: 100%" src="images/ojos.jpg" alt="">
-        </figure>
+
 
         <section class="textos-conocenos" >
-            <p style="  ">Dicen que nadie cuida las cosas como uno mismo lo hace, Pero nosotros...</p>
-            <p style="   ">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum vel ornare sapien. Aenean tincidunt vitae magna ac tristique. Cras malesuada laoreet lacus, suscipit viverra tellus tempor non. Integer nec sagittis metus. Proin at tempus dui. Vestibulum vitae metus et felis elementum pulvinar quis dictum risus. Fusce venenatis lacinia leo at fermentum. Ut imperdiet metus magna, eget suscipit ante finibus non. Vestibulum congue metus ut semper feugiat.
-
-                Curabitur at tellus nunc. Maecenas dapibus imperdiet felis ac volutpat. Ut id ornare elit. Nulla ac justo eu lectus ultrices sagittis et id lorem. Praesent ultrices non lorem a viverra. Vestibulum malesuada, diam in cursus rutrum, sem leo dignissim augue, vel molestie velit lorem vitae justo.  </p>
+            <p style="  "></p>
+            <p><span style="color:black;">Q&A BANCA DE INVERSIÓN ("Q&A")</span> es una compañía fundada en enero de 2004 como una firma de banca de inversión que se dedica a la asesoría financiera para compañías en marcha y a la estructuración de proyectos a nivel nacional e internacional.
+                Sus principales servicios son: Procesos de compra venta y fusiones de compañias, valoración de empresas, financiación y optimización financiera de compañias en marcha, project finance o financiación de proyectos y titulizaciones entre otros.
+                La experienca de los socios incluye todos los sectores de la economia resaltando el sector inmobiliario e infraestructura .
+            </p>
         </section>
+        <figure>
+            <div class="flexslider">
+                <ul class="slides">
+                    <li>
+                        <img src="images/1.jpg" />
+                    </li>
+                    <li>
+                        <img src="images/3.jpg"/>
+                    </li>
+                    <li>
+                        <img src="images/4.jpg"/>
+                    </li>
+                </ul>
+            </div>
+        </figure>
+
+
+
+
+
+
     </div>
 
 

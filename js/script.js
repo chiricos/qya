@@ -1,5 +1,5 @@
 $(document).on('ready',function()
-{
+{/*
     $('.page').hide();
     $('.page').eq(0).show();
     $('.page').eq(0).addClass('animation-pages');
@@ -58,7 +58,7 @@ $(document).on('ready',function()
         $('.page').eq(5).addClass('animation-pages');
         $('.page-number p').removeClass('border-p');
         $(this).addClass('border-p');
-    });
+    });*/
 
     /*===============================
     * MENU RESPONSIVE
@@ -78,10 +78,7 @@ $(document).on('ready',function()
     $(window).load(function() {
         $('.flexslider').flexslider(
             {
-                controlNav: false,               //Boolean: Create navigation for paging control of each clide? Note: Leave true for manualControls usage
-                directionNav: true,             //Boolean: Create navigation for previous/next navigation? (true/false)
-                prevText: "Previous",           //String: Set the text for the "previous" directionNav item
-                nextText: "Next",
+
             });
     });
 });

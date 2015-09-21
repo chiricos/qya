@@ -9,6 +9,7 @@
     <script src="js/jquery-1.11.3.min.js"></script>
     <script src="js/jquery.flexslider.js"></script>
     <script src="js/script.js"></script>
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300' rel='stylesheet' type='text/css'>
 </head>
 <body>
 <div id="menu-responsive" >

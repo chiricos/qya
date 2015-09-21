@@ -1,12 +1,34 @@
 <?php include('header.php'); ?>
+    <div id="intro-wrapper" class="wrapper style1">
+        <div class="title">CLIENTES INTERNACIONALES</div>
 
+    </div>
     <div id="wrapper-financiacion">
-        <h1>CLIENTES INTERNACIONALES</h1>
 
         <section class="page">
             <div class="clientes">
+
                 <figure class="en-linea four-column">
-                    <img src="images/internacionales/internacionales-1.png">
+                    <img src="images/mya/mya-34.png">
+
+                </figure>
+
+                <figure class="en-linea four-column">
+                    <img src="images/internacionales/internacionales-11.png">
+                </figure>
+
+                <figure class="en-linea four-column">
+                    <img src="images/mya/mya-38.png">
+
+                </figure>
+
+                <figure class="en-linea four-column">
+                    <img src="images/financiacion/financiacion-22.png">
+
+                </figure>
+
+                <figure class="en-linea four-column">
+                    <img src="images/internacionales/repsol.png">
                 </figure>
 
                 <figure class="en-linea four-column">
@@ -44,8 +66,9 @@
                 </figure>
 
                 <figure class="en-linea four-column">
-                    <img src="images/internacionales/internacionales-11.png">
+                    <img src="images/infraestructura/infraestructura-11.png">
                 </figure>
+
 
             </div>
         </section>

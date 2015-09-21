@@ -1,21 +1,46 @@
 <?php include('header.php'); ?>
+    <div id="intro-wrapper" class="wrapper style1">
+        <div class="title">NOSOTROS</div>
 
-    <div id="wrapper-nosotros" >
-       <!-- <div class="title">
-            QUIENES SOMOS
-        </div>-->
-        <h1>QUIENES SOMOS</h1>
+    </div>
+    <div id="wrapper" class="animation-pages">
+        <!--<div class="title">Conócenos</div>-->
+        <h1 style="color: #3B8686;padding: 15px 0;font-size: 50px">Q&A BANCA DE INVERSIÓN</h1>
 
+
+
+        <section class="textos-conocenos" >
+            <p style="  "></p>
+            <p><span style="color:black;">Q&A BANCA DE INVERSIÓN ("Q&A")</span> es una compañía fundada en enero de 2004 como una firma de banca de inversión que se dedica a la asesoría financiera para compañías en marcha y a la estructuración de proyectos a nivel nacional e internacional.
+                Sus principales servicios son: Procesos de compra venta y fusiones de compañias, valoración de empresas, financiación y optimización financiera de compañias en marcha, project finance o financiación de proyectos y titulizaciones entre otros.
+                La experienca de los socios incluye todos los sectores de la economia resaltando el sector inmobiliario e infraestructura .
+            </p>
+        </section>
+        <figure>
+            <div class="flexslider">
+                <ul class="slides">
+                    <li>
+                        <img src="images/1.jpg" />
+                    </li>
+                    <li>
+                        <img src="images/3.jpg"/>
+                    </li>
+                    <li>
+                        <img src="images/4.jpg"/>
+                    </li>
+                </ul>
+            </div>
+        </figure>
 
         <div class="page" >
             <article class="en-linea two-column" style="width: 45%;margin-right: 48px">
                 <h3>LO QUE SOMOS</h3>
-                <p>La misión de Q & A es prestar los servicios de estructuración finaciera con el fin de satisfacer las necesidades de nuestros clientes buscando la prosperidad de ellos, la de Q & A, los accionistas y sus colaboradores.</p>
+                <p>La misión de Q&A es prestar los servicios de estructuración finaciera con el fin de satisfacer las necesidades de nuestros clientes buscando la prosperidad de ellos, la de Q&A, los accionistas y sus colaboradores.</p>
             </article>
 
             <article class="en-linea two-column">
                 <h3>EN LO QUE CREEMOS</h3>
-                <p>Q & A busca ser un excelente proveedor de servicios de estructuración financiera a nivel nacional e internacional, velando por la calidad del trabajo, la rentabilidad para la compañía y el progreso de sus conlaboradores.</p>
+                <p>Q&A busca ser un excelente proveedor de servicios de estructuración financiera a nivel nacional e internacional, velando por la calidad del trabajo, la rentabilidad para la compañía y el progreso de sus conlaboradores.</p>
             </article>
 
 
@@ -25,49 +50,49 @@
         </div>
 
         <div class="page">
-             <div class="nosotros-biografia">
+            <div class="nosotros-biografia">
 
-            <article class="en-linea " >
-                <h3>Francisco j. Aristizabal lópez</h3>
-                <li>
-                    <p>
-                        Administración de Negocios (EE.UU.), subtítulado en Economía. Gerencia Financiera en EAFIT.
-                        Cursos especializados en finanzas corporativas y planeación estratégica bancaria en Euromoney (Londres)
-                        e IDI (Dublín) respectivamente.
-                    </p>
-                </li>
-                <li>
-                    <p>
-                        Su principal fortaleza es en temas dde estructuración de proyectos, créditos sindicados y programas
-                        de optimización de deuda. 20 años de experiencia, originalmente en el sector inmobiliario.
-                    </p>
-                </li>
-                <li>
-                    <p>
-                        Conferencista internacional en simposios regionales en Financiación cross border y Project
-                        Finance. Amplia relación con fuentes de recursos nacionales e internacionales.
-                    </p>
-                </li>
-                <li>
-                    <p>
-                        Participación en el sector financiero desde 11993 con el Grupo Empresarial Antioqueño como presidente de operaciones
-                        de leasing internacional (Suleasing Panamá) y co-estructurador de varios proyectos de infraestructura en
-                        telecomunicaciones, energía e industria.
-                    </p>
-                </li>
-            </article>
+                <article class="en-linea " >
+                    <h3>Francisco j. Aristizabal lópez</h3>
+                    <li>
+                        <p>
+                            Administración de Negocios (EE.UU.), subtítulado en Economía. Gerencia Financiera en EAFIT.
+                            Cursos especializados en finanzas corporativas y planeación estratégica bancaria en Euromoney (Londres)
+                            e IDI (Dublín) respectivamente.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Su principal fortaleza es en temas dde estructuración de proyectos, créditos sindicados y programas
+                            de optimización de deuda. 20 años de experiencia, originalmente en el sector inmobiliario.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Conferencista internacional en simposios regionales en Financiación cross border y Project
+                            Finance. Amplia relación con fuentes de recursos nacionales e internacionales.
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Participación en el sector financiero desde 1993 con el Grupo Empresarial Antioqueño como presidente de operaciones
+                            de leasing internacional (Suleasing Panamá) y co-estructurador de varios proyectos de infraestructura en
+                            telecomunicaciones, energía e industria.
+                        </p>
+                    </li>
+                </article>
 
 
-            <figure class="en-linea two-column" style="margin-left: 22px;    overflow: hidden; height: 390px;">
-                <img  src="images/dueno1.jpg">
-            </figure>
-             </div>
+                <figure class="en-linea two-column" style="">
+                    <img  src="images/hv/francisco.jpeg">
+                </figure>
+            </div>
         </div>
 
         <div class="page">
             <div class="nosotros-biografia" style="padding-top: 40px;">
                 <figure class="en-linea " style="margin-right: 22px">
-                    <img  src="images/dueno2.jpg">
+                    <img  src="images/hv/FM.jpg">
                 </figure>
                 <article class="en-linea two-column">
                     <h3>Federico Molina Soto</h3>
@@ -115,29 +140,11 @@
 
 
         </div>
-        <div class="page" >
-
-            <div class="nosotros-historia">
-                <figure class="en-linea two-column">
-                    <img class="banner-nosotros" src="images/historia.jpg">
-                </figure>
-                <div class="en-linea two-column">
-                    <article>
-                        <h3>HISTORIA</h3>
-                        <p>Q & A DE INVERSIÓN ("Q & A") es una compañía fundada en enero de 2004 como una firma de banca de inversión que se dedica a la asesoría financiera a compañías en marcha y a la estructuración de proyectos. La experienca de los socios incluye los sectores agroindustria, energía, transporte y logística, industria, infraestuctrura, sector financiero, construcción y sector inmobiliario.</p>
-                    </article>
-                </div>
 
 
-            </div>
-        </div>
-        <section class="page-number">
-            <p class="one">1</p>
-            <p class="two">2</p>
-            <p class="three">3</p>
-            <p class="four">4</p>
-        </section>
-        </div>
+
+    </div>
+
 
 
 <?php include('footer.php');
