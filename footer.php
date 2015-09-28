@@ -1,4 +1,4 @@
-<footer>
+<!--<footer>
     <ul>
         <li>
             <a href="infraestructura.php">ESTRUCTURACIÓN</a>
@@ -29,6 +29,6 @@
 
         <li><a href="contacto.php">CONTÁCTENOS</a></li>
     </ul>
-</footer>
+</footer>-->
 </body>
 </html>

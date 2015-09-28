@@ -1,10 +1,8 @@
 <?php include('header.php'); ?>
 
     <div id="wrapper-contacto">
-        <!--<div class="title">
-            Contacto
-        </div>-->
-        <h1>CONTÁCTO</h1>
+            <div class="title"><h1>CONTÁCTO</h1></div>
+
         <div class="contactenos">
             <figure class="img-contacto">
                 <img src="images/contacto.jpg">

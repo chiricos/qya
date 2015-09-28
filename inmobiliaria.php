@@ -1,20 +1,20 @@
 <?php include('header.php'); ?>
     <div id="intro-wrapper" class="wrapper style1">
-        <div class="title">INMOBILIARIO</div>
+        <div class="title"><h1>INMOBILIARIO</h1></div>
 
     </div>
     <div id="wrapper-financiacion" >
 
 
+
+
+
         <div class="title-services">
 
-            <p>
-                Q&A Banca de inversión ha estructurado más de 1.8 millones de GLA (Gross Leasable Area-Area útil).
+            <p style="text-align: center;margin-top: -15px;">
+                Los principales clientes
             </p>
         </div>
-
-
-        <h3 style="text-align: center;padding: 60px 0"> Los principales proyectos son</h3>
 
         <section class="page">
             <div class="clientes">
@@ -111,16 +111,9 @@
 
             </div>
 
-            <figure>
-                <div class="flexslider">
-                    <ul class="slides">
-                        <li>
-                            <img src="images/secciones/1.jpg" />
-                        </li>
-
-                    </ul>
-                </div>
-            </figure>
+            <p style="text-align: center;padding-top:30px">
+                Q&A Banca de inversión ha estructurado más de 1 millones de GLA (Gross Leasable Area-Area útil).
+            <p>
         </section>
 
 

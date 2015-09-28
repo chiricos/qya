@@ -1,6 +1,6 @@
 <?php include('header.php'); ?>
     <div id="intro-wrapper" class="wrapper style1">
-        <div class="title">M&A</div>
+        <div class="title"><h1>FUSIONES & ADQUISICIONES</h1></div>
 
     </div>
     <div id="wrapper-financiacion" >
@@ -270,16 +270,7 @@
 
             </div>
 
-            <figure>
-                <div class="flexslider">
-                    <ul class="slides">
-                        <li>
-                            <img src="images/secciones/1.jpg" />
-                        </li>
 
-                    </ul>
-                </div>
-            </figure>
         </section>
 
 

@@ -3,13 +3,19 @@
         <img src="images/logo-color.png">
     </a>
     <ul>
-        <li><a href="nosotros.php">QUIENES SOMOS</a></li>
+        <li>
+            <a href="nosotros.php">QUIENES SOMOS</a>
+            <ul>
+                <li><a href="nosotros.php">HISTORIA</a></li>
+                <li><a href="equipo.php">EQUIPO DE TRABAJO</a></li>
+            </ul>
+        </li>
         <li>
             <a href="financiacion.php">FINANCIACIÓN</a>
 
         </li>
         <li>
-            <a class="a-one" href="mya.php"> M & A </a>
+            <a class="a-one" href="mya.php"> FUSIONES & ADQUISICIONES </a>
         </li>
         <li>
             <a href="infraestructura.php">ESTRUCTURACIÓN</a>

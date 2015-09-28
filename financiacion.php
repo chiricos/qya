@@ -1,6 +1,6 @@
 <?php include('header.php'); ?>
 <div id="intro-wrapper" class="wrapper style1">
-        <div class="title">Financiación</div>
+        <div class="title"><h1>Financiación</h1></div>
 
     </div>
     <div id="wrapper-financiacion" >
@@ -9,25 +9,30 @@
         <div class="title-services">
 
             <p>
-                Los principales servicios de financiacion de Q&A son los siguientes:
+                Servicios
             </p>
         </div>
 
         <div class="experiencias">
             <ul>
-                <li><a >Financiación de proyectos (project finance)</a></li>
-                <li><a >Créditos sindicados</a></li>
+                <li><h3 >Financiación de proyectos (project finance)</h3></li>
+                <li><h3 >Créditos sindicados</h3></li>
             </ul>
             <ul>
-                <li><a >Crédito de fomento / exportación</a></li>
-                <li><a >Crédito de entidades multilaterales</a></li>
+                <li><h3 >Crédito de fomento / exportación</h3></li>
+                <li><h3 >Crédito de entidades multilaterales</h3></li>
             </ul>
             <ul>
-                <li><a >Optimización / restructuración de deuda </a></li>
-                <li><a >Bonos corporativos </a></li>
+                <li><h3 >Optimización / restructuración de deuda </h3></li>
+                <li><h3 >Bonos corporativos </h3></li>
             </ul>
         </div>
-        <h3 style="text-align: center;padding: 60px 0">Algunos de nuestros clientes</h3>
+        <div class="title-services">
+
+            <p style="text-align: center;    margin-top: -15px;">
+                Algunos de nuestro clientes
+            </p>
+        </div>
 
         <section class="page">
             <div class="clientes">
@@ -229,16 +234,6 @@
 
             </div>
 
-            <figure>
-                <div class="flexslider">
-                    <ul class="slides">
-                        <li>
-                            <img src="images/secciones/1.jpg" />
-                        </li>
-
-                    </ul>
-                </div>
-            </figure>
         </section>
 
 

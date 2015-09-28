@@ -1,6 +1,6 @@
 <?php include('header.php'); ?>
     <div id="intro-wrapper" class="wrapper style1">
-        <div class="title">CLIENTES INTERNACIONALES</div>
+        <div class="title"><h1>CLIENTES INTERNACIONALES</h1></div>
 
     </div>
     <div id="wrapper-financiacion">

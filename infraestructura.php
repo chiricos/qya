@@ -1,11 +1,16 @@
 <?php include('header.php'); ?>
     <div id="intro-wrapper" class="wrapper style1">
-        <div class="title">INFRAESTRUCTURA</div>
+        <div class="title"><h1>INFRAESTRUCTURA</h1></div>
 
     </div>
     <div id="wrapper-financiacion" >
 
-        <h3 style="text-align: center;padding: 60px 0">Algunos de nuestros proyectos</h3>
+        <div class="title-services">
+
+            <p style="text-align: center">
+                Algunos de nuestros clientes
+            </p>
+        </div>
 
         <section class="page">
             <div class="clientes">
@@ -28,13 +33,6 @@
                     <img src="images/infraestructura/infraestructura-3.png">
                     <p>Estructuracion y valorización de ofertas de inversión</p>
                 </figure>
-
-
-                <figure class="en-linea four-column">
-                    <img src="images/infraestructura/infraestructura-7.png">
-                    <p>Estructuración financiera para infraestructura vial tunel de oriente</p>
-                </figure>
-
 
                 <figure class="en-linea four-column">
                     <img src="images/infraestructura/infraestructura-9.png">
@@ -72,22 +70,46 @@
                     </p>
                 </figure>
 
-                <figure class="en-linea four-column">
-                    <img src="images/infraestructura/infraestructura-8.png">
-                    <p>
-                        Estructuración financiera para los proyectos hidroeléctricos Encimadas y Cañaveral entre Antioquia y Caldas
-                    </p>
-                </figure>
+
             </div>
 
             <div class="experiencia-vial">
+                <h2>TÚNEL DE ORIENTE</h2>
+                <p style="text-align: justify">
+                    Estructuración, modelación, formulación y definición del esquema financiero para la participación del IDEA como
+                    cofinanciador del proyecto y toma de decisiones de la gobernación para posterior acuerdo para la ejecución de
+                    la fase II del contrato (aportes requeridos por la gobernación y el concesionario para obtener cierre financiero
+                    del contrato NO 97-CO-20-1811 Conexión Vial Aburrá Oriente - Tunel del Oriente y vías complementarias suscrito
+                    entre la Gobernación de Antioquia y Concesión túnel de Aburrá de Oriente S.A). La concesión tiene una longitud
+                    total de 23 kilómetros y un monto de inversión en la fase II de aproximadamente COP 768.000 millones.
+                </p>
+                <section>
+
+                    <div>
+                        <figure class="en-linea four-column">
+                            <img src="images/infraestructura/infraestructura-8.png">
+
+                        </figure>
+                        <figure class="en-linea four-column">
+                            <img src="images/infraestructura/infraestructura-7.png">
+                        </figure>
+                    </div>
+                    <figure>
+                        <img src="images/infraestructura1.png" />
+                    </figure>
+
+            </div>
+
+            <div class="experiencia-vial">
+                <h2>CONCESIONES DE CUARTA GENERACIÓN ZONA NORTE</h2>
+                <figure class="vial-img">
+                    <img src="images/infraestructura/logos.png" />
+                </figure>
                 <p>
                     Estructuración Integral (Financiera, legal y técnica) para la Agencia Nacional de Infraestructura (ANI)
                     con el fin de desarrollar 1.251 Kms de Alianzas Público-Privadas (APPs) de concesiones viales en la parte norte de Colombia
                 </p>
-                <figure class="vial-img">
-                    <img src="images/infraestructura/logos.png" />
-                </figure>
+
                 <section>
                     <figure>
                         <img src="images/infraestructura/fondo.jpg" />
