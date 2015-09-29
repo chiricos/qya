@@ -843,6 +843,11 @@ CLIENTES
     width: 100%;
 }
 
+.title-services h3{
+    color: #025452;
+    text-align: justify;
+}
+
 
 
 .animation-pages {

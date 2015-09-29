@@ -8,24 +8,24 @@
 
         <div class="title-services">
 
-            <p>
+            <h3>
                 Los principales servicios de M&A son los siguientes:
-            </p>
+            </h3>
         </div>
 
         <div class="experiencias">
             <ul style="    margin-left: 20px;">
-                <li><a >VALORACIÓN</a></li>
+                <li><h3 >VALORACIÓN</h3></li>
             </ul>
             <ul style="margin-left: 50px;">
-                <li><a >COMPRA, VENTA Y FUSIONES DE EMPRESAS</a></li>
+                <li><h3 >COMPRA, VENTA Y FUSIONES DE EMPRESAS</h3></li>
             </ul>
             <ul style="        margin-left: 98px;
     width: 23%;">
-                <li><a >BUSINESS PLAN / ESTRATEGIA</a></li>
+                <li><h3 >BUSINESS PLAN / ESTRATEGIA</h3></li>
             </ul>
         </div>
-        <h3 style="text-align: center;padding: 60px 0">Algunos de nuestros clientes</h3>
+        <h3 style="color:#025452;text-align: center;padding: 60px 0">Algunos de nuestros clientes</h3>
 
         <section class="page">
             <div class="clientes">

@@ -7,9 +7,9 @@
 
         <div class="title-services">
 
-            <p style="text-align: center">
+            <h3 style="text-align: center">
                 Algunos de nuestros clientes
-            </p>
+            </h3>
         </div>
 
         <section class="page">

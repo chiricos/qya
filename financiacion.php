@@ -8,9 +8,9 @@
 
         <div class="title-services">
 
-            <p>
+            <h3 >
                 Servicios
-            </p>
+            </h3>
         </div>
 
         <div class="experiencias">
@@ -29,9 +29,9 @@
         </div>
         <div class="title-services">
 
-            <p style="text-align: center;    margin-top: -15px;">
+            <h3 style="text-align: center;    margin-top: -15px;">
                 Algunos de nuestro clientes
-            </p>
+            </h3>
         </div>
 
         <section class="page">
