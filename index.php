@@ -44,20 +44,20 @@
             </figure>
             <figure>
                 <h2 style="    font-size: 18px;">FUSIONES Y ADQUISICIONES</h2>
-                <img src="images/business-workplace.jpg">
+                <img src="images/bussiness1.jpeg">
                 <li><a href="mya.php">VALORACIÓN</a></li>
                 <li><a href="mya.php">COMPRA, VENTA Y FUSIONES DE EMPRESAS </a></li>
                 <li><a href="mya.php">BUSINESS PLAN / ESTRATEGIA</a></li>
             </figure>
             <figure>
                 <h2 style="    font-size: 18px;">ESTRUCTURACIÓN</h2>
-                <img src="images/business-workplace.jpg">
+                <img src="images/secciones/infraestructura%20silver-jubilee-bridge-402943_1280.jpg">
                 <li><a HREF="infraestructura.php">INFRAESTRUCTURA</a></li>
                 <li><a HREF="inmobiliaria.php">INMOBILIARIO</a></li>
             </figure>
             <figure style="">
                 <h2 style="    font-size: 18px;">FONDO DE INVERSIÓN INMOBILIARIO</h2>
-                <img src="images/business-workplace.jpg">
+                <img src="images/secciones/inmobiliaria%20urban-205986_1280.jpg">
             </figure>
         </div>
 
