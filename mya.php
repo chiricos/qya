@@ -14,14 +14,15 @@
         </div>
 
         <div class="experiencias">
-            <ul>
-                <li><a >Valoración</a></li>
+            <ul style="    margin-left: 20px;">
+                <li><a >VALORACIÓN</a></li>
             </ul>
-            <ul>
-                <li><a >Compra, venta y funciones de empresas</a></li>
+            <ul style="margin-left: 50px;">
+                <li><a >COMPRA, VENTA Y FUSIONES DE EMPRESAS</a></li>
             </ul>
-            <ul>
-                <li><a >Business plan / Estrategia</a></li>
+            <ul style="        margin-left: 98px;
+    width: 23%;">
+                <li><a >BUSINESS PLAN / ESTRATEGIA</a></li>
             </ul>
         </div>
         <h3 style="text-align: center;padding: 60px 0">Algunos de nuestros clientes</h3>

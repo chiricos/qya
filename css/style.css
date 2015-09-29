@@ -355,6 +355,35 @@ CUERPO WRAPPER
     font-weight: bold;
 }
 
+.services{
+    margin: 0;
+    padding: 0;
+}
+
+.services figure{
+    display: inline-block;
+    margin: 5px!important;
+    padding: 0;
+    vertical-align: top;
+    width: 23%;
+
+}
+
+.services figure img{
+    width: 100%;
+}
+
+.services figure li{
+    text-align: justify;
+    width: 100%;
+}
+
+.services figure li a{
+    color: black;
+    text-decoration: none;
+    font-size: 14px;
+}
+
 /*================================================
 NOSOTROS
 ================================================*/
@@ -838,6 +867,8 @@ EXPERIENCIAS
 ================================================*/
 
 
+
+
 .experiencias{
     margin: auto;
     padding: 0;
@@ -850,7 +881,7 @@ EXPERIENCIAS
     padding: 0;
     vertical-align: top;
     text-align: center;
-    width: 33%;
+    width: 30%;
 }
 
 .experiencias ul li{

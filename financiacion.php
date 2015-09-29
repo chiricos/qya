@@ -14,11 +14,11 @@
         </div>
 
         <div class="experiencias">
-            <ul>
+            <ul style="margin-left: 20px;">
                 <li><h3 >Financiación de proyectos (project finance)</h3></li>
                 <li><h3 >Créditos sindicados</h3></li>
             </ul>
-            <ul>
+            <ul style="    margin-left: 75px;">
                 <li><h3 >Crédito de fomento / exportación</h3></li>
                 <li><h3 >Crédito de entidades multilaterales</h3></li>
             </ul>

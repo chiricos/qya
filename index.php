@@ -31,7 +31,35 @@
             </div>
         </figure>
 
-        <h3>fkdalñfjakdlñ</h3>
+        <div class="services">
+            <figure>
+                <h2 style="    font-size: 18px;">FINANCIACIÓN</h2>
+                <img src="images/business-workplace.jpg">
+                <li><a href="financiacion.php">FINANCIACIÓN DE PROYECTOS</a></li>
+                <li><a href="financiacion.php">CRÉDITOS SINDICADOS</a></li>
+                <li><a href="financiacion.php">CRÉDITO DE FOMENTO / EXPORTACIÓN</a></li>
+                <li><a href="financiacion.php">CRÉDITO DE ENTIDADES MULTILATERALES</a></li>
+                <li><a href="financiacion.php">OPTIMIZACIÓN / RESTRUCTURACIÓN DE DEUDA</a></li>
+                <li><a href="financiacion.php">BONOS CORPORATIVOS</a></li>
+            </figure>
+            <figure>
+                <h2 style="    font-size: 18px;">FUSIONES Y ADQUISICIONES</h2>
+                <img src="images/business-workplace.jpg">
+                <li><a href="mya.php">VALORACIÓN</a></li>
+                <li><a href="mya.php">COMPRA, VENTA Y FUSIONES DE EMPRESAS </a></li>
+                <li><a href="mya.php">BUSINESS PLAN / ESTRATEGIA</a></li>
+            </figure>
+            <figure>
+                <h2 style="    font-size: 18px;">ESTRUCTURACIÓN</h2>
+                <img src="images/business-workplace.jpg">
+                <li><a HREF="infraestructura.php">INFRAESTRUCTURA</a></li>
+                <li><a HREF="inmobiliaria.php">INMOBILIARIO</a></li>
+            </figure>
+            <figure style="">
+                <h2 style="    font-size: 18px;">FONDO DE INVERSIÓN INMOBILIARIO</h2>
+                <img src="images/business-workplace.jpg">
+            </figure>
+        </div>
 
 
 
