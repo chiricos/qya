@@ -74,7 +74,7 @@
             </div>
 
             <div class="experiencia-vial">
-                <h2>TÚNEL DE ORIENTE</h2>
+                <h2 style="text-align: justify;">TÚNEL DE ORIENTE</h2>
                 <p style="text-align: justify">
                     Estructuración, modelación, formulación y definición del esquema financiero para la participación del IDEA como
                     cofinanciador del proyecto y toma de decisiones de la gobernación para posterior acuerdo para la ejecución de
@@ -101,14 +101,15 @@
             </div>
 
             <div class="experiencia-vial">
-                <h2>CONCESIONES DE CUARTA GENERACIÓN ZONA NORTE</h2>
-                <figure class="vial-img">
-                    <img src="images/infraestructura/logos.png" />
-                </figure>
+                <h2 style="text-align: justify;">CONCESIONES DE CUARTA GENERACIÓN ZONA NORTE</h2>
                 <p>
                     Estructuración Integral (Financiera, legal y técnica) para la Agencia Nacional de Infraestructura (ANI)
                     con el fin de desarrollar 1.251 Kms de Alianzas Público-Privadas (APPs) de concesiones viales en la parte norte de Colombia
                 </p>
+                <figure class="vial-img">
+                    <img src="images/infraestructura/logos.png" />
+                </figure>
+
 
                 <section>
                     <figure>
@@ -151,7 +152,7 @@
 
             </div>
 
-            <div class="4-g">
+            <div class="catrog">
                 <iframe class="youtube-player" src="http://www.youtube.com/embed/qtnwC-iP69s?autoplay=0&amp;controls=1&amp;rel=0&amp;showinfo=0" width="100%" height="600px" frameborder="0"></iframe>
                 <iframe class="youtube-player" src="http://www.youtube.com/embed/WvztG8MEwD8?autoplay=0&amp;controls=1&amp;rel=0&amp;showinfo=0" width="100%" height="600px" frameborder="0"></iframe>
             </div>
