@@ -5,6 +5,20 @@
     </div>
     <div id="wrapper-financiacion" >
 
+                    <p>
+                        Q&A ha realizado procesos de estructuración de proyectos de infraestructura en los sectores energético
+
+                        (energía, Oil and gas) y vial. La estructuración se basa en proceso Project Finance  en el cual Q&A realiza la
+
+                        estructuración financiera a través de la construcción de modelos financieros, así como la identificación,
+
+                        medición y mitigación de riesgos  de acuerdo a su naturaleza (construcción, operativos, financieros, entre
+
+                        otros). Adicionalmente, Q&A realiza los procesos (Road Show, negociación, cierre y acompañamiento hasta
+
+                        el desembolso) para el  fondeo de los proyectos vía  Deuda, Semi-Equity y Equity.
+                    </p>
+
         <div class="title-services">
 
             <h3 style="text-align: center">
@@ -85,18 +99,23 @@
                 </p>
                 <section>
 
-                    <div>
-                        <figure class="en-linea four-column">
-                            <img src="images/infraestructura/infraestructura-8.png">
+                    <section class="page">
+                        <div class="clientes">
+                            <div>
+                                <figure class="en-linea four-column">
+                                    <img src="images/infraestructura/infraestructura-8.png">
 
-                        </figure>
-                        <figure class="en-linea four-column">
-                            <img src="images/infraestructura/infraestructura-7.png">
-                        </figure>
-                    </div>
-                    <figure>
-                        <img src="images/infraestructura1.png" />
-                    </figure>
+                                </figure>
+                                <figure class="en-linea four-column">
+                                    <img src="images/infraestructura/infraestructura-7.png">
+                                </figure>
+                            </div>
+                            <figure>
+                                <img src="images/infraestructura1.png" />
+                            </figure>
+                        </div>
+                    </section>
+
 
             </div>
 
@@ -153,8 +172,8 @@
             </div>
 
             <div class="catrog">
-                <iframe class="youtube-player" src="http://www.youtube.com/embed/qtnwC-iP69s?autoplay=0&amp;controls=1&amp;rel=0&amp;showinfo=0" width="100%" height="600px" frameborder="0"></iframe>
                 <iframe class="youtube-player" src="http://www.youtube.com/embed/WvztG8MEwD8?autoplay=0&amp;controls=1&amp;rel=0&amp;showinfo=0" width="100%" height="600px" frameborder="0"></iframe>
+                <iframe class="youtube-player" src="http://www.youtube.com/embed/qtnwC-iP69s?autoplay=0&amp;controls=1&amp;rel=0&amp;showinfo=0" width="100%" height="600px" frameborder="0"></iframe>
             </div>
 
 

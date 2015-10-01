@@ -15,16 +15,74 @@
 
         <div class="experiencias">
             <ul style="margin-left: 20px;">
-                <li><h3 >Financiación de proyectos (project finance)</h3></li>
-                <li><h3 >Créditos sindicados</h3></li>
+                <li>
+                    <h3 >Financiación de proyectos (project finance)</h3>
+                    <p>
+                        Estructuración de proyectos que tiene un
+                        promotor corporativo  a través de una estructura legal independiente la cual asume y   mitiga los
+                        riesgos del proyecto. Q&A realiza la estructuración financiera a través de la construcción de
+                        modelos financieros, así como la identificación, medición y mitigación de riesgos  de acuerdo a su
+                        naturaleza (construcción, operativos, financieros, entre otros). Adicionalmente, Q&A realiza los
+                        procesos (Road Show, negociación, cierre y acompañamiento hasta el desembolso) para el  fondeo
+                        de los proyectos vía  Deuda, Semi-Equity y Equity.
+                    </p>
+                </li>
+                <li>
+                    <h3 >Créditos sindicados</h3>
+                    <p>
+                        Tipo de crédito que por su tamaño es distribuido en diferentes
+                        instituciones crediticias. Puede utilizarse en Project Finance, optimización y reestructuración de
+                        pasivos existentes o nuevos créditos.  Q&A además de la estructuración del pasivo, realiza un
+                        proceso de puja en el cual las participaciones de las entidades se distribuyen de acuerdo a las
+                        mejores características que ofrecen las entidades financieras en sus hojas de términos.
+                    </p>
+                </li>
             </ul>
             <ul style="    margin-left: 75px;">
-                <li><h3 >Crédito de fomento / exportación</h3></li>
-                <li><h3 >Crédito de entidades multilaterales</h3></li>
+                <li>
+                    <h3 >Crédito de fomento / exportación</h3>
+                    <p style="width: 90%;font-size: 13px;">
+                        Créditos  destinados a la promoción de sectores
+                        específicos de la economía y fondeados por instituciones de segundo nivel o de redescuento como
+                        BANCOLDEX, FINDETER, FINAGRO, entre otros. Adicional al proceso de estructuración Project
+                        Finance, restructuración y optimización,  Q&A conoce las diferentes metodologías de estudio de
+                        proyectos de estas instituciones en sus diferentes estancias.
+                    </p>
+                </li>
+                <li>
+                    <h3 >Crédito de entidades multilaterales</h3>
+                    <p style="width: 90%;font-size: 13px;">
+                        Créditos tramitados en bancos de desarrollo  que
+                        tienen propósitos de financiar y realizar asistencia técnica en la preparación, ejecución y evaluación
+                        de programas y proyectos en países emergentes. Entre estas instituciones se resaltan el FMI, BID,
+                        CAF, BM, entre otros. Adicional al proceso de estructuración Project finance, Q&A conoce las
+                        diferentes metodologías de estudio de proyectos de estas instituciones en sus diferentes estancias.
+                    </p>
+                </li>
             </ul>
             <ul>
-                <li><h3 >Optimización / restructuración de deuda </h3></li>
-                <li><h3 >Bonos corporativos </h3></li>
+                <li>
+                    <h3 >Optimización / restructuración de deuda </h3>
+                    <p>
+                        Estructuración de pasivos financieros existentes
+                        de compañías mediante la re-perfilación del plazo y la negociación de menores  tasas de interés de
+                        las acreencias financieras. Lo anterior con el fin de mejorar el flujo de caja de las compañías,
+                        permitiendo a su administración concentrarse en las actividades centrales de la compañía. Q&A
+                        realiza la modelación financiera de la compañía con el fin de establecer el flujo de caja futuro
+                        disponible para cubrir el servicio de la deuda de los pasivos existentes y así definir las características
+                        del nuevo endeudamiento. Adicionalmente, Q&A realiza los procesos de Road Show, negociación,
+                        cierre y acompañamiento hasta el desembolso.
+                    </p>
+                </li>
+                <li>
+                    <h3 >Bonos corporativos </h3>
+                    <p>
+                        Estructuración y emisiones de títulos de deuda corporativa y de proyectos
+                        de largo plazo. Q&A realiza la estructuración a través de modelos financieros con el fin de perfilar el
+                        titulo valor, identifica, mide y establece mecanismo de mitigación de riesgos  y realiza el
+                        acompañamiento hasta que el titulo este listado en la bolsa de valores.
+                    </p>
+                </li>
             </ul>
         </div>
         <div class="title-services">

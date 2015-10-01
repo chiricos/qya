@@ -5,9 +5,21 @@
     </div>
     <div id="wrapper-financiacion" >
 
+        <p>
+            Q&A ha realizado la estructuración de más de un millón de metros cuadrados construidos en el sector
 
+            inmobiliario dentro de los segmentos de comercio, oficinas, parqueaderos, salud y Logística. La
 
+            estructuración se basa en proceso Project Finance  en el cual Q&A realiza la estructuración financiera a
 
+            través de la construcción de modelos financieros, así como la identificación, medición y mitigación de
+
+            riesgos  de acuerdo a su naturaleza (construcción, operativos, financieros, entre otros). Adicionalmente,
+
+            Q&A realiza los procesos (Road Show, negociación, cierre y acompañamiento hasta el desembolso) para el
+
+            fondeo de los proyectos vía  Deuda, Semi-Equity y Equity.
+        </p>
 
         <div class="title-services">
 

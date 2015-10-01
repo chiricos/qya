@@ -15,14 +15,39 @@
 
         <div class="experiencias">
             <ul style="    margin-left: 20px;">
-                <li><h3 >VALORACIÓN</h3></li>
+                <li>
+                    <h3 >VALORACIÓN</h3>
+                    <p>
+                        De acuerdo con el análisis de los estados financieros y la información suministrada
+                        por la Compañía y/o Proyecto y aquella información pública disponible, Q&A realiza la valoración
+                        de compañías y/o proyectos mediante metodologías que incluyen y no se limitan a: Flujos de caja
+                        descontados (libre y de dividendos), Múltiplos de transacciones similares y múltiplos de mercado
+                        de compañías similares.
+                    </p>
+                </li>
             </ul>
             <ul style="margin-left: 50px;">
-                <li><h3 >COMPRA, VENTA Y FUSIONES DE EMPRESAS</h3></li>
+                <li>
+                    <h3 >COMPRA, VENTA Y FUSIONES DE EMPRESAS</h3>
+                    <p>
+                        Q&A realiza los procesos de definición de potenciales
+                        adquirentes y/o compradores, mercadeo, promoción, negociación y cierre de procesos de compra,
+                        venta y fusiones de compañía. Este proceso generalmente es precedido de un proceso de
+                        valoración.
+                    </p>
+                </li>
             </ul>
-            <ul style="        margin-left: 98px;
-    width: 23%;">
-                <li><h3 >BUSINESS PLAN / ESTRATEGIA</h3></li>
+            <ul style="     margin-left: 40px;
+    width: 28%;">
+                <li>
+                    <h3 >BUSINESS PLAN / ESTRATEGIA</h3>
+                    <p>
+                        Q&A realiza la estructuración de planes de negocio de proyectos
+                        nuevos y/o el definición de estrategia de acuerdo a la experiencia de sus socios en el sector
+                        financiero y real. Estos procesos van acompañados de estudios de terceros (mercadeo, jurídicos,
+                        técnicos, entre otros), plasmados en los modelos financieros realizados por Q&A.
+                    </p>
+                </li>
             </ul>
         </div>
         <h3 style="color:#025452;text-align: center;padding: 60px 0">Algunos de nuestros clientes</h3>

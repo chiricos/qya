@@ -448,6 +448,10 @@ NOSOTROS
     width: 80%;
 }
 
+
+.li-nosotros{
+    margin-left: 30px;
+}
 /*================================================
 ARTICULOS
 ================================================*/
@@ -891,8 +895,17 @@ EXPERIENCIAS
 
 .experiencias ul li{
     color: #15ABAB;
-    margin: 10px auto;
+    margin: 50px auto;
     text-align: justify;
+}
+
+.experiencias ul li h3{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.experiencias ul li p{
+    font-size: 13px;
 }
 
 .experiencias a:before{
