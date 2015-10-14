@@ -65,6 +65,8 @@ $(document).on('ready',function()
     * =============================*/
 
 
+
+
     $('#menu-responsive').on('click',function()
     {
         $('.menu-mobile ').removeClass('hidden');
@@ -80,5 +82,25 @@ $(document).on('ready',function()
             {
 
             });
+    });
+
+    $('.pop-up-video2 spam').on('click',function()
+    {
+       $('.pop-up-video2').addClass('hidden');
+    });
+
+    $('.boton-2').on('click',function()
+    {
+        $('.pop-up-video2').removeClass('hidden');
+    });
+
+    $('.pop-up-video1 spam').on('click',function()
+    {
+        $('.pop-up-video1').addClass('hidden');
+    });
+
+    $('.boton-1').on('click',function()
+    {
+        $('.pop-up-video1').removeClass('hidden');
     });
 });

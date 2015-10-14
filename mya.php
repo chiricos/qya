@@ -268,11 +268,6 @@
                 </figure>
 
                 <figure class="en-linea four-column">
-                    <img src="images/mya/mya-21.png">
-                    <p>Valorización comercializadora de madera</p>
-                </figure>
-
-                <figure class="en-linea four-column">
                     <img src="images/mya/mya-23.png">
                     <p>Valorización empresa de catering</p>
                 </figure>

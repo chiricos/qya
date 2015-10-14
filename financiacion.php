@@ -41,7 +41,7 @@
             <ul style="    margin-left: 75px;">
                 <li>
                     <h3 >Crédito de fomento / exportación</h3>
-                    <p style="width: 90%;font-size: 13px;">
+                    <p style="width: 90%;">
                         Créditos  destinados a la promoción de sectores
                         específicos de la economía y fondeados por instituciones de segundo nivel o de redescuento como
                         BANCOLDEX, FINDETER, FINAGRO, entre otros. Adicional al proceso de estructuración Project
@@ -51,7 +51,7 @@
                 </li>
                 <li>
                     <h3 >Crédito de entidades multilaterales</h3>
-                    <p style="width: 90%;font-size: 13px;">
+                    <p style="width: 90%;">
                         Créditos tramitados en bancos de desarrollo  que
                         tienen propósitos de financiar y realizar asistencia técnica en la preparación, ejecución y evaluación
                         de programas y proyectos en países emergentes. Entre estas instituciones se resaltan el FMI, BID,
@@ -94,12 +94,7 @@
 
         <section class="page">
             <div class="clientes">
-                <figure class="en-linea four-column">
-                    <img src="images/financiacion/financiacion-21.png">
-                    <p>
-                        Estructuración financiera y consecución de recursos para proyecto de parqueaderos y torre de servicios ambulatorios
-                    </p>
-                </figure>
+
 
                 <figure class="en-linea four-column">
                     <img src="images/financiacion/financiacion-7.png">
@@ -122,15 +117,6 @@
                     </p>
                 </figure>
 
-
-                <figure class="en-linea four-column">
-                    <img src="images/financiacion/financiacion-23.png">
-                    <p>
-                        Optimización financiera de clinica
-                    </p>
-                </figure>
-
-
                 <figure class="en-linea four-column">
                     <img src="images/financiacion/financiacion-9.png">
                     <p>
@@ -139,16 +125,18 @@
                 </figure>
 
                 <figure class="en-linea four-column">
-                    <img src="images/financiacion/financiacion-10.png">
-                    <p>
-                        Financiación de centro logìstico en instalaciones HACEB
-                    </p>
-                </figure>
-
-                <figure class="en-linea four-column">
                     <img src="images/financiacion/financiacion-25.png">
                     <p>
                         Estructruración financiera y consecución de crédito sindicado para la adecuación av suba tramo II
+                    </p>
+                </figure>
+
+
+
+                <figure class="en-linea four-column">
+                    <img src="images/financiacion/financiacion-11.png">
+                    <p>
+                        Crédito sindicado corporativo
                     </p>
                 </figure>
 
@@ -167,14 +155,14 @@
                     </p>
                 </figure>
 
-
-
                 <figure class="en-linea four-column">
-                    <img src="images/financiacion/financiacion-1.png">
+                    <img src="images/financiacion/financiacion-26.png">
                     <p>
-                        Crédito corporativo
+                        Estructuración financiera y consecución de recursos para un proyecto de palma, caucho y forestal de 70.000 hectareas en el bichada
                     </p>
                 </figure>
+
+
 
                 <figure class="en-linea four-column">
                     <img src="images/financiacion/financiacion-13.png">
@@ -192,11 +180,45 @@
                     </p>
                 </figure>
 
+                <figure class="en-linea four-column">
+                    <img src="images/financiacion/financiacion-5.png">
+                    <p>Estructuración project finance</p>
+                </figure>
+
+
 
                 <figure class="en-linea four-column">
-                    <img src="images/financiacion/financiacion-12.png">
+                    <img src="images/financiacion/financiacion-21.png">
                     <p>
-                        Financiación de local ancla y centro comercial en Soacha
+                        Estructuración financiera y consecución de recursos para proyecto de parqueaderos, torre de servicios ambulatorios y expansión hospitalaria
+                    </p>
+                </figure>
+
+                <figure class="en-linea four-column">
+                    <img src="images/financiacion/financiacion-24.png">
+                    <p>
+                        Optimización financiera de clinica
+                    </p>
+                </figure>
+
+                <figure class="en-linea four-column">
+                    <img src="images/financiacion/financiacion-23.png">
+                    <p>
+                        Optimización financiera de clinica
+                    </p>
+                </figure>
+
+                <figure class="en-linea four-column">
+                    <img src="images/financiacion/financiacion-28.png">
+                    <p>
+                        Estructuración y financiación para la renovación de equipos medicos
+                    </p>
+                </figure>
+
+                <figure class="en-linea four-column">
+                    <img src="images/financiacion/financiacion-29.png">
+                    <p>
+                        Diagnostico, optimización y estructuración financiera de nuevor proyectos
                     </p>
                 </figure>
 
@@ -208,9 +230,9 @@
                 </figure>
 
                 <figure class="en-linea four-column">
-                    <img src="images/financiacion/financiacion-11.png">
+                    <img src="images/financiacion/financiacion-10.png">
                     <p>
-                        Crédito sindicado corporativo
+                        Financiación de centro logìstico en instalaciones HACEB
                     </p>
                 </figure>
 
@@ -226,21 +248,6 @@
                 </figure>
 
                 <figure class="en-linea four-column">
-                    <img src="images/financiacion/financiacion-24.png">
-                    <p>
-                        Optimización financiera de clinica
-                    </p>
-                </figure>
-
-                <figure class="en-linea four-column">
-                    <img src="images/financiacion/financiacion-26.png">
-                    <p>
-                        Estructuración financiera y consecución de recursos para un proyecto de palma, caucho y forestal de 70.000 hectareas en el bichada
-                    </p>
-                </figure>
-
-
-                <figure class="en-linea four-column">
                     <img src="images/financiacion/financiacion-27.png">
                     <p>
                         Financiación hotel en medellin de 140 habitaciones
@@ -248,13 +255,41 @@
                 </figure>
 
                 <figure class="en-linea four-column">
-                    <img src="images/financiacion/financiacion-5.png">
-                    <p>Estructuración project finance</p>
+                    <img src="images/financiacion/financiacion-1.png">
+                    <p>
+                        Crédito corporativo
+                    </p>
+                </figure>
+
+                <figure class="en-linea four-column">
+                    <img src="images/financiacion/financiacion-12.png">
+                    <p>
+                        Financiación de local ancla y centro comercial en Soacha
+                    </p>
+                </figure>
+
+                <figure class="en-linea four-column">
+                    <img src="images/financiacion/financiacion-18.png">
+                    <p>Financiación Centro comercial project finance</p>
+                </figure>
+
+                <figure class="en-linea four-column">
+                    <img src="images/internacionales/internacionales-12.png">
+                    <p>
+                        Estructuración financiera y financiacion de centro comercial en Monteria
+                    </p>
                 </figure>
 
                 <figure class="en-linea four-column">
                     <img src="images/financiacion/financiacion-15.png">
                     <p>Leasing de infraestructura para compañia de logistica </p>
+                </figure>
+
+                <figure class="en-linea four-column">
+                    <img src="images/financiacion/financiacion-30.png">
+                    <p>
+                        Estructuración financiera y financiacion de centro comercial
+                    </p>
                 </figure>
 
                 <figure class="en-linea four-column">
@@ -267,11 +302,6 @@
                 </figure>
 
                 <figure class="en-linea four-column">
-                    <img src="images/financiacion/financiacion-18.png">
-                    <p>Financiación Centro comercial project finance</p>
-                </figure>
-
-                <figure class="en-linea four-column">
                     <img src="images/financiacion/financiacion-19.png">
                     <p>Estructruración leasing sindicado con panamá</p>
                 </figure>
@@ -281,12 +311,7 @@
                     <p>Estructruración financiera</p>
                 </figure>
 
-                <figure class="en-linea four-column">
-                    <img src="images/internacionales/internacionales-12.png">
-                    <p>
-                        Estructuración financiera y financiacion de centro comercial en Monteria
-                    </p>
-                </figure>
+
 
 
 

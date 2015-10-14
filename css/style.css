@@ -13,28 +13,27 @@ body{
 }
 
 h1{
-    color: #484d55;
+    color: black;
     font-size: 25px;
     font-weight: bold;
     text-align: center;
 }
 
 h2{
-    color: #484d55;
+    color: black;
     text-align: center;
 }
 
 h3{
-    color: #484d55;
+    color: black;
     font-size: 17px;
     margin: 10px auto;
     text-transform: uppercase;
 }
 
 p{
-    font-weight: bold;
-    color: #83878C;
-    font-size: 15px;
+    color: black;
+    font-size: 17px;
 }
 
 .en-linea{
@@ -339,12 +338,11 @@ CUERPO WRAPPER
 
 .textos-conocenos p:nth-last-of-type(1) {
     width: 100%;
-    font-size: 15px;
+    font-size: 17px;
     margin: 30px auto;
     text-align: justify;
     line-height: 1.5em;
-    letter-spacing: 0.075em;
-    color: #83878C;
+    color: black;
 }
 
 .textos-conocenos p:nth-last-of-type(2){
@@ -462,7 +460,7 @@ article{
 
 article h3{
     color: black;
-    font-weight: 100;
+    font-weight: bold;
 
 }
 
@@ -470,7 +468,8 @@ article p{
     margin: 30px auto;
     text-align: justify;
     line-height: 1.5em;
-    color: #83878C;
+    color: black;
+    font-size: 17px;
     width: 100%;
 }
 
@@ -905,7 +904,7 @@ EXPERIENCIAS
 }
 
 .experiencias ul li p{
-    font-size: 13px;
+    font-size: 15px;
 }
 
 .experiencias a:before{
@@ -926,7 +925,7 @@ EXPERIENCIAS
 }
 
 .vial-img img{
-    width: 50%;
+    width: 70%;
 }
 
 .experiencia-vial section figure{
@@ -1063,4 +1062,92 @@ RESPONSIVE
     }
 }
 
+/*================================================
+POP-UP
+================================================*/
 
+.pop-up-video1{
+    background: rgba(0, 0, 0, 0.81);
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+}
+
+.pop-up-video1 spam{
+    background: white;
+    cursor: pointer;
+    height: 20px;
+    width: 20px;
+    float: right;
+    margin: 20px;
+    border-radius: 15px;
+    line-height: 1;
+    font-weight: bold;
+    text-align: center;
+}
+
+.pop-up-video1 div{
+    width: 50%;
+    margin: auto;
+    top: 20%;
+    position: relative;
+}
+
+.pop-up-video2{
+    background: rgba(0, 0, 0, 0.81);
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+}
+
+.pop-up-video2 spam{
+    background: white;
+    cursor: pointer;
+    height: 20px;
+    width: 20px;
+    float: right;
+    margin: 20px;
+    border-radius: 15px;
+    line-height: 1;
+    font-weight: bold;
+    text-align: center;
+}
+
+.pop-up-video2 div{
+    width: 50%;
+    margin: auto;
+    top: 20%;
+    position: relative;
+}
+
+.catrog{
+
+    text-align: center;
+}
+
+.catrog button{
+    margin: 50px 80px;
+    background: transparent;
+    border: transparent;
+    text-align: center;
+    cursor: pointer;
+}
+
+.boton-1,.boton-2{
+    display: inline-block;
+    vertical-align: top;
+    width: 350px;
+    margin: 20px;
+}
+
+.boton-1 img,.boton-2 img{
+    width: 350px;
+}
+
+.catrog p{
+    width: 100%;
+}

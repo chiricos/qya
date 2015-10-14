@@ -100,33 +100,36 @@
                 <section>
 
                     <section class="page">
-                        <div class="clientes">
+                        <div class="clientes" style="width: 49.6%;">
                             <div>
-                                <figure class="en-linea four-column">
+                                <figure class="en-linea four-column" style="    width: 77%;">
                                     <img src="images/infraestructura/infraestructura-8.png">
 
                                 </figure>
-                                <figure class="en-linea four-column">
+                                <figure class="en-linea four-column" style="    width: 77%;">
                                     <img src="images/infraestructura/infraestructura-7.png">
                                 </figure>
                             </div>
-                            <figure>
-                                <img src="images/infraestructura1.png" />
-                            </figure>
+
                         </div>
+                        <figure>
+                            <img src="images/infraestructura1.png" />
+                        </figure>
                     </section>
+
 
 
             </div>
 
             <div class="experiencia-vial">
-                <h2 style="text-align: justify;">CONCESIONES DE CUARTA GENERACIÓN ZONA NORTE</h2>
+                <h2 style="text-align: justify;margin-top: 50px;">CONCESIONES DE CUARTA GENERACIÓN ZONA NORTE</h2>
                 <p>
                     Estructuración Integral (Financiera, legal y técnica) para la Agencia Nacional de Infraestructura (ANI)
                     con el fin de desarrollar 1.251 Kms de Alianzas Público-Privadas (APPs) de concesiones viales en la parte norte de Colombia
                 </p>
+
                 <figure class="vial-img">
-                    <img src="images/infraestructura/logos.png" />
+                    <img src="images/infraestructura/logos-cuadro.png" />
                 </figure>
 
 
@@ -172,8 +175,31 @@
             </div>
 
             <div class="catrog">
-                <iframe class="youtube-player" src="http://www.youtube.com/embed/WvztG8MEwD8?autoplay=0&amp;controls=1&amp;rel=0&amp;showinfo=0" width="100%" height="600px" frameborder="0"></iframe>
-                <iframe class="youtube-player" src="http://www.youtube.com/embed/qtnwC-iP69s?autoplay=0&amp;controls=1&amp;rel=0&amp;showinfo=0" width="100%" height="600px" frameborder="0"></iframe>
+                <button class="boton-1">
+                    <img src="images/infraestructura/video1.png" >
+                    <p>
+                        Cartagena-Barranquilla segunda circunvalar de barranquilla
+                    </p>
+                </button>
+                <button class="boton-2">
+                    <img src="images/infraestructura/video2.png" >
+                    <p>
+                        Puerta de hierro-cruz del viso-palmar de varela
+                    </p>
+
+                </button>
+                <div class="pop-up-video1 hidden">
+                    <spam>x</spam>
+                    <div>
+                        <iframe class="youtube-player" src="http://www.youtube.com/embed/WvztG8MEwD8?autoplay=0&amp;controls=1&amp;rel=0&amp;showinfo=0" width="100%" height="600px" frameborder="0"></iframe>
+                    </div>
+                </div>
+                <div class="pop-up-video2 hidden">
+                    <spam>x</spam>
+                    <div>
+                        <iframe class="youtube-player" src="http://www.youtube.com/embed/qtnwC-iP69s?autoplay=0&amp;controls=1&amp;rel=0&amp;showinfo=0" width="100%" height="600px" frameborder="0"></iframe>
+                    </div>
+                </div>
             </div>
 
 

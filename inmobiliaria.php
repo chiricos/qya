@@ -46,14 +46,6 @@
                     </p>
                 </figure>
 
-
-                <figure class="en-linea four-column">
-                    <img src="images/financiacion/financiacion-23.png">
-                    <p>
-                        Optimización financiera de clinica
-                    </p>
-                </figure>
-
                 <figure class="en-linea four-column">
                     <img src="images/financiacion/financiacion-3.png">
                     <p>
@@ -119,13 +111,31 @@
                     </p>
                 </figure>
 
+                <figure class="en-linea four-column">
+                    <img src="images/financiacion/financiacion-31.png">
+                    <p>
+                        Estructuración de lease back
+                    </p>
+                </figure>
+
+                <figure class="en-linea four-column">
+                    <img src="images/financiacion/financiacion-10.png">
+                    <p>
+                        Financiación de centro logìstico en instalaciones HACEB
+                    </p>
+                </figure>
+
+                <figure class="en-linea four-column">
+                    <img src="images/financiacion/financiacion-32.png">
+                    <p>
+                        Estructuración de proyectos inmobiliarios: residencias estudiantiles, centro comerciales y oficinas
+                    </p>
+                </figure>
 
 
             </div>
 
-            <p style="text-align: center;padding-top:30px">
-                Q&A Banca de inversión ha estructurado más de 1 millones de GLA (Gross Leasable Area-Area útil).
-            <p>
+
         </section>
 
 
