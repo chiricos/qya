@@ -5,7 +5,7 @@
     </div>
     <div id="wrapper-financiacion" >
 
-                    <p>
+                    <p style="margin:150px 0 100px">
                         Q&A ha realizado procesos de estructuración de proyectos de infraestructura en los sectores energético
 
                         (energía, Oil and gas) y vial. La estructuración se basa en proceso Project Finance  en el cual Q&A realiza la
@@ -89,7 +89,7 @@
 
             <div class="experiencia-vial">
                 <h2 style="text-align: justify;">TÚNEL DE ORIENTE</h2>
-                <p style="text-align: justify">
+                <p style="text-align: justify;margin:60px 0">
                     Estructuración, modelación, formulación y definición del esquema financiero para la participación del IDEA como
                     cofinanciador del proyecto y toma de decisiones de la gobernación para posterior acuerdo para la ejecución de
                     la fase II del contrato (aportes requeridos por la gobernación y el concesionario para obtener cierre financiero
@@ -101,12 +101,13 @@
 
                     <section class="page">
                         <div class="clientes" style="width: 49.6%;">
-                            <div>
-                                <figure class="en-linea four-column" style="    width: 77%;">
+                            <div style="width: 99%">
+                                <figure class="en-linea four-column" style="     width: 45%;
+    margin: 50px 26px 50px 0px;">
                                     <img src="images/infraestructura/infraestructura-8.png">
 
                                 </figure>
-                                <figure class="en-linea four-column" style="    width: 77%;">
+                                <figure class="en-linea four-column" style="    width: 45%;    margin: 50px 0;">
                                     <img src="images/infraestructura/infraestructura-7.png">
                                 </figure>
                             </div>
@@ -123,7 +124,7 @@
 
             <div class="experiencia-vial">
                 <h2 style="text-align: justify;margin-top: 50px;">CONCESIONES DE CUARTA GENERACIÓN ZONA NORTE</h2>
-                <p>
+                <p style="margin-top:50px">
                     Estructuración Integral (Financiera, legal y técnica) para la Agencia Nacional de Infraestructura (ANI)
                     con el fin de desarrollar 1.251 Kms de Alianzas Público-Privadas (APPs) de concesiones viales en la parte norte de Colombia
                 </p>
@@ -177,15 +178,17 @@
             <div class="catrog">
                 <button class="boton-1">
                     <img src="images/infraestructura/video1.png" >
-                    <p>
+                    <p style=" font-family: 'Open Sans Condensed', sans-serif;">
                         Cartagena-Barranquilla segunda circunvalar de barranquilla
                     </p>
                 </button>
                 <button class="boton-2">
                     <img src="images/infraestructura/video2.png" >
-                    <p>
+                    <p style=" font-family: 'Open Sans Condensed', sans-serif;">
                         Puerta de hierro-cruz del viso-palmar de varela
                     </p>
+
+
 
                 </button>
                 <div class="pop-up-video1 hidden">

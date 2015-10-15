@@ -5,7 +5,7 @@
     </div>
     <div id="wrapper-financiacion" >
 
-        <p>
+        <p style="margin: 150px 0 100px;text-align: justify">
             Q&A ha realizado la estructuración de más de un millón de metros cuadrados construidos en el sector
 
             inmobiliario dentro de los segmentos de comercio, oficinas, parqueaderos, salud y Logística. La
