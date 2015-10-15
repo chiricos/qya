@@ -18,13 +18,7 @@
                 <li>
                     <h3 >Financiación de proyectos (project finance)</h3>
                     <p>
-                        Estructuración de proyectos que tiene un
-                        promotor corporativo  a través de una estructura legal independiente la cual asume y   mitiga los
-                        riesgos del proyecto. Q&A realiza la estructuración financiera a través de la construcción de
-                        modelos financieros, así como la identificación, medición y mitigación de riesgos  de acuerdo a su
-                        naturaleza (construcción, operativos, financieros, entre otros). Adicionalmente, Q&A realiza los
-                        procesos (Road Show, negociación, cierre y acompañamiento hasta el desembolso) para el  fondeo
-                        de los proyectos vía  Deuda, Semi-Equity y Equity.
+                        Estructuración de proyectos que tiene un promotor corporativo a través de una estructura legal independiente la cual asume y mitiga los riesgos del proyecto. Q&A realiza la estructuración financiera a través de la construcción de modelos financieros, así como la identificación, medición y mitigación de riesgos de acuerdo con su naturaleza (construcción, operativos, financieros, entre otros). Adicionalmente, Q&A realiza los procesos (Road Show, negociación, cierre y acompañamiento hasta el desembolso) para el fondeo de los proyectos vía Deuda, Semi-Equity y Equity.
                     </p>
                 </li>
                 <li>
@@ -33,7 +27,7 @@
                         Tipo de crédito que por su tamaño es distribuido en diferentes
                         instituciones crediticias. Puede utilizarse en Project Finance, optimización y reestructuración de
                         pasivos existentes o nuevos créditos.  Q&A además de la estructuración del pasivo, realiza un
-                        proceso de puja en el cual las participaciones de las entidades se distribuyen de acuerdo a las
+                        proceso de puja en el cual las participaciones de las entidades se distribuyen de acuerdo con las
                         mejores características que ofrecen las entidades financieras en sus hojas de términos.
                     </p>
                 </li>
@@ -66,7 +60,7 @@
                     <p>
                         Estructuración de pasivos financieros existentes
                         de compañías mediante la re-perfilación del plazo y la negociación de menores  tasas de interés de
-                        las acreencias financieras. Lo anterior con el fin de mejorar el flujo de caja de las compañías,
+                        las creencias financieras. Lo anterior con el fin de mejorar el flujo de caja de las compañías,
                         permitiendo a su administración concentrarse en las actividades centrales de la compañía. Q&A
                         realiza la modelación financiera de la compañía con el fin de establecer el flujo de caja futuro
                         disponible para cubrir el servicio de la deuda de los pasivos existentes y así definir las características
@@ -77,10 +71,7 @@
                 <li>
                     <h3 >Bonos corporativos </h3>
                     <p>
-                        Estructuración y emisiones de títulos de deuda corporativa y de proyectos
-                        de largo plazo. Q&A realiza la estructuración a través de modelos financieros con el fin de perfilar el
-                        titulo valor, identifica, mide y establece mecanismo de mitigación de riesgos  y realiza el
-                        acompañamiento hasta que el titulo este listado en la bolsa de valores.
+                        Estructuración y emisiones de títulos de deuda corporativa y de proyectos de largo plazo. Q&A realiza la estructuración a través de modelos financieros con el fin de perfilar el título valor, identifica, mide y establece mecanismo de mitigación de riesgos y realiza el acompañamiento hasta que el título este listado en la bolsa de valores.
                     </p>
                 </li>
             </ul>

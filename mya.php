@@ -42,10 +42,7 @@
                 <li>
                     <h3 >BUSINESS PLAN / ESTRATEGIA</h3>
                     <p>
-                        Q&A realiza la estructuración de planes de negocio de proyectos
-                        nuevos y/o el definición de estrategia de acuerdo a la experiencia de sus socios en el sector
-                        financiero y real. Estos procesos van acompañados de estudios de terceros (mercadeo, jurídicos,
-                        técnicos, entre otros), plasmados en los modelos financieros realizados por Q&A.
+                        Q&A realiza la estructuración de planes de negocio de proyectos nuevos y/o la definición de estrategia de acuerdo con la experiencia de sus socios en el sector financiero y real. Estos procesos van acompañados de estudios de terceros (mercadeo, jurídicos, técnicos, entre otros), plasmados en los modelos financieros realizados por Q&A.
                     </p>
                 </li>
             </ul>

@@ -14,7 +14,7 @@
 
             través de la construcción de modelos financieros, así como la identificación, medición y mitigación de
 
-            riesgos  de acuerdo a su naturaleza (construcción, operativos, financieros, entre otros). Adicionalmente,
+            riesgos  de acuerdo con su naturaleza (construcción, operativos, financieros, entre otros). Adicionalmente,
 
             Q&A realiza los procesos (Road Show, negociación, cierre y acompañamiento hasta el desembolso) para el
 

@@ -11,9 +11,8 @@
 
         <section class="textos-conocenos" >
             <p style="  "></p>
-            <p><span style="color:black;">Q&A BANCA DE INVERSIÓN ("Q&A")</span> es una compañía fundada en enero de 2004 como una firma de banca de inversión que se dedica a la asesoría financiera para compañías en marcha y a la estructuración de proyectos a nivel nacional e internacional.
-                Sus principales servicios son: Procesos de compra venta y fusiones de compañias, valoración de empresas, financiación y optimización financiera de compañias en marcha, project finance o financiación de proyectos y titulizaciones entre otros.
-                La experienca de los socios incluye todos los sectores de la economia resaltando el sector inmobiliario e infraestructura .
+            <p><span style="color:black;">Q&A BANCA DE INVERSIÓN ("Q&A")</span>                 es una compañía fundada en enero de 2004 como una firma de banca de inversión que se dedica a la asesoría financiera para compañías en marcha y a la estructuración de proyectos a nivel nacional e internacional. Sus principales servicios son: Procesos de compraventa y fusiones de compañías, valoración de empresas, financiación y optimización financiera de compañías en marcha, project finance o financiación de proyectos y titulizaciones entre otros. La experiencia de los socios incluye todos los sectores de la economía resaltando el sector inmobiliario e infraestructura.
+
             </p>
         </section>
         <figure>
@@ -35,12 +34,16 @@
         <div class="page" >
             <article class="en-linea two-column" style="width: 45%;margin-right: 48px">
                 <h3>LO QUE SOMOS</h3>
-                <p>La misión de Q&A es prestar los servicios de estructuración finaciera con el fin de satisfacer las necesidades de nuestros clientes buscando la prosperidad de ellos, la de Q&A, los accionistas y sus colaboradores.</p>
+                <p>
+                    La misión de Q&A es prestar los servicios de estructuración financiera con el fin de satisfacer las necesidades de nuestros clientes buscando la prosperidad de ellos, la de Q&A, los accionistas y sus colaboradores.
+                </p>
             </article>
 
             <article class="en-linea two-column">
                 <h3>EN LO QUE CREEMOS</h3>
-                <p>Q&A busca ser un excelente proveedor de servicios de estructuración financiera a nivel nacional e internacional, velando por la calidad del trabajo, la rentabilidad para la compañía y el progreso de sus conlaboradores.</p>
+                <p>
+                    Q&A busca ser un excelente proveedor de servicios de estructuración financiera a nivel nacional e internacional, velando por la calidad del trabajo, la rentabilidad para la compañía y el progreso de sus conlaboradores.
+                </p>
             </article>
 
 

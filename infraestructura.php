@@ -6,17 +6,7 @@
     <div id="wrapper-financiacion" >
 
                     <p style="margin:150px 0 100px">
-                        Q&A ha realizado procesos de estructuración de proyectos de infraestructura en los sectores energético
-
-                        (energía, Oil and gas) y vial. La estructuración se basa en proceso Project Finance  en el cual Q&A realiza la
-
-                        estructuración financiera a través de la construcción de modelos financieros, así como la identificación,
-
-                        medición y mitigación de riesgos  de acuerdo a su naturaleza (construcción, operativos, financieros, entre
-
-                        otros). Adicionalmente, Q&A realiza los procesos (Road Show, negociación, cierre y acompañamiento hasta
-
-                        el desembolso) para el  fondeo de los proyectos vía  Deuda, Semi-Equity y Equity.
+                        Q&A ha realizado procesos de estructuración de proyectos de infraestructura en los sectores energéticos (energía, Oil and gas) y vial. La estructuración se basa en proceso Project Finance en el cual Q&A realiza la estructuración financiera a través de la construcción de modelos financieros, así como la identificación, medición y mitigación de riesgos de acuerdo con su naturaleza (construcción, operativos, financieros, entre otros). Adicionalmente, Q&A realiza los procesos (Road Show, negociación, cierre y acompañamiento hasta el desembolso) para el fondeo de los proyectos vía Deuda, Semi-Equity y Equity.
                     </p>
 
         <div class="title-services">
@@ -93,7 +83,7 @@
                     Estructuración, modelación, formulación y definición del esquema financiero para la participación del IDEA como
                     cofinanciador del proyecto y toma de decisiones de la gobernación para posterior acuerdo para la ejecución de
                     la fase II del contrato (aportes requeridos por la gobernación y el concesionario para obtener cierre financiero
-                    del contrato NO 97-CO-20-1811 Conexión Vial Aburrá Oriente - Tunel del Oriente y vías complementarias suscrito
+                    del contrato NO 97-CO-20-1811 Conexión Vial Aburrá Oriente - Túnel del Oriente y vías complementarias suscrito
                     entre la Gobernación de Antioquia y Concesión túnel de Aburrá de Oriente S.A). La concesión tiene una longitud
                     total de 23 kilómetros y un monto de inversión en la fase II de aproximadamente COP 768.000 millones.
                 </p>
@@ -125,8 +115,9 @@
             <div class="experiencia-vial">
                 <h2 style="text-align: justify;margin-top: 50px;">CONCESIONES DE CUARTA GENERACIÓN ZONA NORTE</h2>
                 <p style="margin-top:50px">
-                    Estructuración Integral (Financiera, legal y técnica) para la Agencia Nacional de Infraestructura (ANI)
-                    con el fin de desarrollar 1.251 Kms de Alianzas Público-Privadas (APPs) de concesiones viales en la parte norte de Colombia
+                    Estructuración Integral (Financiera, legal y técnica) para la Agencia Nacional de Infraestructura (ANI) con el fin de desarrollar 1.251 km de Alianzas público-privadas (APPs) de concesiones viales en la parte norte de Colombia
+
+
                 </p>
 
                 <figure class="vial-img">
@@ -166,7 +157,7 @@
                             </article>
                             <article>
                                 <span class="vial-title">Corredor 7:</span>
-                                Cruz del Viso-Sampues, longitud de 125 Km y una inversion estimada de 0.3 billones.
+                                Cruz del Viso-Sampues, longitud de 125 Km y una inversión estimada de 0.3 billones.
                             </article>
                         </p>
                     </div>
