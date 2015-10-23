@@ -18,13 +18,13 @@
             <div class="flexslider">
                 <ul class="slides">
                     <li>
-                        <img src="images/1.jpg" />
+                        <img src="images/home/china-654404_1280.jpg" />
                     </li>
                     <li>
-                        <img src="images/3.jpg"/>
+                        <img src="images/home/motorway-484105_1280.jpg"/>
                     </li>
                     <li>
-                        <img src="images/4.jpg"/>
+                        <img src="images/home/new-york-193716_1280.jpg"/>
                     </li>
                 </ul>
             </div>
