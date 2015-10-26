@@ -104,7 +104,7 @@
 
                         </div>
                         <figure>
-                            <img src="images/infraestructura1.png" />
+                            <img src="images/auto-962083_1920.jpg" />
                         </figure>
                     </section>
 

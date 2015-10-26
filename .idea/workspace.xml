@@ -35,8 +35,8 @@
       <file leaf-file-name="infraestructura.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/infraestructura.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.833333">
-              <caret line="178" column="71" selection-start-line="178" selection-start-column="0" selection-end-line="179" selection-end-column="0" />
+            <state vertical-scroll-proportion="-25.625">
+              <caret line="106" column="65" selection-start-line="106" selection-start-column="65" selection-end-line="106" selection-end-column="65" />
               <folding />
             </state>
           </provider>
@@ -92,11 +92,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="30" column="17" selection-start-line="16" selection-start-column="7" selection-end-line="30" selection-end-column="17" />
+            <state vertical-scroll-proportion="0.6075419">
+              <caret line="29" column="63" selection-start-line="29" selection-start-column="63" selection-end-line="29" selection-end-column="63" />
               <folding />
             </state>
           </provider>
@@ -112,10 +112,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="equipo.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="equipo.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/equipo.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7276536">
+            <state vertical-scroll-proportion="-21.708334">
               <caret line="103" column="61" selection-start-line="103" selection-start-column="61" selection-end-line="103" selection-end-column="61" />
               <folding />
             </state>
@@ -157,12 +157,12 @@
         <option value="$PROJECT_DIR$/fondo.php" />
         <option value="$PROJECT_DIR$/financiacion.php" />
         <option value="$PROJECT_DIR$/mya.php" />
-        <option value="$PROJECT_DIR$/infraestructura.php" />
         <option value="$PROJECT_DIR$/inmobiliaria.php" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/nosotros.php" />
         <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/equipo.php" />
+        <option value="$PROJECT_DIR$/infraestructura.php" />
+        <option value="$PROJECT_DIR$/index.php" />
       </list>
     </option>
   </component>
@@ -246,7 +246,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../canvas" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="FullScreen" value="true" />
-    <property name="SearchEverywhereHistoryKey" value="sty&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/css/style.css&#10;equip&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/equipo.php&#10;no&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/nosotros.php&#10;inde&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/index.php&#10;inm&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/inmobiliaria.php&#10;infra&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/infraestructura.php&#10;mya&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/mya.php&#10;fina&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/financiacion.php&#10;noso&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/nosotros.php&#10;fond&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/fondo.php&#10;infr&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/infraestructura.php&#10;fin&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/financiacion.php&#10;HEA&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/header.php&#10;inmo&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/inmobiliaria.php&#10;financ&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/financiacion.php&#10;m&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/mya.php&#10;STY&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/css/style.css&#10;cont&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/contacto.php&#10;inter&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/internacionales.php&#10;CLIEN&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/clienes.php&#10;fon&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/fondo.php&#10;equi&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/equipo.php&#10;in&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/index.php&#10;CLI&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/clienes.php&#10;men&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/menu.php&#10;clien&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/clienes.php&#10;footer&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/footer.php&#10;sc&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/js/script.js&#10;cli&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/clienes.php&#10;me&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/menu.php&#10;scr&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/js/script.js&#10;NOSO&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/nosotros.php&#10;cliente&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/imagenes/1_Imagenes/5_Clientes/Clientes_1.jpg&#10;finan&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/financiacion.php&#10;index.p&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/index.php&#10;hea&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/header.php&#10;index&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/imagenes/index.html&#10;valo&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/valorizacion.php&#10;CLIE&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/clienes.php&#10;styl&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/css/style.css&#10;agr&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/agricola.php&#10;real&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/real.php&#10;foo&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/footer.php&#10;js&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/js/script.js&#10;he&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/header.php&#10;ag&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/agricola.php&#10;inmobi&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/inmobiliaria.php&#10;ser&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/servicios.php" />
+    <property name="SearchEverywhereHistoryKey" value="inde&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/index.php&#10;infra&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/infraestructura.php&#10;sty&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/css/style.css&#10;equip&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/equipo.php&#10;no&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/nosotros.php&#10;inm&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/inmobiliaria.php&#10;mya&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/mya.php&#10;fina&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/financiacion.php&#10;noso&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/nosotros.php&#10;fond&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/fondo.php&#10;infr&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/infraestructura.php&#10;fin&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/financiacion.php&#10;HEA&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/header.php&#10;inmo&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/inmobiliaria.php&#10;financ&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/financiacion.php&#10;m&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/mya.php&#10;STY&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/css/style.css&#10;cont&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/contacto.php&#10;inter&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/internacionales.php&#10;CLIEN&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/clienes.php&#10;fon&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/fondo.php&#10;equi&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/equipo.php&#10;in&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/index.php&#10;CLI&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/clienes.php&#10;men&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/menu.php&#10;clien&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/clienes.php&#10;footer&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/footer.php&#10;sc&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/js/script.js&#10;cli&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/clienes.php&#10;me&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/menu.php&#10;scr&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/js/script.js&#10;NOSO&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/nosotros.php&#10;cliente&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/imagenes/1_Imagenes/5_Clientes/Clientes_1.jpg&#10;finan&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/financiacion.php&#10;index.p&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/index.php&#10;hea&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/header.php&#10;index&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/imagenes/index.html&#10;valo&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/valorizacion.php&#10;CLIE&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/clienes.php&#10;styl&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/css/style.css&#10;agr&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/agricola.php&#10;real&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/real.php&#10;foo&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/footer.php&#10;js&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/js/script.js&#10;he&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/header.php&#10;ag&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/agricola.php&#10;inmobi&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/inmobiliaria.php&#10;ser&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/servicios.php" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
@@ -684,14 +684,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="30" column="17" selection-start-line="16" selection-start-column="7" selection-end-line="30" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/nosotros.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-4.2916665">
@@ -708,18 +700,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/infraestructura.php">
+    <entry file="file://$PROJECT_DIR$/equipo.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.833333">
-          <caret line="178" column="71" selection-start-line="178" selection-start-column="0" selection-end-line="179" selection-end-column="0" />
+        <state vertical-scroll-proportion="-21.708334">
+          <caret line="103" column="61" selection-start-line="103" selection-start-column="61" selection-end-line="103" selection-end-column="61" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/equipo.php">
+    <entry file="file://$PROJECT_DIR$/infraestructura.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7276536">
-          <caret line="103" column="61" selection-start-line="103" selection-start-column="61" selection-end-line="103" selection-end-column="61" />
+        <state vertical-scroll-proportion="-25.625">
+          <caret line="106" column="65" selection-start-line="106" selection-start-column="65" selection-end-line="106" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6075419">
+          <caret line="29" column="63" selection-start-line="29" selection-start-column="63" selection-end-line="29" selection-end-column="63" />
           <folding />
         </state>
       </provider>

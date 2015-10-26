@@ -27,6 +27,9 @@
                     <li>
                         <img src="images/home/new-york-193716_1280.jpg"/>
                     </li>
+                    <li>
+                        <img src="images/hoover-691114_1280.jpg"/>
+                    </li>
                 </ul>
             </div>
         </figure>
