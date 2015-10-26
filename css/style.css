@@ -1161,3 +1161,106 @@ POP-UP
     padding: 0;
     width: 100%;
 }
+
+/*=================================
+    RESPONSIVE
+=================================*/
+
+@media only screen and (max-width: 800px) {
+
+    #wrapper{
+        width: 100%;
+    }
+
+    .textos-conocenos p:nth-last-of-type(1){
+        width: 90%;
+    }
+
+    .services figure{
+        width: 80%;
+    }
+
+    .title:before,.title:after{
+        content: '';
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        width: 0;
+        height: 0;
+        background:none;
+    }
+
+    .two-column{
+        width: 75% !important;
+    }
+
+    .banner-nosotros{
+        background: white;
+    }
+
+    .banner-nosotros img{
+        width: 100%;
+    }
+
+    #wrapper-financiacion{
+        width: 100%;
+    }
+
+    .clientes{
+        text-align: center;
+    }
+
+    .clientes figure{
+        width: 90%;
+    }
+
+    .clientes figure p{
+        text-align: center;
+    }
+
+    .title-services h3{
+        text-align: center;
+    }
+
+    .experiencias ul{
+        width: 91%!important;
+        margin-left: 20px !important;
+        margin-top: -60px;
+    }
+
+    .experiencias ul li p{
+        width: 100%;
+    }
+
+    .experiencia-vial{
+        text-align: center !important;
+        width: 100%;
+    }
+
+    .experiencia-vial h2,.experiencia-vial p{
+        text-align: center!important;
+        margin: 0!important;
+    }
+
+    p{
+        margin: auto!important;
+        width: 90%;
+    }
+
+    .experiencia-vial section div{
+        width: 100%!important;
+    }
+
+    .catrog button{
+        margin: 0;
+    }
+
+    img{
+        width: 100%;
+    }
+
+    .experiencia-vial section figure,article{
+        width: 75%;
+    }
+}
+
