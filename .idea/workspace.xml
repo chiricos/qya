@@ -26,7 +26,7 @@
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="51" />
+              <caret line="1159" column="16" selection-start-line="1159" selection-start-column="16" selection-end-line="1159" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -35,18 +35,8 @@
       <file leaf-file-name="infraestructura.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/infraestructura.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
+            <state vertical-scroll-proportion="-9.833333">
               <caret line="178" column="71" selection-start-line="178" selection-start-column="0" selection-end-line="179" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="fondo.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fondo.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="9" column="41" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
               <folding />
             </state>
           </provider>
@@ -65,7 +55,7 @@
       <file leaf-file-name="inmobiliaria.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/inmobiliaria.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
+            <state vertical-scroll-proportion="0.0">
               <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
               <folding />
             </state>
@@ -105,18 +95,28 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-18.75">
+            <state vertical-scroll-proportion="0.0">
               <caret line="30" column="17" selection-start-line="16" selection-start-column="7" selection-end-line="30" selection-end-column="17" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="nosotros.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="nosotros.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/nosotros.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6549296">
-              <caret line="31" column="17" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
+            <state vertical-scroll-proportion="-4.2916665">
+              <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="equipo.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/equipo.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.7276536">
+              <caret line="103" column="61" selection-start-line="103" selection-start-column="61" selection-end-line="103" selection-end-column="61" />
               <folding />
             </state>
           </provider>
@@ -152,10 +152,8 @@
         <option value="$PROJECT_DIR$/clienes.php" />
         <option value="$PROJECT_DIR$/internacionales.php" />
         <option value="$PROJECT_DIR$/contacto.php" />
-        <option value="$PROJECT_DIR$/equipo.php" />
         <option value="$PROJECT_DIR$/header.php" />
         <option value="$PROJECT_DIR$/js/script.js" />
-        <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/fondo.php" />
         <option value="$PROJECT_DIR$/financiacion.php" />
         <option value="$PROJECT_DIR$/mya.php" />
@@ -163,6 +161,8 @@
         <option value="$PROJECT_DIR$/inmobiliaria.php" />
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/nosotros.php" />
+        <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/equipo.php" />
       </list>
     </option>
   </component>
@@ -205,7 +205,6 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -240,13 +239,14 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../canvas" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="FullScreen" value="true" />
-    <property name="SearchEverywhereHistoryKey" value="no&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/nosotros.php&#10;inde&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/index.php&#10;inm&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/inmobiliaria.php&#10;infra&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/infraestructura.php&#10;mya&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/mya.php&#10;fina&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/financiacion.php&#10;noso&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/nosotros.php&#10;fond&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/fondo.php&#10;infr&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/infraestructura.php&#10;fin&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/financiacion.php&#10;HEA&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/header.php&#10;inmo&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/inmobiliaria.php&#10;financ&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/financiacion.php&#10;m&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/mya.php&#10;STY&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/css/style.css&#10;cont&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/contacto.php&#10;inter&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/internacionales.php&#10;CLIEN&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/clienes.php&#10;fon&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/fondo.php&#10;equi&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/equipo.php&#10;in&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/index.php&#10;sty&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/css/style.css&#10;CLI&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/clienes.php&#10;men&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/menu.php&#10;clien&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/clienes.php&#10;footer&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/footer.php&#10;sc&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/js/script.js&#10;cli&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/clienes.php&#10;me&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/menu.php&#10;scr&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/js/script.js&#10;NOSO&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/nosotros.php&#10;cliente&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/imagenes/1_Imagenes/5_Clientes/Clientes_1.jpg&#10;finan&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/financiacion.php&#10;index.p&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/index.php&#10;hea&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/header.php&#10;index&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/imagenes/index.html&#10;valo&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/valorizacion.php&#10;CLIE&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/clienes.php&#10;styl&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/css/style.css&#10;agr&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/agricola.php&#10;real&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/real.php&#10;foo&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/footer.php&#10;js&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/js/script.js&#10;he&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/header.php&#10;ag&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/agricola.php&#10;inmobi&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/inmobiliaria.php&#10;ser&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/servicios.php" />
+    <property name="SearchEverywhereHistoryKey" value="sty&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/css/style.css&#10;equip&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/equipo.php&#10;no&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/nosotros.php&#10;inde&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/index.php&#10;inm&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/inmobiliaria.php&#10;infra&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/infraestructura.php&#10;mya&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/mya.php&#10;fina&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/financiacion.php&#10;noso&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/nosotros.php&#10;fond&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/fondo.php&#10;infr&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/infraestructura.php&#10;fin&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/financiacion.php&#10;HEA&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/header.php&#10;inmo&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/inmobiliaria.php&#10;financ&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/financiacion.php&#10;m&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/mya.php&#10;STY&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/css/style.css&#10;cont&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/contacto.php&#10;inter&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/internacionales.php&#10;CLIEN&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/clienes.php&#10;fon&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/fondo.php&#10;equi&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/equipo.php&#10;in&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/index.php&#10;CLI&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/clienes.php&#10;men&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/menu.php&#10;clien&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/clienes.php&#10;footer&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/footer.php&#10;sc&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/js/script.js&#10;cli&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/clienes.php&#10;me&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/menu.php&#10;scr&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/js/script.js&#10;NOSO&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/nosotros.php&#10;cliente&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/imagenes/1_Imagenes/5_Clientes/Clientes_1.jpg&#10;finan&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/financiacion.php&#10;index.p&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/index.php&#10;hea&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/header.php&#10;index&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/imagenes/index.html&#10;valo&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/valorizacion.php&#10;CLIE&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/clienes.php&#10;styl&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/css/style.css&#10;agr&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/agricola.php&#10;real&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/real.php&#10;foo&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/footer.php&#10;js&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/js/script.js&#10;he&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/header.php&#10;ag&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/agricola.php&#10;inmobi&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/inmobiliaria.php&#10;ser&#9;FILE&#9;file:///Users/drawde/Documents/drawde/qya/servicios.php" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
@@ -300,24 +300,24 @@
     <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24554455" sideWeight="0.4978701" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23960397" sideWeight="0.4978701" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24973376" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16932908" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17039403" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24554455" sideWeight="0.5021299" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32884097" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -336,9 +336,9 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.45325541" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32884097" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
   </component>
@@ -629,25 +629,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/equipo.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="281" column="24" selection-start-line="281" selection-start-column="24" selection-end-line="281" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="93" column="25" selection-start-line="93" selection-start-column="25" selection-end-line="93" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="51" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -691,14 +676,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/infraestructura.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="178" column="71" selection-start-line="178" selection-start-column="0" selection-end-line="179" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/inmobiliaria.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -709,7 +686,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-18.75">
+        <state vertical-scroll-proportion="0.0">
           <caret line="30" column="17" selection-start-line="16" selection-start-column="7" selection-end-line="30" selection-end-column="17" />
           <folding />
         </state>
@@ -717,8 +694,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/nosotros.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6549296">
-          <caret line="31" column="17" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
+        <state vertical-scroll-proportion="-4.2916665">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1159" column="16" selection-start-line="1159" selection-start-column="16" selection-end-line="1159" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/infraestructura.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.833333">
+          <caret line="178" column="71" selection-start-line="178" selection-start-column="0" selection-end-line="179" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/equipo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7276536">
+          <caret line="103" column="61" selection-start-line="103" selection-start-column="61" selection-end-line="103" selection-end-column="61" />
           <folding />
         </state>
       </provider>

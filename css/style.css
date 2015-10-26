@@ -1155,3 +1155,9 @@ POP-UP
     color: #025452;
     font-weight: inherit;
 }
+
+.img-hoja{
+    margin: 50px 0;
+    padding: 0;
+    width: 100%;
+}
