@@ -101,8 +101,12 @@
 
 -->
 
-        <img class="img-hoja" src="images/FRANCISCO%20J.jpg">
-        <img  class="img-hoja" src="images/fererico.jpg">
+        <img class="img-hoja"  style="margin: 50px 0;
+    padding: 0;
+    width: 100%;" src="images/FRANCISCO%20J.jpg">
+        <img  class="img-hoja"  style="margin: 50px 0;
+    padding: 0;
+    width: 100%;" src="images/fererico.jpg">
 
 
 
