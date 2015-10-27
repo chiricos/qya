@@ -6,6 +6,9 @@
     <title>Q&A</title>
     <link rel="stylesheet" href="css/flexslider.css" type="text/css">
     <link rel="stylesheet" type="text/css" href="css/style.css">
+    <meta name="author" content="Drawde"/>
+    <meta name="description" content="Banca de inversión"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0 maximum-scale=1"/>
     <script src="js/jquery-1.11.3.min.js"></script>
     <script src="js/jquery.flexslider.js"></script>
     <script src="js/script.js"></script>
