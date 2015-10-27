@@ -1,6 +1,6 @@
 <?php include('header.php'); ?>
     <div id="intro-wrapper" class="wrapper style1">
-        <div class="title"><h1>FONDO</h1></div>
+        <div class="title"><h1 style="font-size: 20px">FONDO DE INVERSIÓN INMOBILIARIO</h1></div>
 
     </div>
     <div id="wrapper" class="animation-pages">

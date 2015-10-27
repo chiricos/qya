@@ -32,7 +32,8 @@
                     </p>
                 </li>
             </ul>
-            <ul style="    margin-left: 75px;">
+            <ul style="    margin-left: 51px;
+    margin-right: 19px;">
                 <li>
                     <h3 >Crédito de fomento / exportación</h3>
                     <p style="width: 90%;">

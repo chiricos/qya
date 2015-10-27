@@ -54,6 +54,10 @@
     </ul>
 </div>
 <header>
+    <div class="pag-web">
+        <a href="ingles/index.php">EN</a>
+        <a href="index.php" style="border-bottom: 1px solid white;">ES</a>
+    </div>
     <?php include('menu.php'); ?>
 
 </header>

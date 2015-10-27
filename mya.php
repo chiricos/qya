@@ -26,7 +26,7 @@
                     </p>
                 </li>
             </ul>
-            <ul style="margin-left: 50px;">
+            <ul style="    margin-left: 44px;">
                 <li>
                     <h3 >COMPRA, VENTA Y FUSIONES DE EMPRESAS</h3>
                     <p>

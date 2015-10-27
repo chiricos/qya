@@ -2,6 +2,7 @@
     <a class="logo" href="index.php">
         <img src="images/logo-color.png">
     </a>
+
     <ul>
         <li>
             <a href="nosotros.php">QUIENES SOMOS</a>

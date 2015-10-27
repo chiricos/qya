@@ -1163,11 +1163,33 @@ POP-UP
 }
 
 /*=================================
+    español ingles
+=================================*/
+
+.pag-web{
+    width: 63%;
+    margin: auto;
+    text-align: end;
+    margin-top: -35px;
+}
+
+.pag-web a{
+    text-decoration: none;
+    color: white;
+    padding: 5px;
+
+}
+
+/*=================================
     RESPONSIVE
 =================================*/
 
 @media only screen and (max-width: 800px) {
 
+
+    .pag-web{
+        width: 90%;
+    }
     #wrapper{
         width: 100%;
     }
