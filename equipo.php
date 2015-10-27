@@ -4,7 +4,7 @@
 
     </div>
     <div id="wrapper" class="animation-pages">
-
+        <h1 class="titulo-h">EQUIPO DE TRABAJO</h1>
 <!--
         <div class="page" >
             <div class="nosotros-biografia">

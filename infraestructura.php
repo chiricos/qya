@@ -5,6 +5,8 @@
     </div>
     <div id="wrapper-financiacion" >
 
+        <h1 class="titulo-h" style="    top: 0px;
+    position: relative;">INFRAESTRUCTURA</h1>
                     <p style="margin:150px 0 100px">
                         Q&A ha realizado procesos de estructuración de proyectos de infraestructura en los sectores energéticos (energía, Oil and gas) y vial. La estructuración se basa en proceso Project Finance en el cual Q&A realiza la estructuración financiera a través de la construcción de modelos financieros, así como la identificación, medición y mitigación de riesgos de acuerdo con su naturaleza (construcción, operativos, financieros, entre otros). Adicionalmente, Q&A realiza los procesos (Road Show, negociación, cierre y acompañamiento hasta el desembolso) para el fondeo de los proyectos vía Deuda, Semi-Equity y Equity.
                     </p>

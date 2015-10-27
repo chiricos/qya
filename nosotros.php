@@ -6,7 +6,7 @@
     <div id="wrapper" class="animation-pages">
         <!--<div class="title">Conócenos</div>-->
 
-
+        <h1 class="titulo-h">HISTORIA</h1>
 
 
         <section class="textos-conocenos" >

@@ -1,11 +1,10 @@
 <?php include('header.php'); ?>
     <div id="intro-wrapper" class="wrapper style1">
         <div class="title"><h1>Q&A BANCA DE INVERSIÓN</h1></div>
-
     </div>
     <div id="wrapper" class="animation-pages">
         <!--<div class="title">Conócenos</div>-->
-
+        <h1 class="titulo-h">Q&A BANCA DE INVERSIÓN</h1>
 
 
         <section class="textos-conocenos" >

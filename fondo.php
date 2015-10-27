@@ -4,6 +4,8 @@
 
     </div>
     <div id="wrapper" class="animation-pages">
+        <h1 class="titulo-h" style="    top: 0px;
+    position: relative;">FONDO DE INVERSIÓN INMOBILIARIO</h1>
         <!--<div class="title">Conócenos</div>-->
         <h1 style="color: #3B8686;padding: 15px 0;font-size: 50px">EN CONSTRUCCIÓN</h1>
 
