@@ -103,10 +103,10 @@
 
         <img class="img-hoja"  style="margin: 50px 0;
     padding: 0;
-    width: 100%;" src="images/FRANCISCO%20J.jpg">
+    width: 100%;" src="images/FRANCISCO%20J.jpg" alt="hoja de vida " title="hoja de vida" />
         <img  class="img-hoja"  style="margin: 50px 0;
     padding: 0;
-    width: 100%;" src="images/fererico.jpg">
+    width: 100%;" src="images/fererico.jpg" alt="hoja de vida" title="hoja de vida" />
 
 
 

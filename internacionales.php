@@ -10,64 +10,64 @@
             <div class="clientes">
 
                 <figure class="en-linea four-column">
-                    <img src="images/mya/mya-34.png">
+                    <img src="images/mya/mya-34.png" alt="clientes" title="clientes" />
 
                 </figure>
 
                 <figure class="en-linea four-column">
-                    <img src="images/internacionales/internacionales-11.png">
+                    <img src="images/internacionales/internacionales-11.png" alt="clientes" title="clientes" />
                 </figure>
 
                 <figure class="en-linea four-column">
-                    <img src="images/mya/mya-38.png">
-
-                </figure>
-
-                <figure class="en-linea four-column">
-                    <img src="images/financiacion/financiacion-22.png">
+                    <img src="images/mya/mya-38.png" alt="clientes" title="clientes" />
 
                 </figure>
 
                 <figure class="en-linea four-column">
-                    <img src="images/internacionales/repsol.png">
+                    <img src="images/financiacion/financiacion-22.png" alt="clientes" title="clientes" />
+
                 </figure>
 
                 <figure class="en-linea four-column">
-                    <img src="images/internacionales/internacionales-2.png">
+                    <img src="images/internacionales/repsol.png" alt="clientes" title="clientes" />
                 </figure>
 
                 <figure class="en-linea four-column">
-                    <img src="images/internacionales/internacionales-3.png">
+                    <img src="images/internacionales/internacionales-2.png" alt="clientes" title="clientes" />
                 </figure>
 
                 <figure class="en-linea four-column">
-                    <img src="images/internacionales/internacionales-4.png">
-                </figure>
-                <figure class="en-linea four-column">
-                    <img src="images/internacionales/internacionales-5.png">
+                    <img src="images/internacionales/internacionales-3.png" alt="clientes" title="clientes" />
                 </figure>
 
                 <figure class="en-linea four-column">
-                    <img src="images/internacionales/internacionales-6.png">
+                    <img src="images/internacionales/internacionales-4.png" alt="clientes" title="clientes" />
+                </figure>
+                <figure class="en-linea four-column">
+                    <img src="images/internacionales/internacionales-5.png" alt="clientes" title="clientes" />
                 </figure>
 
                 <figure class="en-linea four-column">
-                    <img src="images/internacionales/internacionales-7.png">
+                    <img src="images/internacionales/internacionales-6.png" alt="clientes" title="clientes" />
                 </figure>
 
                 <figure class="en-linea four-column">
-                    <img src="images/internacionales/internacionales-8.png">
-                </figure>
-                <figure class="en-linea four-column">
-                    <img src="images/internacionales/internacionales-9.png">
+                    <img src="images/internacionales/internacionales-7.png" alt="clientes" title="clientes" />
                 </figure>
 
                 <figure class="en-linea four-column">
-                    <img src="images/internacionales/internacionales-10.png">
+                    <img src="images/internacionales/internacionales-8.png" alt="clientes" title="clientes" />
+                </figure>
+                <figure class="en-linea four-column">
+                    <img src="images/internacionales/internacionales-9.png" alt="clientes" title="clientes" />
                 </figure>
 
                 <figure class="en-linea four-column">
-                    <img src="images/infraestructura/infraestructura-11.png">
+                    <img src="images/internacionales/internacionales-10.png" alt="clientes" title="clientes" />
+                </figure>
+
+                <figure class="en-linea four-column">
+                    <img src="images/infraestructura/infraestructura-11.png" alt="clientes" title="clientes" />
                 </figure>
 
 

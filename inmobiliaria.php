@@ -34,53 +34,53 @@
 
 
                 <figure class="en-linea four-column">
-                    <img src="images/financiacion/financiacion-21.png">
+                    <img src="images/financiacion/financiacion-21.png" alt="inmobiliario" title="inmobiliario" />
                     <p>
                         Estructuración financiera y consecución de recursos para proyecto de parqueaderos y torre de servicios ambulatorios
                     </p>
                 </figure>
 
                 <figure class="en-linea four-column">
-                    <img src="images/financiacion/financiacion-22.png">
+                    <img src="images/financiacion/financiacion-22.png" alt="inmobiliario" title="inmobiliario" />
                     <p>
                         Consecución de recursos financieron y de equity para cuatro hoteles para un total aprox. 1000 habitaciones
                     </p>
                 </figure>
 
                 <figure class="en-linea four-column">
-                    <img src="images/financiacion/financiacion-3.png">
+                    <img src="images/financiacion/financiacion-3.png" alt="inmobiliario" title="inmobiliario" />
                     <p>
                         Financiación centro comercial en Neiva
                     </p>
                 </figure>
 
                 <figure class="en-linea four-column">
-                    <img src="images/financiacion/financiacion-12.png">
+                    <img src="images/financiacion/financiacion-12.png" alt="inmobiliario" title="inmobiliario" />
                     <p>
                         Financiación de local ancla y centro comercial en Soacha
                     </p>
                 </figure>
 
                 <figure class="en-linea four-column">
-                    <img src="images/financiacion/financiacion-14.png">
+                    <img src="images/financiacion/financiacion-14.png" alt="inmobiliario" title="inmobiliario" />
                     <p>
                         Financiación resort en Cartagena
                     </p>
                 </figure>
 
                 <figure class="en-linea four-column">
-                    <img src="images/financiacion/financiacion-4.png">
+                    <img src="images/financiacion/financiacion-4.png" alt="inmobiliario" title="inmobiliario" />
                     <p>Estructuración Centro comercial san mateo</p>
                 </figure>
 
 
                 <figure class="en-linea four-column">
-                    <img src="images/financiacion/financiacion-6.png">
+                    <img src="images/financiacion/financiacion-6.png" alt="inmobiliario" title="inmobiliario" />
                     <p>Financiación de centro de almacenaje y distribuición</p>
                 </figure>
 
                 <figure class="en-linea four-column">
-                    <img src="images/financiacion/financiacion-24.png">
+                    <img src="images/financiacion/financiacion-24.png" alt="inmobiliario" title="inmobiliario" />
                     <p>
                         Optimización financiera de clinica
                     </p>
@@ -90,7 +90,7 @@
 
 
                 <figure class="en-linea four-column">
-                    <img src="images/financiacion/financiacion-27.png">
+                    <img src="images/financiacion/financiacion-27.png" alt="inmobiliario" title="inmobiliario" />
                     <p>
                         Financiación hotel en medellin de 140 habitaciones
                     </p>
@@ -100,34 +100,34 @@
 
 
                 <figure class="en-linea four-column">
-                    <img src="images/financiacion/financiacion-18.png">
+                    <img src="images/financiacion/financiacion-18.png" alt="inmobiliario" title="inmobiliario" />
                     <p>Financiación Centro comercial project finance</p>
                 </figure>
 
 
                 <figure class="en-linea four-column">
-                    <img src="images/internacionales/internacionales-12.png">
+                    <img src="images/internacionales/internacionales-12.png" alt="inmobiliario" title="inmobiliario" />
                     <p>
                         Estructuración financiera y financiacion de centro comercial en Monteria
                     </p>
                 </figure>
 
                 <figure class="en-linea four-column">
-                    <img src="images/financiacion/financiacion-31.png">
+                    <img src="images/financiacion/financiacion-31.png" alt="inmobiliario" title="inmobiliario" />
                     <p>
                         Estructuración de lease back
                     </p>
                 </figure>
 
                 <figure class="en-linea four-column">
-                    <img src="images/financiacion/financiacion-10.png">
+                    <img src="images/financiacion/financiacion-10.png" alt="inmobiliario" title="inmobiliario" />
                     <p>
                         Financiación de centro logìstico en instalaciones HACEB
                     </p>
                 </figure>
 
                 <figure class="en-linea four-column">
-                    <img src="images/financiacion/financiacion-32.png">
+                    <img src="images/financiacion/financiacion-32.png" alt="inmobiliario" title="inmobiliario" />
                     <p>
                         Estructuración de proyectos inmobiliarios: residencias estudiantiles, centro comerciales y oficinas
                     </p>

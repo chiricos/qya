@@ -24,53 +24,53 @@
 
 
                 <figure class="en-linea four-column">
-                    <img src="images/infraestructura/infraestructura-1.png">
+                    <img src="images/infraestructura/infraestructura-1.png" alt="estructura" title="estructura" />
                     <p>
                         Estructuración financiera en licitación de las megaobras de Cali
                     </p>
                 </figure>
 
                 <figure class="en-linea four-column">
-                    <img src="images/infraestructura/infraestructura-2.png">
+                    <img src="images/infraestructura/infraestructura-2.png" alt="estructura" title="estructura" />
                     <p>Estructuración financiera y consecusion de recursos</p>
                 </figure>
 
                 <figure class="en-linea four-column">
-                    <img src="images/infraestructura/infraestructura-3.png">
+                    <img src="images/infraestructura/infraestructura-3.png" alt="estructura" title="estructura" />
                     <p>Estructuracion y valorización de ofertas de inversión</p>
                 </figure>
 
                 <figure class="en-linea four-column">
-                    <img src="images/infraestructura/infraestructura-9.png">
+                    <img src="images/infraestructura/infraestructura-9.png" alt="estructura" title="estructura" />
                     <p>Estructuración financiera para infraestructura fèrrea</p>
                 </figure>
 
                 <figure class="en-linea four-column">
-                    <img src="images/infraestructura/infraestructura-10.png">
+                    <img src="images/infraestructura/infraestructura-10.png" alt="estructura" title="estructura" />
                     <p>Estructuración financiera para adecuación av suba</p>
                 </figure>
 
                 <figure class="en-linea four-column">
-                    <img src="images/infraestructura/infraestructura-11.png">
+                    <img src="images/infraestructura/infraestructura-11.png" alt="estructura" title="estructura" />
                     <p>Co-asesor en la licitación para la modernización del aeropuerto el dorado</p>
                 </figure>
 
                 <figure class="en-linea four-column">
-                    <img src="images/financiacion/financiacion-7.png">
+                    <img src="images/financiacion/financiacion-7.png" alt="estructura" title="estructura" />
                     <p>
                         Estructuración Financiera de hidroeléctrica de 15 MW
                     </p>
                 </figure>
 
                 <figure class="en-linea four-column">
-                    <img src="images/infraestructura/infraestructura-19.png">
+                    <img src="images/infraestructura/infraestructura-19.png" alt="estructura" title="estructura" />
                     <p>
                         Estructuración financiera para la participación de Egobús adjudicatario de zonas Suba-Centro y Perdomo en el SITP
                     </p>
                 </figure>
 
                 <figure class="en-linea four-column">
-                    <img src="images/infraestructura/infraestructura-20.png">
+                    <img src="images/infraestructura/infraestructura-20.png" alt="estructura" title="estructura" />
                     <p>
                         Estructuración financiera para recompra de concesión víal
                     </p>
@@ -96,17 +96,17 @@
                             <div style="width: 99%">
                                 <figure class="en-linea four-column" style="     width: 45%;
     margin: 50px 26px 50px 0px;">
-                                    <img src="images/infraestructura/infraestructura-8.png">
+                                    <img src="images/infraestructura/infraestructura-8.png" alt="estructura" title="estructura" />
 
                                 </figure>
                                 <figure class="en-linea four-column" style="    width: 45%;    margin: 50px 0;">
-                                    <img src="images/infraestructura/infraestructura-7.png">
+                                    <img src="images/infraestructura/infraestructura-7.png" alt="estructura" title="estructura" />
                                 </figure>
                             </div>
 
                         </div>
                         <figure>
-                            <img src="images/auto-962083_1920.jpg" />
+                            <img src="images/auto-962083_1920.jpg" alt="estructura" title="estructura" />
                         </figure>
                     </section>
 
@@ -123,13 +123,13 @@
                 </p>
 
                 <figure class="vial-img">
-                    <img src="images/infraestructura/logos-cuadro.png" />
+                    <img src="images/infraestructura/logos-cuadro.png" alt="estructura" title="estructura" />
                 </figure>
 
 
                 <section>
                     <figure>
-                        <img src="images/infraestructura/fondo.jpg" />
+                        <img src="images/infraestructura/fondo.jpg" alt="estructura" title="estructura" />
                     </figure>
                     <div>
                         <p>
@@ -170,13 +170,13 @@
 
             <div class="catrog">
                 <button class="boton-1">
-                    <img src="images/infraestructura/video1.png" >
+                    <img src="images/infraestructura/video1.png" alt="estructura" title="estructura" />
                     <p style=" font-family: 'Open Sans Condensed', sans-serif;">
                         Cartagena-Barranquilla segunda circunvalar de barranquilla
                     </p>
                 </button>
                 <button class="boton-2">
-                    <img src="images/infraestructura/video2.png" >
+                    <img src="images/infraestructura/video2.png" alt="estructura" title="estructura" />
                     <p style=" font-family: 'Open Sans Condensed', sans-serif;">
                         Puerta de hierro-cruz del viso-palmar de varela
                     </p>

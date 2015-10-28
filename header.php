@@ -7,7 +7,9 @@
     <link rel="stylesheet" href="css/flexslider.css" type="text/css">
     <link rel="stylesheet" type="text/css" href="css/style.css">
     <meta name="author" content="Drawde"/>
-    <meta name="description" content="Banca de inversión"/>
+    <meta name="title" content="Banca de inversión"/>
+    <meta name="description" content="Procesos de compraventa y fusiones de compañías, valoración de empresas, financiación y optimización financiera de compañías" >
+    <meta name="keywords" content="Procesos de compraventa y fusiones de compañías, valoración de empresas, financiación y optimización financiera de compañías">
     <meta name="viewport" content="width=device-width, initial-scale=1.0 maximum-scale=1"/>
     <script src="js/jquery-1.11.3.min.js"></script>
     <script src="js/jquery.flexslider.js"></script>

@@ -54,175 +54,175 @@
             <div class="clientes">
 
                 <figure class="en-linea four-column">
-                    <img src="images/financiacion/financiacion-9.png">
+                    <img src="images/financiacion/financiacion-9.png" alt="fusiones" title="fusiones" />
                     <p>
                         Valoración y negociación para la venta de Mareauto / Avis Colombia a fondo de capital privado
                     </p>
                 </figure>
 
                 <figure class="en-linea four-column">
-                    <img src="images/mya/mya-29.png">
+                    <img src="images/mya/mya-29.png" alt="fusiones" title="fusiones" />
                     <p>
                         Valoración concesión víal de mas 550 km
                     </p>
                 </figure>
 
                 <figure class="en-linea four-column">
-                    <img src="images/mya/mya-30.png">
+                    <img src="images/mya/mya-30.png" alt="fusiones" title="fusiones" />
                     <p>
                         Busqueda, valoración y negociación de compañia target en Colombia
                     </p>
                 </figure>
 
                 <figure class="en-linea four-column">
-                    <img src="images/infraestructura/infraestructura-3.png">
+                    <img src="images/infraestructura/infraestructura-3.png" alt="fusiones" title="fusiones" />
                     <p>
                         Estructuracion y valorización de ofertas de inversión nacional e internacional
                     </p>
                 </figure>
 
                 <figure class="en-linea four-column">
-                    <img src="images/mya/mya-31.png">
+                    <img src="images/mya/mya-31.png" alt="fusiones" title="fusiones" />
                     <p>
                         Valoración y negociación para la venta de 5 empresas del grupo Gas País a empresas Lipigas y Repsol
                     </p>
                 </figure>
 
                 <figure class="en-linea four-column">
-                    <img src="images/mya/mya-13.png">
+                    <img src="images/mya/mya-13.png" alt="fusiones" title="fusiones" />
                     <p>
                         Valoración de concesión vía al mar
                     </p>
                 </figure>
 
                 <figure class="en-linea four-column">
-                    <img src="images/mya/mya-32.png">
+                    <img src="images/mya/mya-32.png" alt="fusiones" title="fusiones" />
                     <p>
                         Asesor para adquisiciones estratégicas en Colombia
                     </p>
                 </figure>
 
                 <figure class="en-linea four-column">
-                    <img src="images/mya/mya-33.png">
+                    <img src="images/mya/mya-33.png" alt="fusiones" title="fusiones" />
                     <p>
                         Valoración y negociación de 7 empresas de Confedegas por parte de Abastible (Empresas Copec)
                     </p>
                 </figure>
 
                 <figure class="en-linea four-column">
-                    <img src="images/mya/mya-34.png">
+                    <img src="images/mya/mya-34.png" alt="fusiones" title="fusiones" />
                     <p>
                         Asesor para la adquisición de compañías en Latinoamerica
                     </p>
                 </figure>
 
                 <figure class="en-linea four-column">
-                    <img src="images/mya/mya-35.png">
+                    <img src="images/mya/mya-35.png" alt="fusiones" title="fusiones" />
                     <p>
                         Valoración y negociación de 3 PCHs de 25 MW
                     </p>
                 </figure>
 
                 <figure class="en-linea four-column">
-                    <img src="images/mya/mya-36.png">
+                    <img src="images/mya/mya-36.png" alt="fusiones" title="fusiones" />
                     <p>
                         Asesoría estratégica para llegar a Colombia
                     </p>
                 </figure>
 
                 <figure class="en-linea four-column">
-                    <img src="images/mya/mya-37.png">
+                    <img src="images/mya/mya-37.png" alt="fusiones" title="fusiones" />
                     <p>
                         Valoración plan de expansión en Colombia
                     </p>
                 </figure>
 
                 <figure class="en-linea four-column">
-                    <img src="images/mya/mya-38.png">
+                    <img src="images/mya/mya-38.png" alt="fusiones" title="fusiones" />
                     <p>
                         Extructuración financiera de proyectos agroindrustriales: cacao, Naidí, chontaduro y coco
                     </p>
                 </figure>
 
                 <figure class="en-linea four-column">
-                    <img src="images/mya/mya-5.png">
+                    <img src="images/mya/mya-5.png" alt="fusiones" title="fusiones" />
                     <p>Valorización empresa distribuición mayorista a nivel nacional</p>
                 </figure>
 
                 <figure class="en-linea four-column">
-                    <img src="images/mya/mya-12.png">
+                    <img src="images/mya/mya-12.png" alt="fusiones" title="fusiones" />
                     <p>Valorización y venta de empresa de resinas</p>
                 </figure>
 
                 <figure class="en-linea four-column">
-                    <img src="images/mya/mya-24.png">
+                    <img src="images/mya/mya-24.png" alt="fusiones" title="fusiones" />
                     <p>Valorización equipo de futbol</p>
                 </figure>
 
                 <figure class="en-linea four-column">
-                    <img src="images/mya/mya-8.png">
+                    <img src="images/mya/mya-8.png" alt="fusiones" title="fusiones" />
                     <p>Valorización empresa de servicios generales</p>
                 </figure>
 
                 <figure class="en-linea four-column">
-                    <img src="images/mya/mya-28.png">
+                    <img src="images/mya/mya-28.png" alt="fusiones" title="fusiones" />
                     <p>Valorización de auditoria en salud</p>
                 </figure>
 
                 <figure class="en-linea four-column">
-                    <img src="images/mya/mya-25.png">
+                    <img src="images/mya/mya-25.png" alt="fusiones" title="fusiones" />
                     <p>Valorización comercializadora de pescados y mariscos</p>
                 </figure>
 
 
                 <figure class="en-linea four-column">
-                    <img src="images/mya/mya-1.png">
+                    <img src="images/mya/mya-1.png" alt="fusiones" title="fusiones" />
                     <p>Valorización y venta del centro de convenciones</p>
                 </figure>
 
                 <figure class="en-linea four-column">
-                    <img src="images/mya/mya-2.png">
+                    <img src="images/mya/mya-2.png" alt="fusiones" title="fusiones" />
                     <p>Valorización compañia de ventas de boletos para eventos</p>
                 </figure>
 
                 <figure class="en-linea four-column">
-                    <img src="images/financiacion/financiacion-26.png">
+                    <img src="images/financiacion/financiacion-26.png" alt="fusiones" title="fusiones" />
                     <p>Valorización proyecto palma, caucho y forestación</p>
                 </figure>
 
                 <figure class="en-linea four-column">
-                    <img src="images/mya/mya-4.png">
+                    <img src="images/mya/mya-4.png" alt="fusiones" title="fusiones" />
                     <p>Valorización participación del IDEA en el mega proyecto</p>
                 </figure>
 
                 <figure class="en-linea four-column">
-                    <img src="images/mya/mya-22.png">
+                    <img src="images/mya/mya-22.png" alt="fusiones" title="fusiones" />
                     <p>Valorización empresa de transporte </p>
                 </figure>
 
                 <figure class="en-linea four-column">
-                    <img src="images/mya/mya-6.png">
+                    <img src="images/mya/mya-6.png" alt="fusiones" title="fusiones" />
                     <p>Valorización compañia de reting</p>
                 </figure>
 
                 <figure class="en-linea four-column">
-                    <img src="images/mya/mya-7.png">
+                    <img src="images/mya/mya-7.png" alt="fusiones" title="fusiones" />
                     <p>Valorización fiduciaria</p>
                 </figure>
 
 
                 <figure class="en-linea four-column">
-                    <img src="images/mya/mya-9.png">
+                    <img src="images/mya/mya-9.png" alt="fusiones" title="fusiones" />
                     <p>Valorización participación del IDEA en los proyectos hidroeleèctricos</p>
                 </figure>
 
                 <figure class="en-linea four-column">
-                    <img src="images/mya/mya-10.png">
+                    <img src="images/mya/mya-10.png" alt="fusiones" title="fusiones" />
                     <p>Valorización para aquisición de compañia de logìstica</p>
                 </figure>
 
                 <figure class="en-linea four-column">
-                    <img src="images/mya/mya-11.png">
+                    <img src="images/mya/mya-11.png" alt="fusiones" title="fusiones" />
                     <p>Valorización empresa de rotomoldeo</p>
                 </figure>
 
@@ -230,59 +230,59 @@
 
 
                 <figure class="en-linea four-column">
-                    <img src="images/mya/mya-14.png">
+                    <img src="images/mya/mya-14.png" alt="fusiones" title="fusiones" />
                     <p>Valorización red de drogerías </p>
                 </figure>
 
                 <figure class="en-linea four-column">
-                    <img src="images/mya/mya-15.png">
+                    <img src="images/mya/mya-15.png" alt="fusiones" title="fusiones" />
                     <p>Valorización red de drogerías</p>
                 </figure>
 
                 <figure class="en-linea four-column">
-                    <img src="images/mya/mya-16.png">
+                    <img src="images/mya/mya-16.png" alt="fusiones" title="fusiones" />
                     <p>Valorización red de drogerías</p>
                 </figure>
 
                 <figure class="en-linea four-column">
-                    <img src="images/mya/mya-17.png">
+                    <img src="images/mya/mya-17.png" alt="fusiones" title="fusiones" />
                     <p>Valorización empresa de distribuición a nivel nacional</p>
                 </figure>
 
                 <figure class="en-linea four-column">
-                    <img src="images/mya/mya-18.png">
+                    <img src="images/mya/mya-18.png" alt="fusiones" title="fusiones" />
                     <p>Valorización de ganaderos</p>
                 </figure>
 
                 <figure class="en-linea four-column">
-                    <img src="images/mya/mya-19.png">
+                    <img src="images/mya/mya-19.png" alt="fusiones" title="fusiones" />
                     <p>Valorización frigorifico</p>
                     <p></p>
                 </figure>
 
                 <figure class="en-linea four-column">
-                    <img src="images/mya/mya-20.png">
+                    <img src="images/mya/mya-20.png" alt="fusiones" title="fusiones" />
                     <p>Valorización del fondo ganadero</p>
                 </figure>
 
                 <figure class="en-linea four-column">
-                    <img src="images/mya/mya-23.png">
+                    <img src="images/mya/mya-23.png" alt="fusiones" title="fusiones" />
                     <p>Valorización empresa de catering</p>
                 </figure>
 
                 <figure class="en-linea four-column">
-                    <img src="images/mya/mya-26.png">
+                    <img src="images/mya/mya-26.png" alt="fusiones" title="fusiones" />
                     <p>Valorización red de suministros farmacéuticos</p>
                 </figure>
 
                 <figure class="en-linea four-column">
-                    <img src="images/mya/mya-27.png">
+                    <img src="images/mya/mya-27.png" alt="fusiones" title="fusiones" />
                     <p>Valorización exportacion de frutas exoticas</p>
                 </figure>
 
 
                 <figure class="en-linea four-column">
-                    <img src="images/infraestructura/infraestructura-8.png">
+                    <img src="images/infraestructura/infraestructura-8.png" alt="fusiones" title="fusiones" />
                     <p>Estructuración financiera para hidroeléctricos</p>
                 </figure>
 

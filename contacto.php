@@ -5,7 +5,7 @@
 
         <div class="contactenos">
             <figure class="img-contacto">
-                <img src="images/contacto.jpg">
+                <img src="images/contacto.jpg" alt="contacto" title="contacto" />
             </figure>
             <div class="formulario">
                 <form>

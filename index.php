@@ -17,16 +17,16 @@
             <div class="flexslider">
                 <ul class="slides">
                     <li>
-                        <img src="images/home/china-654404_1280.jpg" />
+                        <img src="images/home/china-654404_1280.jpg" alt="ciudad china" title="ciudad china"/>
                     </li>
                     <li>
-                        <img src="images/home/motorway-484105_1280.jpg"/>
+                        <img src="images/home/motorway-484105_1280.jpg" alt="carretera" title="carretera"/>
                     </li>
                     <li>
-                        <img src="images/home/new-york-193716_1280.jpg"/>
+                        <img src="images/home/new-york-193716_1280.jpg" alt="ciudad " title="ciudad "/>
                     </li>
                     <li>
-                        <img src="images/hoover-691114_1280.jpg"/>
+                        <img src="images/hoover-691114_1280.jpg" alt="represa" title="represa"/>
                     </li>
                 </ul>
             </div>
@@ -35,7 +35,7 @@
         <div class="services">
             <figure>
                 <h2 style="    font-size: 18px;">FINANCIACIÓN</h2>
-                <img src="images/business-workplace.jpg">
+                <img src="images/business-workplace.jpg" alt="financiación" title="financiación"/>
                 <li><a href="financiacion.php">FINANCIACIÓN DE PROYECTOS</a></li>
                 <li><a href="financiacion.php">CRÉDITOS SINDICADOS</a></li>
                 <li><a href="financiacion.php">CRÉDITO DE FOMENTO / EXPORTACIÓN</a></li>
@@ -45,20 +45,20 @@
             </figure>
             <figure>
                 <h2 style="    font-size: 18px;">FUSIONES Y ADQUISICIONES</h2>
-                <img src="images/bussiness1.jpeg">
+                <img src="images/bussiness1.jpeg" alt="fusiones y adquisiciones" title="fusiones y adquisiciones" />
                 <li><a href="mya.php">VALORACIÓN</a></li>
                 <li><a href="mya.php">COMPRA, VENTA Y FUSIONES DE EMPRESAS </a></li>
                 <li><a href="mya.php">BUSINESS PLAN / ESTRATEGIA</a></li>
             </figure>
             <figure>
                 <h2 style="    font-size: 18px;">ESTRUCTURACIÓN</h2>
-                <img src="images/secciones/infraestructura%20silver-jubilee-bridge-402943_1280.jpg">
+                <img src="images/secciones/infraestructura%20silver-jubilee-bridge-402943_1280.jpg" alt="estructuración" title="estructuración" />
                 <li><a HREF="infraestructura.php">INFRAESTRUCTURA</a></li>
                 <li><a HREF="inmobiliaria.php">INMOBILIARIO</a></li>
             </figure>
             <figure style="">
                 <h2 style="    font-size: 18px;">FONDO DE INVERSIÓN INMOBILIARIO</h2>
-                <img src="images/secciones/inmobiliaria%20urban-205986_1280.jpg">
+                <img src="images/secciones/inmobiliaria%20urban-205986_1280.jpg" alt="fondo de inversión inmobiliario" title="fondo de inversión inmobiliario" />
             </figure>
         </div>
 

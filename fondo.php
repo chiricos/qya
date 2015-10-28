@@ -9,7 +9,7 @@
         <!--<div class="title">Conócenos</div>-->
         <h1 style="color: #3B8686;padding: 15px 0;font-size: 50px">EN CONSTRUCCIÓN</h1>
 
-        <img src="images/construccion.jpg" />
+        <img src="images/construccion.jpg" alt="inmobiliario" title="inmobiliario" />
 
 
 

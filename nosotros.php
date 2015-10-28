@@ -19,16 +19,16 @@
             <div class="flexslider">
                 <ul class="slides">
                     <li>
-                        <img src="images/home/china-654404_1280.jpg" />
+                        <img src="images/home/china-654404_1280.jpg" alt="homre" title="home"/>
                     </li>
                     <li>
-                        <img src="images/home/motorway-484105_1280.jpg"/>
+                        <img src="images/home/motorway-484105_1280.jpg" alt="represa" title="home"/>
                     </li>
                     <li>
-                        <img src="images/home/new-york-193716_1280.jpg"/>
+                        <img src="images/home/new-york-193716_1280.jpg" alt="represa" title="home"/>
                     </li>
                     <li>
-                        <img src="images/hoover-691114_1280.jpg"/>
+                        <img src="images/hoover-691114_1280.jpg" alt="represa" title="home"/>
                     </li>
                 </ul>
             </div>
@@ -51,7 +51,7 @@
 
 
             <figure class="banner-nosotros">
-                <img  src="images/lo%20que%20somos.jpg">
+                <img  src="images/lo%20que%20somos.jpg" alt="represa" title="represa" />
             </figure>
         </div>
 
