@@ -151,7 +151,7 @@
                 <figure class="en-linea four-column">
                     <img src="images/financiacion/financiacion-26.png" alt="financiacion" title="financiación" />
                     <p>
-                        Estructuración financiera y consecución de recursos para un proyecto de palma, caucho y forestal de 70.000 hectareas en el bichada
+                        Estructuración financiera y consecución de recursos para un proyecto de palma, caucho y forestal de 70.000 hectareas en el Vichada
                     </p>
                 </figure>
 
@@ -211,7 +211,7 @@
                 <figure class="en-linea four-column">
                     <img src="images/financiacion/financiacion-29.png" alt="financiacion" title="financiación" />
                     <p>
-                        Diagnostico, optimización y estructuración financiera de nuevor proyectos
+                        Diagnostico, optimización y estructuración financiera de nuevos proyectos
                     </p>
                 </figure>
 

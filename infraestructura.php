@@ -80,7 +80,7 @@
             </div>
 
             <div class="experiencia-vial">
-                <h2 style="text-align: justify;">TÚNEL DE ORIENTE</h2>
+                <h2 style="text-align: justify;">CONSESIÓN VIAL</h2>
                 <p style="text-align: justify;margin:60px 0">
                     Estructuración, modelación, formulación y definición del esquema financiero para la participación del IDEA como
                     cofinanciador del proyecto y toma de decisiones de la gobernación para posterior acuerdo para la ejecución de

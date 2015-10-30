@@ -1,6 +1,6 @@
 <nav>
     <a class="logo" href="index.php">
-        <img src="images/logo-color.png">
+        <img src="images/logo-color.png" alt="logo Q&A" title="Q&A logo">
     </a>
 
     <ul>

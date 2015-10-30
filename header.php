@@ -3,11 +3,11 @@
 <html>
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-    <title>Q&A</title>
+    <title>Q&A BANCA DE INVERSIÓN</title>
     <link rel="stylesheet" href="css/flexslider.css" type="text/css">
     <link rel="stylesheet" type="text/css" href="css/style.css">
     <meta name="author" content="Drawde"/>
-    <meta name="title" content="Banca de inversión"/>
+    <meta name="title" content="Q&A Banca de inversión"/>
     <meta name="description" content="Procesos de compraventa y fusiones de compañías, valoración de empresas, financiación y optimización financiera de compañías" >
     <meta name="keywords" content="Procesos de compraventa y fusiones de compañías, valoración de empresas, financiación y optimización financiera de compañías">
     <meta name="viewport" content="width=device-width, initial-scale=1.0 maximum-scale=1"/>

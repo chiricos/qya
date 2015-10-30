@@ -202,7 +202,7 @@
 
                 <figure class="en-linea four-column">
                     <img src="images/mya/mya-6.png" alt="fusiones" title="fusiones" />
-                    <p>Valorización compañia de reting</p>
+                    <p>Valorización compañia de renting</p>
                 </figure>
 
                 <figure class="en-linea four-column">
