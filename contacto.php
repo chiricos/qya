@@ -8,16 +8,16 @@
                 <img src="images/contacto.jpg" alt="contacto" title="contacto" />
             </figure>
             <div class="formulario">
-                <form>
+                <form action="enviar.php" method="post">
                     <p>Contáctenos</p>
                     <label>Nombre:</label>
-                    <input type="text" name="nombre">
+                    <input type="text" name="nombre" required>
                     <label>Correo:</label>
-                    <input type="email" name="correo">
+                    <input type="email" name="correo" required>
                     <label>Motivo</label>
-                    <input type="text" name="motivo">
+                    <input type="text" name="motivo" required>
                     <label>Mensaje</label>
-                    <textarea name="mensaje"></textarea>
+                    <textarea name="mensaje" ></textarea>
                     <button>Enviar</button>
                 </form>
             </div>
