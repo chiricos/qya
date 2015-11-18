@@ -5,108 +5,128 @@
     </div>
     <div id="wrapper" class="animation-pages">
         <h1 class="titulo-h">EQUIPO DE TRABAJO</h1>
-<!--
-        <div class="page" >
-            <div class="nosotros-biografia">
 
-                <article class="en-linea " >
-                    <h3>Francisco j. Aristizabal López</h3>
-                    <li>
-                        <p>
-                            Administración de Negocios (EE.UU.), subtítulado en Economía. Gerencia Financiera en EAFIT.
-                            Cursos especializados en finanzas corporativas y planeación estratégica bancaria en Euromoney (Londres)
-                            e IDI (Dublín) respectivamente.
-                        </p>
-                    </li>
-                    <li>
-                        <p>
-                            Su principal fortaleza es en temas dde estructuración de proyectos, créditos sindicados y programas
-                            de optimización de deuda. 20 años de experiencia, originalmente en el sector inmobiliario.
-                        </p>
-                    </li>
-                    <li>
-                        <p>
-                            Conferencista internacional en simposios regionales en Financiación cross border y Project
-                            Finance. Amplia relación con fuentes de recursos nacionales e internacionales.
-                        </p>
-                    </li>
-                    <li>
-                        <p>
-                            Participación en el sector financiero desde 1993 con el Grupo Empresarial Antioqueño como presidente de operaciones
-                            de leasing internacional (Suleasing Panamá) y co-estructurador de varios proyectos de infraestructura en
-                            telecomunicaciones, energía e industria.
-                        </p>
-                    </li>
-                </article>
+        <div class="hojas-vida">
+            <figure class="francisco">
+                <div>
+                    <img class="img-title" src="images/hv/FRANCISCO.png">
+                </div>
+                <p >
+                    Francisco is a Founding and Managing Partner at Colombian Investment Bank Q&A since 2004 and is in charge of
+                    project financing, Merger & Acquisitions, syndicated debt and the real estate investment banking unit of the group.
+                    <br>
+                    <br>
+                    During his work in Q&A he has financially structured around 1 million m² of GLA for high-profile Colombian
+                    real estate projects, gaining nationwide recognition as one of the leaders in the real estate structuring field.
+                    <br>
+                    <br>
+                    Furthermore Francisco has created an extraordinary relationship with the largest local banks and
+                    development companies, due to his impeccable track record as up to date none of his financially planned
+                    assets has had a default.
+                    <br>
+                    <br>
+
+                    In addition he has worked in over 70 projects across industries with diverse national or international clients,
+                    generating great returns, valued by those recurring clients by using Q&A as a preferred provider in
+                    investment banking services.
+
+                    <br><br>
+
+                    Prior to founding Q&A, Francisco was  the Vice President of Project Finance in Helm Investment Bank, belonging to the
+                    Helm Banking Group with over USD 14 billion in assets, where he was in charge of all the project finance activities.
+                    <br><br>
+                    Preceding he was the CEO of Cross Border Financing for Suleasing Internacional, now part of the largest Colombian
+                    Bank Bancolombia, as well as in charge of leading financial product development.
+                    <br><br>
+                    Previous he worked with Colombian real estate development company Propiedad, part of the largest Colombian
+                    construction company Conconcreto,  as the Commercial Manager of the Group.
+                    <br><br>
+                    Earlier he was the Director in charge of all national purchases, financing construction equipment and materials for
+                    Conconcreto, Colombia’s largest construction company which has partnered up with global construction giant VINCI.
+                    <br><br>
+                    Francisco's other relevant experience include:
+                    <br><br>
 
 
-                <figure class="en-linea two-column" style="">
-                    <img  src="images/hv/francisco.jpeg">
-                </figure>
-            </div>
+                    Frequent speaker on international leasing and Cross Border Financing events;
+                    <br><br>
+                    Author of technical financial publications.
+                    <br><br>
+
+
+                    Major in Science from Oglothorpe University  with an emphasis in Business Administration and Economic Science.
+                    <br><br>
+                    Programme in EAFIT Colombia in financial Management
+                    <br><br>
+                    Strategic Planning IDB – Dublin (1997)
+
+                    <br><br>
+
+                    Corporate Finance – London (1998)
+
+                    <br><br>
+
+                    He speaks  fluent English and Spanish.
+                </p>
+            </figure>
+            <figure class="federico">
+                <div>
+                    <img class="img-title" src="images/hv/FEDERICO.png">
+                </div>
+                <p>
+                    Federico has extensive experience in the private and public sector, having served in high-profile positions in both.
+                    <br><br>
+                    In the private sector he was the Chief Executive Officer for some of the largest Colombian corporations and groups
+                    conducting business in various sectors. His main tasks consisted of strategic and financial planning, business
+                    development and leading company growth strategies. The positions he held were:
+                    <br><br>
+                    CEO of Cementos Andino until it was sold to Cementos Argos, part of the Grupo Empresarial Antioqueño, a
+                    Colombian conglomerate of 125 companies with a market cap of over USD 54 billion.
+                    <br><br>
+                    Financial Vice-President and Executive Vice-President of Holasa S.A., belonging to two of the largest Japanese
+                    corporations (JFE Holdings and Mitsubishi Corporation), with a joint market cap of USD 11 billion.
+                    <br><br>
+                    Vice-President of “Coltejer”, the largest  textile manufacturer in Colombia with over USD 85 million in net
+                    sales.
+
+                    <br><br>
+
+                    CEO of Edospina, one of the leading water treatment companies in Colombia, which operates in sectors such
+                    as industry and oil & gas, with more than USD 15 million in annual revenue.
+                    <br><br>
+                    In the public sector Federico served as:
+
+                    <br><br>
+
+                    Vice-Minister of Defense for Colombia during Alvaro Uribe’s government, managing a budget of USD 7.8
+                    billion, 15 corporations of the Ministry office as well as received national & international decorations.
+                    <br><br>
+                    Representative of the Colombian private sector during the negotiations and execution of the G-3 bilateral
+                    agreements between Colombia, Venezuela and Chile.
+                    <br><br>
+                    Main Consultant in New York for Federación Nacional de Cafeteros, where he executed the strategic plan for
+                    the creation of Juan Valdez stores. Since then, over 322 stores have been opened in Colombia and abroad,
+                    reaching an operating income of over USD 66 million in 2014.
+                    <br><br>
+                    Since 2005 he has been working as a Managing Partner of Colombian Investment bank Q&A.
+                    <br><br>
+                    Fellow in International Business of Harvard University.
+                    <br><br>
+                    Master in Economics, Oxford University.
+
+                    <br><br>
+
+                    MBA Terry School of Business, Georgia University.
+                    <br><br>
+                    Engineer-Administrator, Mines Faculty, Universidad Nacional.
+                    <br><br>
+                    He holds a specialization in Investment Banking, Mergers & Acquisitions and Equity Funds.
+                    <br><br>
+                    Federico speaks fluent English and Spanish.
+                </p>
+            </figure>
         </div>
 
-        <div class="page">
-            <div class="nosotros-biografia" style="padding-top: 40px;">
-                <figure class="en-linea " style="margin-right: 22px">
-                    <img  src="images/hv/FM.jpg">
-                </figure>
-                <article class="en-linea two-column">
-                    <h3>Federico Molina Soto</h3>
-                    <li>
-                        <p>
-                            Ingeniero Administrador, Facultad de Minas, Universidad de Medellín. Fellow en Negocios
-                            Internacionales de la Universidad de Harvard. Master en Economía, Oxford. MBA Harvard.
-                            Adicionalmente, adelantó especialización en banca de inversión, mergers and acquisitions
-                            y equity funds.
-                        </p>
-                    </li>
-
-                    <li>
-                        <p>
-                            Ha trabajado principalmente en el sector privado, teniendo fortalezas en las áreas de planeación
-                            estratégica, planeación financiera, desarrollo empresarial e internacionalización de compañías.
-                        </p>
-                    </li>
-
-                    <li>
-                        <p>
-                            Ha sido Vicepresidente de mercadeo de Coltejer, Vicepresidente financiero y Vicepresidente
-                            ejecutivo de Holasa S.A. donde adicionalmente fue responsable por las inversioines
-                            internacionales de los socios japoneses y mesicanos. Presidente de Edospina y Presidente
-                            de Cementos Andino hasta su venta al Grupo Empresaria Antioqueño.
-                        </p>
-                    </li>
-
-                    <li>
-                        <p>
-                            Formó parte de la Compañía, que en representación del sector privado hizo las negociaciones
-                            comerciales del G-3 y los convenios bilaterales con Venezuela y Chile. fue viceministro de
-                            Defensa del Ministerio Gilberto Echeverri Mejía.
-                        </p>
-                    </li>
-
-                    <li>
-                        <p>
-                            Fue consultor en Nueva York de la Federación Nacional de Cafeteros en donde presentó el plan
-                            estratégico que incluia la creación de las tiendas Juan Valdez.
-                        </p>
-                    </li>
-                </article>
-            </div>
-
-
-        </div>
-
-
--->
-
-        <img class="img-hoja"  style="margin: 50px 0;
-    padding: 0;
-    width: 100%;" src="images/FRANCISCO%20J.jpg" alt="hoja de vida " title="hoja de vida" />
-        <img  class="img-hoja"  style="margin: 50px 0;
-    padding: 0;
-    width: 100%;" src="images/fererico.jpg" alt="hoja de vida" title="hoja de vida" />
 
 
 

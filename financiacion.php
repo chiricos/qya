@@ -22,7 +22,7 @@
                         Estructuración de proyectos que tiene un promotor corporativo a través de una estructura legal independiente la cual asume y mitiga los riesgos del proyecto. Q&A realiza la estructuración financiera a través de la construcción de modelos financieros, así como la identificación, medición y mitigación de riesgos de acuerdo con su naturaleza (construcción, operativos, financieros, entre otros). Adicionalmente, Q&A realiza los procesos (Road Show, negociación, cierre y acompañamiento hasta el desembolso) para el fondeo de los proyectos vía Deuda, Semi-Equity y Equity.
                     </p>
                 </li>
-                <li>
+                <li style="margin-top: 64px">
                     <h3 >Créditos sindicados</h3>
                     <p>
                         Tipo de crédito que por su tamaño es distribuido en diferentes
@@ -45,7 +45,7 @@
                         proyectos de estas instituciones en sus diferentes estancias.
                     </p>
                 </li>
-                <li>
+                <li style="margin-top: 130px">
                     <h3 >Crédito de entidades multilaterales</h3>
                     <p style="width: 90%;">
                         Créditos tramitados en bancos de desarrollo  que

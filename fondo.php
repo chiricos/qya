@@ -7,9 +7,19 @@
         <h1 class="titulo-h" style="    top: 0px;
     position: relative;">FONDO DE INVERSIÓN INMOBILIARIO</h1>
         <!--<div class="title">Conócenos</div>-->
-        <h1 style="color: #3B8686;padding: 15px 0;font-size: 50px">EN CONSTRUCCIÓN</h1>
+        <p>LQA Funds(“LQA”) es un Joint Venture  entre la boutique financiera suiza Lakestone Capital Partners
 
-        <img src="images/construccion.jpg" alt="inmobiliario" title="inmobiliario" />
+            (“Lakestone”) y Q&A Banca de Inversión (“Q&A”).
+
+            LQA es un vehículo administrador de fondos de inversión, mediante un nuevo modelo de operación
+
+            integrado en el sector Inmobiliario de Latinoamérica, aprovechando las condiciones institucionales actuales
+
+            del mercado local y facilitando la inversión extranjera en el sector.
+
+            Los directivos de LQA han negociado, desarrollado, invertido y/o financiado activos a nivel global, por un
+
+            valor agregado de más USD 24 mil millones.</p>
 
 
 

@@ -1,6 +1,6 @@
-<!--<footer>
-    <ul>
-        <li>
+<footer>
+    <ul style="height: 100px">
+        <!--<li>
             <a href="infraestructura.php">ESTRUCTURACIÓN</a>
             <ul>
                 <li><a href="infraestructura.php">INFRAESTRUCTURA</a></li>
@@ -27,8 +27,8 @@
         <li><a href="fondo.php">FONDO DE INVERSIÓN INMOBILIARIO</a></li>
 
 
-        <li><a href="contacto.php">CONTÁCTENOS</a></li>
+        <li><a href="contacto.php">CONTÁCTENOS</a></li>-->
     </ul>
-</footer>-->
+</footer>
 </body>
 </html>
