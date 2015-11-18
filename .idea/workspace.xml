@@ -32,25 +32,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="equipo.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="equipo.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/equipo.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.58158994">
-              <caret line="135" column="28" selection-start-line="135" selection-start-column="28" selection-end-line="135" selection-end-column="28" />
+            <state vertical-scroll-proportion="-3.75">
+              <caret line="7" column="47" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
               <folding>
-                <element signature="e#4261#4306#0#HTML" expanded="true" />
+                <element signature="e#4358#4403#0#HTML" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="equipo.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="equipo.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ingles/equipo.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.5">
-              <caret line="11" column="51" selection-start-line="11" selection-start-column="51" selection-end-line="11" selection-end-column="51" />
+            <state vertical-scroll-proportion="0.12552302">
+              <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
               <folding>
-                <element signature="e#3871#3916#0#HTML" expanded="true" />
+                <element signature="e#3855#3900#0#HTML" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -59,8 +59,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.392857">
-              <caret line="1235" column="0" selection-start-line="1186" selection-start-column="0" selection-end-line="1235" selection-end-column="0" />
+            <state vertical-scroll-proportion="-10.357142">
+              <caret line="1391" column="5" selection-start-line="1371" selection-start-column="3" selection-end-line="1391" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -70,7 +70,7 @@
         <entry file="file://$PROJECT_DIR$/ingles/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="1193" column="26" selection-start-line="1193" selection-start-column="26" selection-end-line="1193" selection-end-column="26" />
+              <caret line="1392" column="5" selection-start-line="1392" selection-start-column="5" selection-end-line="1392" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -130,8 +130,8 @@
         <option value="$PROJECT_DIR$/ingles/infraestructura.php" />
         <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/ingles/css/style.css" />
-        <option value="$PROJECT_DIR$/ingles/equipo.php" />
         <option value="$PROJECT_DIR$/equipo.php" />
+        <option value="$PROJECT_DIR$/ingles/equipo.php" />
       </list>
     </option>
   </component>
@@ -673,8 +673,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.392857">
-          <caret line="1235" column="0" selection-start-line="1186" selection-start-column="0" selection-end-line="1235" selection-end-column="0" />
+        <state vertical-scroll-proportion="-10.357142">
+          <caret line="1391" column="5" selection-start-line="1371" selection-start-column="3" selection-end-line="1391" selection-end-column="5" />
           <folding />
         </state>
       </provider>
@@ -682,27 +682,27 @@
     <entry file="file://$PROJECT_DIR$/ingles/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="1193" column="26" selection-start-line="1193" selection-start-column="26" selection-end-line="1193" selection-end-column="26" />
+          <caret line="1392" column="5" selection-start-line="1392" selection-start-column="5" selection-end-line="1392" selection-end-column="5" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ingles/equipo.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.5">
-          <caret line="11" column="51" selection-start-line="11" selection-start-column="51" selection-end-line="11" selection-end-column="51" />
-          <folding>
-            <element signature="e#3871#3916#0#HTML" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/equipo.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.58158994">
-          <caret line="135" column="28" selection-start-line="135" selection-start-column="28" selection-end-line="135" selection-end-column="28" />
+        <state vertical-scroll-proportion="-3.75">
+          <caret line="7" column="47" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
           <folding>
-            <element signature="e#4261#4306#0#HTML" expanded="true" />
+            <element signature="e#4358#4403#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ingles/equipo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.12552302">
+          <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+          <folding>
+            <element signature="e#3855#3900#0#HTML" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -1369,5 +1369,27 @@ POP-UP
         display: block;
     }
 
+    .hojas-vida {
+        margin: auto;
+        width: 90%;
+    }
+
+    .francisco,.federico{
+        background-image: none;
+        background: black;
+    }
+
+    .img-title{
+        float: none;
+        margin: 0!important;
+        width: 100% !important;
+    }
+
+
+
+    .hojas-vida > figure > p{
+        width: 100%;
+    }
+
 }
 

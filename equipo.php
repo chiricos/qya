@@ -4,7 +4,8 @@
 
     </div>
     <div id="wrapper" class="animation-pages">
-
+        <h1 class="titulo-h" style="    top: 0px;
+    position: relative;">EQUIPO DE TRABAJO</h1>
         <div class="hojas-vida">
             <figure class="francisco">
                 <div>
