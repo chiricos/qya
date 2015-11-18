@@ -1229,7 +1229,7 @@ POP-UP
     float: right;
     height: 290px;
     margin: 0 96px;
-    overflow: scroll;
+    overflow: auto;
     text-align: justify;
     width: 400px;
 }

@@ -4,7 +4,6 @@
 
     </div>
     <div id="wrapper" class="animation-pages">
-        <h1 class="titulo-h">EQUIPO DE TRABAJO</h1>
 
         <div class="hojas-vida">
             <figure class="francisco">
@@ -12,117 +11,130 @@
                     <img class="img-title" src="images/hv/FRANCISCO.png">
                 </div>
                 <p >
-                    Francisco is a Founding and Managing Partner at Colombian Investment Bank Q&A since 2004 and is in charge of
-                    project financing, Merger & Acquisitions, syndicated debt and the real estate investment banking unit of the group.
-                    <br>
-                    <br>
-                    During his work in Q&A he has financially structured around 1 million m² of GLA for high-profile Colombian
-                    real estate projects, gaining nationwide recognition as one of the leaders in the real estate structuring field.
-                    <br>
-                    <br>
-                    Furthermore Francisco has created an extraordinary relationship with the largest local banks and
-                    development companies, due to his impeccable track record as up to date none of his financially planned
-                    assets has had a default.
-                    <br>
-                    <br>
-
-                    In addition he has worked in over 70 projects across industries with diverse national or international clients,
-                    generating great returns, valued by those recurring clients by using Q&A as a preferred provider in
-                    investment banking services.
+                    Francisco  es Socio Fundador y Administrador de  Q&A Banca de Inversión desde el 2004 y está a cargo de las áreas de
+                    Financiamiento de Proyectos, Fusiones y Adquisiciones, Créditos Sindicados y de banca de inversión en el sector
+                    inmobiliario.
 
                     <br><br>
 
-                    Prior to founding Q&A, Francisco was  the Vice President of Project Finance in Helm Investment Bank, belonging to the
-                    Helm Banking Group with over USD 14 billion in assets, where he was in charge of all the project finance activities.
-                    <br><br>
-                    Preceding he was the CEO of Cross Border Financing for Suleasing Internacional, now part of the largest Colombian
-                    Bank Bancolombia, as well as in charge of leading financial product development.
-                    <br><br>
-                    Previous he worked with Colombian real estate development company Propiedad, part of the largest Colombian
-                    construction company Conconcreto,  as the Commercial Manager of the Group.
-                    <br><br>
-                    Earlier he was the Director in charge of all national purchases, financing construction equipment and materials for
-                    Conconcreto, Colombia’s largest construction company which has partnered up with global construction giant VINCI.
-                    <br><br>
-                    Francisco's other relevant experience include:
-                    <br><br>
-
-
-                    Frequent speaker on international leasing and Cross Border Financing events;
-                    <br><br>
-                    Author of technical financial publications.
-                    <br><br>
-
-
-                    Major in Science from Oglothorpe University  with an emphasis in Business Administration and Economic Science.
-                    <br><br>
-                    Programme in EAFIT Colombia in financial Management
-                    <br><br>
-                    Strategic Planning IDB – Dublin (1997)
+                    Durante su trabajo en Q&A Banca de Inversión ha logrado la estructuración financiera de cerca de 1 millón de
+                    m² de área útil (GLA por sus siglas en inglés), de proyectos inmobiliarios de alto perfil en Colombia,
+                    recibiendo reconocimiento como uno de los líderes en la estructuración de proyectos inmobiliarios a nivel
+                    nacional.
 
                     <br><br>
 
-                    Corporate Finance – London (1998)
+                    Además, Francisco ha formado excelentes  relaciones con los principales bancos y empresas desarrolladoras
+                    locales debido a su impecable historial, dado que ninguno de los proyectos que ha estructurado ha caído en
+                    default.
 
                     <br><br>
 
-                    He speaks  fluent English and Spanish.
+                    Adicionalmente ha trabajado en más de 70 proyectos de diferentes industrias, para clientes nacionales e
+                    internacionales, generando una gran rentabilidad, logrando fidelidad de los clientes recurrentes, quienes
+                    usan a Q&A como proveedor predilecto de servicios en banca de inversión.
+                    <br><br>
+                    Antes de fundar Q&A Banca de Inversión, Francisco fue el Vicepresidente de Estructuración de Proyectos de la banca
+                    de inversión del Helmbank, que cuenta con más de USD 14 mil millones en activos, donde estuvo a cargo de todas las
+                    actividades relacionadas con la Estructuración de Proyectos.
+                    <br><br>
+                    Previamente fue Presidente de Financiamiento transfronterizo para Suleasing Internacional, actualmente parte del
+                    grupo bancario más grande de Colombia (Bancolombia) donde también estuvo a cargo del desarrollo de productos
+                    financieros.
+                    <br><br>
+
+
+                    Anteriormente trabajó como Director Comercial de la empresa desarrolladora Propiedad, parte de  Conconcreto, la
+                    compañía constructora más grande de Colombia.
+                    <br><br>
+                    Inicialmente, fue el Director encargado de las compras a nivel nacional de Conconcreto, dirigiendo la financiación de
+                    materiales y equipos de construcción para la compañía, la cual se alió recientemente con VINCI, una de las compañías
+                    de construcción más grandes  en el mundo.
+                    <br><br>
+                    Entre la restante experiencia profesional relevante de Francisco se destacan:
+                    <br><br>
+                    Ser conferencista recurrentemente en los principales eventos sobre Financiamiento Transfronterizo y leasing
+                    internacional.
+
+
+                    <br><br>
+                    Ser autor de diversas publicaciones técnicas en materia de finanzas.
+                    <br><br>
+                    Especialización en Ciencias de la Universidad de Oglothorpe con énfasis en Administración de Empresas y Economía.
+                    <br><br>
+                    Administrador Financiero de EAFIT, Colombia.
+                    <br><br>
+                    Especialización Planeación Estratégica IDB, Dublin (1997).
+                    <br><br>
+                    Maestría en Finanzas Corporativas , Londres (1998)
+                    <br><br>
+                    Habla Inglés y Español con fluidez.
                 </p>
             </figure>
             <figure class="federico">
                 <div>
-                    <img class="img-title" src="images/hv/FEDERICO.png">
+                    <img style="    width: 285px;margin-right: 222px;" class="img-title" src="images/hv/FEDERICO.png">
                 </div>
                 <p>
-                    Federico has extensive experience in the private and public sector, having served in high-profile positions in both.
+                    Federico cuenta con una vasta experiencia en los sectores público y privado, ocupando cargos de gran importancia.
                     <br><br>
-                    In the private sector he was the Chief Executive Officer for some of the largest Colombian corporations and groups
-                    conducting business in various sectors. His main tasks consisted of strategic and financial planning, business
-                    development and leading company growth strategies. The positions he held were:
-                    <br><br>
-                    CEO of Cementos Andino until it was sold to Cementos Argos, part of the Grupo Empresarial Antioqueño, a
-                    Colombian conglomerate of 125 companies with a market cap of over USD 54 billion.
-                    <br><br>
-                    Financial Vice-President and Executive Vice-President of Holasa S.A., belonging to two of the largest Japanese
-                    corporations (JFE Holdings and Mitsubishi Corporation), with a joint market cap of USD 11 billion.
-                    <br><br>
-                    Vice-President of “Coltejer”, the largest  textile manufacturer in Colombia with over USD 85 million in net
-                    sales.
+                    En el sector privado, fue Presidente (CEO) de algunas de las corporaciones y grupos más grandes de Colombia, dirigiendo
+                    negocios en diversos sectores. Sus principales labores consistieron en la planeación estratégica y financiera, el
+                    desarrollo empresarial y del liderazgo dentro de las estrategias de crecimiento de las empresas. Los cargos que ocupó
+                    fueron:
 
                     <br><br>
 
-                    CEO of Edospina, one of the leading water treatment companies in Colombia, which operates in sectors such
-                    as industry and oil & gas, with more than USD 15 million in annual revenue.
+                    Presidente de Cementos Andino hasta su venta a Cementos Argos, parte del Grupo Empresarial Antioqueño,
+                    un conglomerado colombiano compuesto por 125 compañías que tiene una capitalización de mercado de más
+                    de USD 54 mil millones.
                     <br><br>
-                    In the public sector Federico served as:
+
+
+                    Vicepresidente Ejecutivo y Financiero de Holasa S.A., la cual hace parte de dos de las corporaciones japonesas
+                    más grandes (JFE Holdings y Mitsubishi Corporation), que suman una capitalización de mercado de más de USD
+                    11 mil millones.
 
                     <br><br>
 
-                    Vice-Minister of Defense for Colombia during Alvaro Uribe’s government, managing a budget of USD 7.8
-                    billion, 15 corporations of the Ministry office as well as received national & international decorations.
-                    <br><br>
-                    Representative of the Colombian private sector during the negotiations and execution of the G-3 bilateral
-                    agreements between Colombia, Venezuela and Chile.
-                    <br><br>
-                    Main Consultant in New York for Federación Nacional de Cafeteros, where he executed the strategic plan for
-                    the creation of Juan Valdez stores. Since then, over 322 stores have been opened in Colombia and abroad,
-                    reaching an operating income of over USD 66 million in 2014.
-                    <br><br>
-                    Since 2005 he has been working as a Managing Partner of Colombian Investment bank Q&A.
-                    <br><br>
-                    Fellow in International Business of Harvard University.
-                    <br><br>
-                    Master in Economics, Oxford University.
+                    Vicepresidente de “Coltejer,”la compañía textil más grande de Colombia con más de USD 85 millones en
+                    ventas netas.
 
                     <br><br>
 
-                    MBA Terry School of Business, Georgia University.
+                    Presidente de Edospina, una de las compañías líderes en tratamiento de agua en Colombia, la cual opera en
+                    diversos sectores como el industrial, petrolero y gasífero y registra ingresos anuales de USD 15 millones.
                     <br><br>
-                    Engineer-Administrator, Mines Faculty, Universidad Nacional.
+                    En el sector público, Federico trabajó como:
                     <br><br>
-                    He holds a specialization in Investment Banking, Mergers & Acquisitions and Equity Funds.
+
+
+                    Viceministro de Defensa de Colombia durante el mandato del Presidente Ernesto Samper, administrando un
+                    presupuesto de USD 7.8 mil millones, y 15 corporaciones adscritas al Ministerio, así como también recibió
+                    reconocimientos nacionales e internacionales por su labor.
                     <br><br>
-                    Federico speaks fluent English and Spanish.
+                    Representante del sector privado colombiano durante las negociaciones y posterior ejecución de los acuerdos
+                    bilaterales  del G-3 entre Colombia, Venezuela y Chile.
+                    <br><br>
+                    Principal Consultor en Nueva York de la Federación Nacional de Cafeteros, donde ejecutó el plan estratégico
+                    que llevó a la creación de las tiendas Juan Valdez. Desde ese entonces, se han inaugurado más  de 322 tiendas
+                    a nivel mundial, alcanzando ingresos operacionales de más de USD 66 mil millones en el 2014.
+                    <br><br>
+                    Se ha desempeñado como Socio Director de la Banca de inversión colombiana Q&A Banca de Inversión desde el 2005.
+                    <br><br>
+                    Fellow en Negocios Internacionales de la Universidad de Harvard.
+                    <br><br>
+                    Maestría en Economía, Universidad de Oxford.
+
+
+                    <br><br>
+                    MBA de la Escuela de Negocios Terry, Universidad de Georgia.
+                    <br><br>
+                    Administrador-Ingeniero, Facultad de Minas, Universidad Nacional.
+                    <br><br>
+                    Realizó una Especialización en Banca de Inversión, Fusiones y Adquisiciones (M&A) y Fondos de Renta Variable.
+                    <br><br>
+                    Federico habla  Inglés y Español con fluidez.
                 </p>
             </figure>
         </div>
