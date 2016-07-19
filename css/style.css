@@ -307,7 +307,7 @@ CUERPO WRAPPER
 
 #wrapper{
     background: white ;
-    margin: 175px auto;
+    margin: 175px auto 0;
     position: relative;
     text-align: center;
     width: 1024px;
@@ -427,7 +427,7 @@ NOSOTROS
 
 .banner-nosotros{
     background: #002828;
-    height: 300px;
+    margin-bottom: 35px!important;
     width: 100%;
 }
 
@@ -698,6 +698,7 @@ footer a{
     color:#E3B92A;
     float: left;
     text-decoration: none;
+    width: 100%;
 }
 
 footer a:hover{
